@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405140;KeyPers_Shanghai_1230791;Name791;FistName791;2024-05-14 14:06:19;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202405141;KeyPers_Shanghai_1230994;Name994;FistName994;2024-05-14 14:32:37;PC fixe sans ecran;Mac mini
+Shanghai_MATERIEL_INFO_202405142;KeyPers_Shanghai_1230724;Name724;FistName724;2024-05-14 15:46:38;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202405143;KeyPers_Shanghai_1230612;Name612;FistName612;2024-05-14 15:18:44; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202405144;KeyPers_Shanghai_1230565;Name565;FistName565;2024-05-14 15:50:28;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202405145;KeyPers_Shanghai_1230069;Name69;FistName69;2024-05-14 15:46:02;PC portable;EliteBook 10xx

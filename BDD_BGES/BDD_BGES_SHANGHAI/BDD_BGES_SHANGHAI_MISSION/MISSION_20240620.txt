@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202406200;KeyPers_Shanghai_1230236;Name236;FistName236;2024-06-20 05:35:57;Business Meeting;Shanghai;China;Alger;Algeria;Avion;oui
+Shanghai_202406201;KeyPers_Shanghai_1230070;Name70;FistName70;2024-06-20 09:18:47;Team Meeting;Shanghai;China;Tokyo;Japan;Avion;oui
+Shanghai_202406202;KeyPers_Shanghai_1230694;Name694;FistName694;2024-06-20 12:53:58;Business Meeting;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_202406203;KeyPers_Shanghai_1230417;Name417;FistName417;2024-06-20 14:22:42;Team Meeting;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_202406204;KeyPers_Shanghai_1230044;Name44;FistName44;2024-06-20 12:56:56;Development;Shanghai;China;Dubaï;Emirats;Avion;non
+Shanghai_202406205;KeyPers_Shanghai_1230874;Name874;FistName874;2024-06-20 14:22:28;Development;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_202406206;KeyPers_Shanghai_1230589;Name589;FistName589;2024-06-20 23:10:21;Team Meeting;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202406207;KeyPers_Shanghai_1230820;Name820;FistName820;2024-06-20 12:24:30;Vocational Training;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202406208;KeyPers_Shanghai_1230944;Name944;FistName944;2024-06-20 06:32:54;Conference;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_202406209;KeyPers_Shanghai_1230088;Name88;FistName88;2024-06-20 06:55:01;Development;Shanghai;China;Osaka;Japan;Avion;oui
+Shanghai_2024062010;KeyPers_Shanghai_1230199;Name199;FistName199;2024-06-20 08:50:56;Conference;Shanghai;China;Lille;France;Avion;oui
+Shanghai_2024062011;KeyPers_Shanghai_1230507;Name507;FistName507;2024-06-20 22:15:04;Conference;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_2024062012;KeyPers_Shanghai_1230608;Name608;FistName608;2024-06-20 19:18:12;Vocational Training;Paris;France;Lille;France;Avion;oui
+Shanghai_2024062013;KeyPers_Shanghai_1230888;Name888;FistName888;2024-06-20 04:22:08;Business Meeting;Shanghai;China;Oslo;Norvège;Avion;oui

@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406290;KeyPers_Shanghai_1230395;Name395;FistName395;2024-06-29 09:41:57;PC fixe tout-en-un;Optiplex All-in-One 5xxx
+Shanghai_MATERIEL_INFO_202406291;KeyPers_Shanghai_1230747;Name747;FistName747;2024-06-29 08:13:07;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202406292;KeyPers_Shanghai_1230582;Name582;FistName582;2024-06-29 09:19:27;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202406293;KeyPers_Shanghai_1230302;Name302;FistName302;2024-06-29 11:30:19;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202406294;KeyPers_Shanghai_1230016;Name16;FistName16;2024-06-29 14:46:34; ;ZBook Studio
+Shanghai_MATERIEL_INFO_202406295;KeyPers_Shanghai_1230148;Name148;FistName148;2024-06-29 16:41:39;Station d'accueil;modèle par défaut
+Shanghai_MATERIEL_INFO_202406296;KeyPers_Shanghai_1230384;Name384;FistName384;2024-06-29 15:36:29;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202406297;KeyPers_Shanghai_1230239;Name239;FistName239;2024-06-29 14:12:29;Smartphone;modèle par défaut

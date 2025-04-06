@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202408260;KeyPers_NewYork_1232072;Name2072;FistName2072;2024-08-26 13:23:53; ;Optiplex tower
+NewYork_MATERIEL_INFO_202408261;KeyPers_NewYork_1231901;Name1901;FistName1901;2024-08-26 10:17:28;PC portable;ZBook
+NewYork_MATERIEL_INFO_202408262;KeyPers_NewYork_1231127;Name1127;FistName1127;2024-08-26 11:55:52;PC fixe sans ecran;Optiplex tower
+NewYork_MATERIEL_INFO_202408263;KeyPers_NewYork_1230899;Name899;FistName899;2024-08-26 11:18:59; ;Precision 7xxx
+NewYork_MATERIEL_INFO_202408264;KeyPers_NewYork_1232186;Name2186;FistName2186;2024-08-26 08:46:21;PC portable;MacBook pro 13pouces
+NewYork_MATERIEL_INFO_202408265;KeyPers_NewYork_1230424;Name424;FistName424;2024-08-26 09:34:19;PC fixe sans ecran;Station de travail (moy)
+NewYork_MATERIEL_INFO_202408266;KeyPers_NewYork_1230711;Name711;FistName711;2024-08-26 15:17:30;Smartphone;modèle par défaut
+NewYork_MATERIEL_INFO_202408267;KeyPers_NewYork_1230544;Name544;FistName544;2024-08-26 16:02:18;PC fixe tout-en-un;iMac 21pouces
+NewYork_MATERIEL_INFO_202408268;KeyPers_NewYork_1231308;Name1308;FistName1308;2024-08-26 11:23:24;Vidéo projecteur;Transportable
+NewYork_MATERIEL_INFO_202408269;KeyPers_NewYork_1231318;Name1318;FistName1318;2024-08-26 08:29:40;PC fixe sans ecran;modèle par défaut
+NewYork_MATERIEL_INFO_2024082610;KeyPers_NewYork_1232473;Name2473;FistName2473;2024-08-26 09:28:42;Serveur;Serveur de stockage
+NewYork_MATERIEL_INFO_2024082611;KeyPers_NewYork_1231150;Name1150;FistName1150;2024-08-26 10:18:49;PC portable;Latitude 3xxx
+NewYork_MATERIEL_INFO_2024082612;KeyPers_NewYork_1232016;Name2016;FistName2016;2024-08-26 08:42:04; ;Precision tower 3xxx

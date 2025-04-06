@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202409140;KeyPers_London_1230033;Name33;FistName33;2024-09-14 08:27:10;Vocational Training;London;England;Washington;USA;Avion;oui
+LONDON_202409141;KeyPers_London_1233699;Name3699;FistName3699;2024-09-14 14:29:20;Development;London;England;Los Angeles;USA;Avion;non
+LONDON_202409142;KeyPers_London_1230189;Name189;FistName189;2024-09-14 12:15:27;Development;London;England;London;England;Transports en commun;oui
+LONDON_202409143;KeyPers_London_1230038;Name38;FistName38;2024-09-14 18:55:07;Conference;London;England;Melbourne;Australia;Avion;oui
+LONDON_202409144;KeyPers_London_1232151;Name2151;FistName2151;2024-09-14 22:24:10;Conference;London;England;Montreal;Canada;Avion;oui
+LONDON_202409145;KeyPers_London_1230550;Name550;FistName550;2024-09-14 10:07:38;Conference;London;England;Lima;Peru;Avion;oui
+LONDON_202409146;KeyPers_London_1232385;Name2385;FistName2385;2024-09-14 10:07:38;Team Meeting;London;England;Sidney;Australia;Avion;oui
+LONDON_202409147;KeyPers_London_1231140;Name1140;FistName1140;2024-09-14 10:15:57;Vocational Training;London;England;Bordeaux;France;Avion;oui
+LONDON_202409148;KeyPers_London_1232410;Name2410;FistName2410;2024-09-14 04:59:39;Development;Paris;France;Oslo;Norvège;Avion;non
+LONDON_202409149;KeyPers_London_1233231;Name3231;FistName3231;2024-09-14 20:32:40;Development;London;England;Pekin;China;Avion;oui
+LONDON_2024091410;KeyPers_London_1230094;Name94;FistName94;2024-09-14 05:04:47;Team Meeting;Paris;France;Marseille;France;Avion;oui
+LONDON_2024091411;KeyPers_London_1232545;Name2545;FistName2545;2024-09-14 07:16:57;Conference;London;England;Shanghai;China;Avion;oui
+LONDON_2024091412;KeyPers_London_1232167;Name2167;FistName2167;2024-09-14 14:52:12;Conference;Shanghai;China;Wellington;New Zealand;Avion;oui
+LONDON_2024091413;KeyPers_London_1231718;Name1718;FistName1718;2024-09-14 09:07:36;Vocational Training;London;England;Osaka;Japan;Avion;oui
+LONDON_2024091414;KeyPers_London_1232188;Name2188;FistName2188;2024-09-14 10:43:02;Conference;London;England;New-York;USA;Avion;oui

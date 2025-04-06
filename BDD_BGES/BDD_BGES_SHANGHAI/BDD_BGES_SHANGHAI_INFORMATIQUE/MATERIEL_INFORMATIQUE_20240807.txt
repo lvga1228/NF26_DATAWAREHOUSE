@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408070;KeyPers_Shanghai_1230239;Name239;FistName239;2024-08-07 10:41:17;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202408071;KeyPers_Shanghai_1230972;Name972;FistName972;2024-08-07 13:35:42;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202408072;KeyPers_Shanghai_1230156;Name156;FistName156;2024-08-07 12:39:01;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202408073;KeyPers_Shanghai_1230078;Name78;FistName78;2024-08-07 15:41:57; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202408074;KeyPers_Shanghai_1230257;Name257;FistName257;2024-08-07 12:52:09;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202408075;KeyPers_Shanghai_1230248;Name248;FistName248;2024-08-07 12:06:47; ;MacBook air
+Shanghai_MATERIEL_INFO_202408076;KeyPers_Shanghai_1230442;Name442;FistName442;2024-08-07 14:16:15;PC portable;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202408077;KeyPers_Shanghai_1230043;Name43;FistName43;2024-08-07 10:56:11;PC fixe sans ecran;Mac mini

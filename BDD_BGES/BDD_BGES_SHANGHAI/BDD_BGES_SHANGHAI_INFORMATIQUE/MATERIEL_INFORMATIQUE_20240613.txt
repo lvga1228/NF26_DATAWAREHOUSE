@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406130;KeyPers_Shanghai_1230061;Name61;FistName61;2024-06-13 08:51:08;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202406131;KeyPers_Shanghai_1230526;Name526;FistName526;2024-06-13 10:28:38;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202406132;KeyPers_Shanghai_1230585;Name585;FistName585;2024-06-13 08:56:46; ;Victus
+Shanghai_MATERIEL_INFO_202406133;KeyPers_Shanghai_1230577;Name577;FistName577;2024-06-13 10:07:14;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202406134;KeyPers_Shanghai_1230183;Name183;FistName183;2024-06-13 09:39:26; ;ZBook
+Shanghai_MATERIEL_INFO_202406135;KeyPers_Shanghai_1230623;Name623;FistName623;2024-06-13 10:13:25;PC portable;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202406136;KeyPers_Shanghai_1230845;Name845;FistName845;2024-06-13 14:53:21;Vidéo projecteur;modèle par défaut
+Shanghai_MATERIEL_INFO_202406137;KeyPers_Shanghai_1230660;Name660;FistName660;2024-06-13 15:30:20;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_202406138;KeyPers_Shanghai_1230832;Name832;FistName832;2024-06-13 15:19:02;Ecran;24pouces-31pouces

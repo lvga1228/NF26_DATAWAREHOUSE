@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202409270;KeyPers_Paris_1233183;Name3183;FistName3183;2024-09-27 15:52:51;Conférence;New-York;USA;Lima;Peru;Avion;oui
+Paris_202409271;KeyPers_Paris_1233621;Name3621;FistName3621;2024-09-27 21:54:21;Conférence;Paris;France;New-York;USA;Avion;oui
+Paris_202409272;KeyPers_Paris_1233392;Name3392;FistName3392;2024-09-27 16:11:13;Développement;New-York;USA;Washington;USA;Taxi;oui
+Paris_202409273;KeyPers_Paris_1232321;Name2321;FistName2321;2024-09-27 07:55:51;Rencontre entreprises;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_202409274;KeyPers_Paris_1234005;Name4005;FistName4005;2024-09-27 13:14:58;Réunion;Paris;France;Marseille;France;Train;non
+Paris_202409275;KeyPers_Paris_1233843;Name3843;FistName3843;2024-09-27 12:25:37;Formation;Paris;France;Oslo;Norvège;Avion;oui
+Paris_202409276;KeyPers_Paris_1233571;Name3571;FistName3571;2024-09-27 14:45:37;Rencontre entreprises;Shanghai;China;Tunis;Tunisie;Avion;oui
+Paris_202409277;KeyPers_Paris_1233746;Name3746;FistName3746;2024-09-27 05:20:39;Développement;Paris;France;Lima;Peru;Avion;oui
+Paris_202409278;KeyPers_Paris_1231603;Name1603;FistName1603;2024-09-27 07:29:20;Développement;Paris;France;Bordeaux;France;Train;oui
+Paris_202409279;KeyPers_Paris_1234281;Name4281;FistName4281;2024-09-27 14:34:11;Rencontre entreprises;Paris;France;Lima;Peru;Avion;oui
+Paris_2024092710;KeyPers_Paris_1233332;Name3332;FistName3332;2024-09-27 07:17:07;Conférence;Paris;France;Compiègne;France;Avion;oui
+Paris_2024092711;KeyPers_Paris_1234656;Name4656;FistName4656;2024-09-27 12:59:51;Réunion;Paris;France;Los Angeles;USA;Avion;oui
+Paris_2024092712;KeyPers_Paris_1234754;Name4754;FistName4754;2024-09-27 10:45:56;Développement;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024092713;KeyPers_Paris_1230547;Name547;FistName547;2024-09-27 08:24:11;Conférence;Paris;France;Tokyo;Japan;Avion;oui
+Paris_2024092714;KeyPers_Paris_1230168;Name168;FistName168;2024-09-27 16:45:23;Formation;Paris;France;Bordeaux;France;Avion;non
+Paris_2024092715;KeyPers_Paris_1233576;Name3576;FistName3576;2024-09-27 23:14:26;Rencontre entreprises;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_2024092716;KeyPers_Paris_1231985;Name1985;FistName1985;2024-09-27 18:55:52;Conférence;Shanghai;China;Shanghai;China;Transports en commun;oui
+Paris_2024092717;KeyPers_Paris_1230384;Name384;FistName384;2024-09-27 18:59:44;Rencontre entreprises;Paris;France;Marseille;France;Avion;oui
+Paris_2024092718;KeyPers_Paris_1233132;Name3132;FistName3132;2024-09-27 05:16:11;Rencontre entreprises;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_2024092719;KeyPers_Paris_1233779;Name3779;FistName3779;2024-09-27 14:54:34;Formation;Paris;France;Buenos Aires;Argentina;Avion;oui
+Paris_2024092720;KeyPers_Paris_1232360;Name2360;FistName2360;2024-09-27 14:34:14;Conférence;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2024092721;KeyPers_Paris_1230306;Name306;FistName306;2024-09-27 07:41:49;Formation;Paris;France;New-York;USA;Avion;oui
+Paris_2024092722;KeyPers_Paris_1234565;Name4565;FistName4565;2024-09-27 07:31:29;Développement;Paris;France;Melbourne;Australia;Avion;oui
+Paris_2024092723;KeyPers_Paris_1231768;Name1768;FistName1768;2024-09-27 18:17:19;Formation;Paris;France;Sidney;Australia;Avion;oui
+Paris_2024092724;KeyPers_Paris_1233521;Name3521;FistName3521;2024-09-27 02:23:36;Développement;Paris;France;Sao Paulo;Brazil;Avion;non
+Paris_2024092725;KeyPers_Paris_1232046;Name2046;FistName2046;2024-09-27 23:15:18;Rencontre entreprises;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024092726;KeyPers_Paris_1234675;Name4675;FistName4675;2024-09-27 01:32:43;Développement;Paris;France;Shanghai;China;Avion;oui
+Paris_2024092727;KeyPers_Paris_1232982;Name2982;FistName2982;2024-09-27 14:51:41;Formation;Shanghai;China;Mexico;Mexico;Avion;non
+Paris_2024092728;KeyPers_Paris_1234221;Name4221;FistName4221;2024-09-27 22:07:46;Rencontre entreprises;Paris;France;Washington;USA;Avion;oui

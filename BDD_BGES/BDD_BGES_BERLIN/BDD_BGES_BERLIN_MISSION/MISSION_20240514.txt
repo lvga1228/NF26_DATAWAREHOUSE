@@ -1,0 +1,40 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202405140;KeyPers_Berlin_1230388;Name388;FistName388;2024-05-14 21:33:17;Entwicklung;Paris;France;Melbourne;Australia;Avion;oui
+BERLIN_202405141;KeyPers_Berlin_1233067;Name3067;FistName3067;2024-05-14 15:09:06;Konferenz;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_202405142;KeyPers_Berlin_1233185;Name3185;FistName3185;2024-05-14 21:31:50;Schulung;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_202405143;KeyPers_Berlin_1232211;Name2211;FistName2211;2024-05-14 21:44:20;Geschäftstreffen;Berlin;Allemagne;Montreal;Canada;Avion;non
+BERLIN_202405144;KeyPers_Berlin_1232549;Name2549;FistName2549;2024-05-14 11:25:10;Schulung;Berlin;Allemagne;Sao Paulo;Brazil;Avion;oui
+BERLIN_202405145;KeyPers_Berlin_1231517;Name1517;FistName1517;2024-05-14 22:04:33;Geschäftstreffen;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_202405146;KeyPers_Berlin_1233082;Name3082;FistName3082;2024-05-14 19:02:46;Schulung;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_202405147;KeyPers_Berlin_1230623;Name623;FistName623;2024-05-14 16:50:56;Schulung;Berlin;Allemagne;Tokyo;Japan;Avion;oui
+BERLIN_202405148;KeyPers_Berlin_1233336;Name3336;FistName3336;2024-05-14 20:54:31;Entwicklung;Berlin;Allemagne;Tokyo;Japan;Avion;oui
+BERLIN_202405149;KeyPers_Berlin_1234031;Name4031;FistName4031;2024-05-14 21:05:46;Konferenz;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_2024051410;KeyPers_Berlin_1233609;Name3609;FistName3609;2024-05-14 20:14:06;Geschäftstreffen;Berlin;Allemagne;London;England;Avion;oui
+BERLIN_2024051411;KeyPers_Berlin_1230153;Name153;FistName153;2024-05-14 16:43:37;Geschäftstreffen;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2024051412;KeyPers_Berlin_1232952;Name2952;FistName2952;2024-05-14 06:53:01;Meeting;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2024051413;KeyPers_Berlin_1233537;Name3537;FistName3537;2024-05-14 07:44:43;Konferenz;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_2024051414;KeyPers_Berlin_1234047;Name4047;FistName4047;2024-05-14 06:04:18;Meeting;Berlin;Allemagne;Alger;Algeria;Avion;oui
+BERLIN_2024051415;KeyPers_Berlin_1232801;Name2801;FistName2801;2024-05-14 13:40:38;Schulung;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_2024051416;KeyPers_Berlin_1233775;Name3775;FistName3775;2024-05-14 11:25:59;Meeting;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024051417;KeyPers_Berlin_1231237;Name1237;FistName1237;2024-05-14 15:15:43;Schulung;Paris;France;Sao Paulo;Brazil;Avion;oui
+BERLIN_2024051418;KeyPers_Berlin_1233340;Name3340;FistName3340;2024-05-14 10:26:27;Geschäftstreffen;Berlin;Allemagne;Wellington;New Zealand;Avion;oui
+BERLIN_2024051419;KeyPers_Berlin_1232326;Name2326;FistName2326;2024-05-14 03:14:42;Entwicklung;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_2024051420;KeyPers_Berlin_1232559;Name2559;FistName2559;2024-05-14 16:04:25;Konferenz;Berlin;Allemagne;Dubaï;Emirats;Avion;oui
+BERLIN_2024051421;KeyPers_Berlin_1230251;Name251;FistName251;2024-05-14 13:39:13;Konferenz;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_2024051422;KeyPers_Berlin_1232247;Name2247;FistName2247;2024-05-14 15:50:52;Konferenz;Berlin;Allemagne;Stockholm;Suède;Avion;non
+BERLIN_2024051423;KeyPers_Berlin_1231180;Name1180;FistName1180;2024-05-14 12:47:06;Konferenz;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_2024051424;KeyPers_Berlin_1231018;Name1018;FistName1018;2024-05-14 05:24:04;Meeting;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2024051425;KeyPers_Berlin_1233317;Name3317;FistName3317;2024-05-14 22:57:10;Meeting;Berlin;Allemagne;Alger;Algeria;Avion;oui
+BERLIN_2024051426;KeyPers_Berlin_1232881;Name2881;FistName2881;2024-05-14 18:54:40;Schulung;Paris;France;Tokyo;Japan;Avion;oui
+BERLIN_2024051427;KeyPers_Berlin_1231231;Name1231;FistName1231;2024-05-14 22:38:40;Entwicklung;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_2024051428;KeyPers_Berlin_1233023;Name3023;FistName3023;2024-05-14 19:40:14;Konferenz;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_2024051429;KeyPers_Berlin_1233877;Name3877;FistName3877;2024-05-14 14:20:31;Schulung;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2024051430;KeyPers_Berlin_1234144;Name4144;FistName4144;2024-05-14 20:09:30;Schulung;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024051431;KeyPers_Berlin_1231051;Name1051;FistName1051;2024-05-14 15:31:18;Geschäftstreffen;Paris;France;New-York;USA;Avion;oui
+BERLIN_2024051432;KeyPers_Berlin_1231796;Name1796;FistName1796;2024-05-14 14:21:59;Geschäftstreffen;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2024051433;KeyPers_Berlin_1230751;Name751;FistName751;2024-05-14 01:34:43;Entwicklung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2024051434;KeyPers_Berlin_1231985;Name1985;FistName1985;2024-05-14 04:29:48;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_2024051435;KeyPers_Berlin_1230834;Name834;FistName834;2024-05-14 20:38:51;Entwicklung;Berlin;Allemagne;Mexico;Mexico;Avion;non
+BERLIN_2024051436;KeyPers_Berlin_1234041;Name4041;FistName4041;2024-05-14 01:34:13;Meeting;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2024051437;KeyPers_Berlin_1232263;Name2263;FistName2263;2024-05-14 02:50:38;Meeting;New-York;USA;Washington;USA;Avion;oui
+BERLIN_2024051438;KeyPers_Berlin_1233478;Name3478;FistName3478;2024-05-14 04:49:55;Schulung;Berlin;Allemagne;Wellington;New Zealand;Avion;oui

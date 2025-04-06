@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202408060;KeyPers_NewYork_1232383;Name2383;FistName2383;2024-08-06 19:23:15;Conference;New-York;USA;Lille;France;Avion;oui
+NewYork_202408061;KeyPers_NewYork_1231298;Name1298;FistName1298;2024-08-06 19:01:15;Vocational Training;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+NewYork_202408062;KeyPers_NewYork_1230418;Name418;FistName418;2024-08-06 06:34:52;Team Meeting;New-York;USA;Oslo;Norvège;Avion;oui
+NewYork_202408063;KeyPers_NewYork_1232547;Name2547;FistName2547;2024-08-06 18:27:59;Conference;Paris;France;Tokyo;Japan;Avion;oui
+NewYork_202408064;KeyPers_NewYork_1232282;Name2282;FistName2282;2024-08-06 05:42:52;Development;New-York;USA;Lille;France;Avion;oui
+NewYork_202408065;KeyPers_NewYork_1232258;Name2258;FistName2258;2024-08-06 22:22:20;Business Meeting;New-York;USA;Rio de Janeiro;Brazil;Avion;oui
+NewYork_202408066;KeyPers_NewYork_1232998;Name2998;FistName2998;2024-08-06 07:44:43;Business Meeting;New-York;USA;Vancouver;Canada;Avion;oui
+NewYork_202408067;KeyPers_NewYork_1230796;Name796;FistName796;2024-08-06 01:23:38;Vocational Training;New-York;USA;Alger;Algeria;Avion;oui
+NewYork_202408068;KeyPers_NewYork_1232185;Name2185;FistName2185;2024-08-06 05:50:31;Team Meeting;New-York;USA;Dubaï;Emirats;Avion;oui
+NewYork_202408069;KeyPers_NewYork_1230905;Name905;FistName905;2024-08-06 07:46:31;Business Meeting;New-York;USA;Marseille;France;Avion;non
+NewYork_2024080610;KeyPers_NewYork_1231214;Name1214;FistName1214;2024-08-06 17:12:13;Vocational Training;New-York;USA;London;England;Avion;oui
+NewYork_2024080611;KeyPers_NewYork_1231381;Name1381;FistName1381;2024-08-06 17:20:24;Development;New-York;USA;Bordeaux;France;Avion;oui
+NewYork_2024080612;KeyPers_NewYork_1231285;Name1285;FistName1285;2024-08-06 08:13:11;Conference;New-York;USA;Washington;USA;Train;oui
+NewYork_2024080613;KeyPers_NewYork_1232216;Name2216;FistName2216;2024-08-06 14:44:36;Conference;New-York;USA;Mexico;Mexico;Avion;non

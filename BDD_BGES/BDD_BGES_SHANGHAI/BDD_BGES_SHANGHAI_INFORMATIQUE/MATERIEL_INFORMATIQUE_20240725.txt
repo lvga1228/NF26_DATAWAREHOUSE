@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407250;KeyPers_Shanghai_1230308;Name308;FistName308;2024-07-25 14:24:26;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+Shanghai_MATERIEL_INFO_202407251;KeyPers_Shanghai_1230754;Name754;FistName754;2024-07-25 15:20:05; ;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202407252;KeyPers_Shanghai_1230623;Name623;FistName623;2024-07-25 13:11:47; ;Noeud de calcul
+Shanghai_MATERIEL_INFO_202407253;KeyPers_Shanghai_1230886;Name886;FistName886;2024-07-25 09:47:10; ;Transportable
+Shanghai_MATERIEL_INFO_202407254;KeyPers_Shanghai_1230086;Name86;FistName86;2024-07-25 14:53:01;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202407255;KeyPers_Shanghai_1230083;Name83;FistName83;2024-07-25 08:04:22;Ecran;24pouces-31pouces
+Shanghai_MATERIEL_INFO_202407256;KeyPers_Shanghai_1230091;Name91;FistName91;2024-07-25 15:11:11;Ecran;32pouces et plus
+Shanghai_MATERIEL_INFO_202407257;KeyPers_Shanghai_1230596;Name596;FistName596;2024-07-25 15:56:11;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_202407258;KeyPers_Shanghai_1230826;Name826;FistName826;2024-07-25 13:12:52;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202407259;KeyPers_Shanghai_1230105;Name105;FistName105;2024-07-25 11:34:52;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_2024072510;KeyPers_Shanghai_1230396;Name396;FistName396;2024-07-25 10:25:25;PC portable;MacBook air retina

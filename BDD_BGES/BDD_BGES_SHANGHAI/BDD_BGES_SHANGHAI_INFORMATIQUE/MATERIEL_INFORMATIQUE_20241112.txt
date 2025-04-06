@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202411120;KeyPers_Shanghai_1230014;Name14;FistName14;2024-11-12 16:51:39;Borne wifi; 
+Shanghai_MATERIEL_INFO_202411121;KeyPers_Shanghai_1230524;Name524;FistName524;2024-11-12 11:38:13;PC portable;MacBook pro 15/16pouces
+Shanghai_MATERIEL_INFO_202411122;KeyPers_Shanghai_1230095;Name95;FistName95;2024-11-12 14:19:28;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_202411123;KeyPers_Shanghai_1230499;Name499;FistName499;2024-11-12 11:50:51;PC fixe tout-en-un; 
+Shanghai_MATERIEL_INFO_202411124;KeyPers_Shanghai_1230489;Name489;FistName489;2024-11-12 16:47:05;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202411125;KeyPers_Shanghai_1230854;Name854;FistName854;2024-11-12 09:35:03;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202411126;KeyPers_Shanghai_1230135;Name135;FistName135;2024-11-12 16:09:23;PC fixe tout-en-un;Optiplex All-in-One 5xxx
+Shanghai_MATERIEL_INFO_202411127;KeyPers_Shanghai_1230831;Name831;FistName831;2024-11-12 11:36:23;PC portable;EliteBook 8xx

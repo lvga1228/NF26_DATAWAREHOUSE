@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406110;KeyPers_Shanghai_1230727;Name727;FistName727;2024-06-11 15:28:51;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202406111;KeyPers_Shanghai_1230902;Name902;FistName902;2024-06-11 12:35:16; ;24pouces-31pouces
+Shanghai_MATERIEL_INFO_202406112;KeyPers_Shanghai_1230993;Name993;FistName993;2024-06-11 16:14:01;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202406113;KeyPers_Shanghai_1230796;Name796;FistName796;2024-06-11 13:05:12;Serveur;Noeud de calcul
+Shanghai_MATERIEL_INFO_202406114;KeyPers_Shanghai_1230469;Name469;FistName469;2024-06-11 08:19:01;Ecran;24pouces-31pouces
+Shanghai_MATERIEL_INFO_202406115;KeyPers_Shanghai_1230271;Name271;FistName271;2024-06-11 14:09:26;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202406116;KeyPers_Shanghai_1230005;Name5;FistName5;2024-06-11 16:42:46;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202406117;KeyPers_Shanghai_1230670;Name670;FistName670;2024-06-11 12:49:50; ;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202406118;KeyPers_Shanghai_1230594;Name594;FistName594;2024-06-11 13:33:05;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202406119;KeyPers_Shanghai_1230347;Name347;FistName347;2024-06-11 14:33:32;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_2024061110;KeyPers_Shanghai_1230077;Name77;FistName77;2024-06-11 11:54:44;PC portable;Precision 3xxx

@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202410140;KeyPers_Berlin_1231750;Name1750;FistName1750;2024-10-14 06:23:16;Meeting;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_202410141;KeyPers_Berlin_1231360;Name1360;FistName1360;2024-10-14 06:05:33;Schulung;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_202410142;KeyPers_Berlin_1230968;Name968;FistName968;2024-10-14 08:31:45;Schulung;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202410143;KeyPers_Berlin_1230801;Name801;FistName801;2024-10-14 22:47:32;Meeting;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_202410144;KeyPers_Berlin_1234115;Name4115;FistName4115;2024-10-14 15:19:34;Entwicklung;Berlin;Allemagne;Osaka;Japan;Avion;oui
+BERLIN_202410145;KeyPers_Berlin_1232869;Name2869;FistName2869;2024-10-14 22:50:05;Geschäftstreffen;Berlin;Allemagne;Sidney;Australia;Avion;non
+BERLIN_202410146;KeyPers_Berlin_1233894;Name3894;FistName3894;2024-10-14 05:49:45;Konferenz;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202410147;KeyPers_Berlin_1231300;Name1300;FistName1300;2024-10-14 15:04:06;Schulung;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_202410148;KeyPers_Berlin_1233420;Name3420;FistName3420;2024-10-14 01:17:20;Geschäftstreffen;Berlin;Allemagne;Los Angeles;USA;Avion;oui
+BERLIN_202410149;KeyPers_Berlin_1230915;Name915;FistName915;2024-10-14 21:31:23;Schulung;Berlin;Allemagne;Tokyo;Japan;Avion;oui
+BERLIN_2024101410;KeyPers_Berlin_1232934;Name2934;FistName2934;2024-10-14 18:32:46;Konferenz;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024101411;KeyPers_Berlin_1232956;Name2956;FistName2956;2024-10-14 02:54:25;Meeting;Berlin;Allemagne;Wellington;New Zealand;Avion;oui
+BERLIN_2024101412;KeyPers_Berlin_1230827;Name827;FistName827;2024-10-14 02:57:16;Entwicklung;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_2024101413;KeyPers_Berlin_1231838;Name1838;FistName1838;2024-10-14 21:48:36;Geschäftstreffen;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_2024101414;KeyPers_Berlin_1233966;Name3966;FistName3966;2024-10-14 18:58:36;Meeting;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024101415;KeyPers_Berlin_1234041;Name4041;FistName4041;2024-10-14 18:45:46;Entwicklung;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2024101416;KeyPers_Berlin_1231958;Name1958;FistName1958;2024-10-14 14:41:20;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_2024101417;KeyPers_Berlin_1232112;Name2112;FistName2112;2024-10-14 05:16:41;Entwicklung;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024101418;KeyPers_Berlin_1231917;Name1917;FistName1917;2024-10-14 13:47:22;Schulung;Berlin;Allemagne;Bordeaux;France;Avion;oui
+BERLIN_2024101419;KeyPers_Berlin_1233346;Name3346;FistName3346;2024-10-14 21:54:55;Schulung;Berlin;Allemagne;London;England;Avion;oui
+BERLIN_2024101420;KeyPers_Berlin_1232505;Name2505;FistName2505;2024-10-14 05:46:09;Meeting;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_2024101421;KeyPers_Berlin_1233157;Name3157;FistName3157;2024-10-14 18:11:24;Entwicklung;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_2024101422;KeyPers_Berlin_1230674;Name674;FistName674;2024-10-14 01:04:49;Konferenz;Paris;France;Lille;France;Train;oui
+BERLIN_2024101423;KeyPers_Berlin_1232749;Name2749;FistName2749;2024-10-14 23:56:19;Konferenz;Berlin;Allemagne;Los Angeles;USA;Avion;oui
+BERLIN_2024101424;KeyPers_Berlin_1234066;Name4066;FistName4066;2024-10-14 17:47:24;Geschäftstreffen;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_2024101425;KeyPers_Berlin_1231834;Name1834;FistName1834;2024-10-14 10:58:11;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_2024101426;KeyPers_Berlin_1230651;Name651;FistName651;2024-10-14 02:15:06;Schulung;Paris;France;London;England;Avion;oui
+BERLIN_2024101427;KeyPers_Berlin_1230760;Name760;FistName760;2024-10-14 01:56:44;Meeting;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_2024101428;KeyPers_Berlin_1234012;Name4012;FistName4012;2024-10-14 16:18:45;Konferenz;Berlin;Allemagne;Lille;France;Avion;oui

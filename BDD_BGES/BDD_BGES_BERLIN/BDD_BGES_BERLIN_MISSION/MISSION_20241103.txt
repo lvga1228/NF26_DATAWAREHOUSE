@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202411030;KeyPers_Berlin_1232269;Name2269;FistName2269;2024-11-03 05:21:30;Schulung;Berlin;Allemagne;Wellington;New Zealand;Avion;oui
+BERLIN_202411031;KeyPers_Berlin_1234009;Name4009;FistName4009;2024-11-03 08:33:05;Schulung;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_202411032;KeyPers_Berlin_1230742;Name742;FistName742;2024-11-03 20:17:41;Schulung;Paris;France;Washington;USA;Avion;oui
+BERLIN_202411033;KeyPers_Berlin_1230288;Name288;FistName288;2024-11-03 17:27:39;Schulung;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_202411034;KeyPers_Berlin_1231691;Name1691;FistName1691;2024-11-03 15:38:51;Meeting;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_202411035;KeyPers_Berlin_1232650;Name2650;FistName2650;2024-11-03 03:14:43;Konferenz;Shanghai;China;Berlin;Allemagne;Avion;oui
+BERLIN_202411036;KeyPers_Berlin_1232243;Name2243;FistName2243;2024-11-03 09:03:43;Geschäftstreffen;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_202411037;KeyPers_Berlin_1233853;Name3853;FistName3853;2024-11-03 07:09:44;Meeting;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_202411038;KeyPers_Berlin_1231152;Name1152;FistName1152;2024-11-03 21:42:43;Meeting;Berlin;Allemagne;Oslo;Norvège;Avion;non
+BERLIN_202411039;KeyPers_Berlin_1233503;Name3503;FistName3503;2024-11-03 14:02:51;Geschäftstreffen;Berlin;Allemagne;London;England;Avion;non
+BERLIN_2024110310;KeyPers_Berlin_1232958;Name2958;FistName2958;2024-11-03 14:54:32;Schulung;Paris;France;Melbourne;Australia;Avion;oui
+BERLIN_2024110311;KeyPers_Berlin_1230475;Name475;FistName475;2024-11-03 04:33:12;Geschäftstreffen;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2024110312;KeyPers_Berlin_1233857;Name3857;FistName3857;2024-11-03 21:27:45;Geschäftstreffen;Paris;France;Rabat;Maroc;Avion;non
+BERLIN_2024110313;KeyPers_Berlin_1230046;Name46;FistName46;2024-11-03 02:45:40;Meeting;Berlin;Allemagne;Compiègne;France;Avion;oui

@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202409290;KeyPers_Shanghai_1230637;Name637;FistName637;2024-09-29 13:50:26;PC fixe sans ecran;ZHAN
+Shanghai_MATERIEL_INFO_202409291;KeyPers_Shanghai_1230517;Name517;FistName517;2024-09-29 12:57:19; ;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202409292;KeyPers_Shanghai_1230903;Name903;FistName903;2024-09-29 10:11:25;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202409293;KeyPers_Shanghai_1230641;Name641;FistName641;2024-09-29 16:01:34;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202409294;KeyPers_Shanghai_1230950;Name950;FistName950;2024-09-29 12:44:14;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202409295;KeyPers_Shanghai_1230509;Name509;FistName509;2024-09-29 11:59:58;Ecran;32pouces et plus
+Shanghai_MATERIEL_INFO_202409296;KeyPers_Shanghai_1230955;Name955;FistName955;2024-09-29 13:36:09;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202409297;KeyPers_Shanghai_1230628;Name628;FistName628;2024-09-29 09:19:31;PC portable;MacBook air retina
+Shanghai_MATERIEL_INFO_202409298;KeyPers_Shanghai_1230549;Name549;FistName549;2024-09-29 14:15:19;PC fixe sans ecran;PC Fixe (moy)

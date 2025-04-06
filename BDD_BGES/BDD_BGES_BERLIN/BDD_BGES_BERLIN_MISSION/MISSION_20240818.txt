@@ -1,0 +1,17 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202408180;KeyPers_Berlin_1230865;Name865;FistName865;2024-08-18 10:01:55;Konferenz;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_202408181;KeyPers_Berlin_1234088;Name4088;FistName4088;2024-08-18 13:18:52;Meeting;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202408182;KeyPers_Berlin_1232033;Name2033;FistName2033;2024-08-18 01:56:29;Konferenz;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_202408183;KeyPers_Berlin_1230618;Name618;FistName618;2024-08-18 20:48:23;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_202408184;KeyPers_Berlin_1232382;Name2382;FistName2382;2024-08-18 12:03:58;Entwicklung;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_202408185;KeyPers_Berlin_1233014;Name3014;FistName3014;2024-08-18 06:31:50;Geschäftstreffen;Berlin;Allemagne;Wellington;New Zealand;Avion;oui
+BERLIN_202408186;KeyPers_Berlin_1230128;Name128;FistName128;2024-08-18 16:10:55;Meeting;Paris;France;Rabat;Maroc;Avion;oui
+BERLIN_202408187;KeyPers_Berlin_1233955;Name3955;FistName3955;2024-08-18 14:57:16;Entwicklung;Berlin;Allemagne;Rabat;Maroc;Avion;non
+BERLIN_202408188;KeyPers_Berlin_1233400;Name3400;FistName3400;2024-08-18 22:25:17;Konferenz;Berlin;Allemagne;Bordeaux;France;Avion;non
+BERLIN_202408189;KeyPers_Berlin_1233308;Name3308;FistName3308;2024-08-18 02:43:20;Meeting;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2024081810;KeyPers_Berlin_1230081;Name81;FistName81;2024-08-18 09:50:24;Konferenz;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2024081811;KeyPers_Berlin_1230645;Name645;FistName645;2024-08-18 03:13:52;Schulung;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2024081812;KeyPers_Berlin_1232611;Name2611;FistName2611;2024-08-18 13:08:56;Geschäftstreffen;Shanghai;China;Sidney;Australia;Avion;oui
+BERLIN_2024081813;KeyPers_Berlin_1231086;Name1086;FistName1086;2024-08-18 17:28:40;Geschäftstreffen;Berlin;Allemagne;Dubaï;Emirats;Avion;oui
+BERLIN_2024081814;KeyPers_Berlin_1231978;Name1978;FistName1978;2024-08-18 17:25:50;Konferenz;Berlin;Allemagne;Alger;Algeria;Avion;oui
+BERLIN_2024081815;KeyPers_Berlin_1231834;Name1834;FistName1834;2024-08-18 12:14:49;Konferenz;Berlin;Allemagne;Lille;France;Avion;oui

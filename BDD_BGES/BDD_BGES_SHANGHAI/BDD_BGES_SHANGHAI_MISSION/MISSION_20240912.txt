@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202409120;KeyPers_Shanghai_1230947;Name947;FistName947;2024-09-12 03:05:35;Team Meeting;Shanghai;China;Los Angeles;USA;Avion;oui
+Shanghai_202409121;KeyPers_Shanghai_1230297;Name297;FistName297;2024-09-12 01:45:23;Business Meeting;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_202409122;KeyPers_Shanghai_1230891;Name891;FistName891;2024-09-12 15:52:48;Team Meeting;Shanghai;China;Shanghai;China;Taxi;oui
+Shanghai_202409123;KeyPers_Shanghai_1230373;Name373;FistName373;2024-09-12 09:42:18;Team Meeting;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_202409124;KeyPers_Shanghai_1230505;Name505;FistName505;2024-09-12 19:49:23;Vocational Training;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202409125;KeyPers_Shanghai_1230298;Name298;FistName298;2024-09-12 04:56:39;Business Meeting;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_202409126;KeyPers_Shanghai_1230209;Name209;FistName209;2024-09-12 12:33:17;Development;Shanghai;China;Mexico;Mexico;Avion;oui
+Shanghai_202409127;KeyPers_Shanghai_1230132;Name132;FistName132;2024-09-12 19:36:07;Team Meeting;Shanghai;China;Alger;Algeria;Avion;oui
+Shanghai_202409128;KeyPers_Shanghai_1230306;Name306;FistName306;2024-09-12 16:07:27;Conference;Shanghai;China;Compiègne;France;Avion;oui
+Shanghai_202409129;KeyPers_Shanghai_1230443;Name443;FistName443;2024-09-12 09:02:03;Business Meeting;Shanghai;China;London;England;Avion;oui
+Shanghai_2024091210;KeyPers_Shanghai_1230899;Name899;FistName899;2024-09-12 22:27:54;Business Meeting;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_2024091211;KeyPers_Shanghai_1230080;Name80;FistName80;2024-09-12 16:04:58;Team Meeting;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_2024091212;KeyPers_Shanghai_1230477;Name477;FistName477;2024-09-12 21:45:44;Team Meeting;Shanghai;China;Mexico;Mexico;Avion;oui
+Shanghai_2024091213;KeyPers_Shanghai_1230736;Name736;FistName736;2024-09-12 14:32:16;Conference;Shanghai;China;Wellington;New Zealand;Avion;oui

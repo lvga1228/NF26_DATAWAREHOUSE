@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202405210;KeyPers_Berlin_1232162;Name2162;FistName2162;2024-05-21 13:06:26;Geschäftstreffen;Berlin;Allemagne;Vancouver;Canada;Avion;non
+BERLIN_202405211;KeyPers_Berlin_1233181;Name3181;FistName3181;2024-05-21 20:07:05;Meeting;Berlin;Allemagne;Dubaï;Emirats;Avion;non
+BERLIN_202405212;KeyPers_Berlin_1230955;Name955;FistName955;2024-05-21 04:18:01;Schulung;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_202405213;KeyPers_Berlin_1231994;Name1994;FistName1994;2024-05-21 23:18:01;Meeting;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_202405214;KeyPers_Berlin_1231133;Name1133;FistName1133;2024-05-21 03:24:15;Geschäftstreffen;Berlin;Allemagne;London;England;Avion;oui
+BERLIN_202405215;KeyPers_Berlin_1231218;Name1218;FistName1218;2024-05-21 13:07:46;Geschäftstreffen;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_202405216;KeyPers_Berlin_1230353;Name353;FistName353;2024-05-21 20:42:19;Konferenz;Berlin;Allemagne;Tunis;Tunisie;Avion;oui
+BERLIN_202405217;KeyPers_Berlin_1232684;Name2684;FistName2684;2024-05-21 01:14:37;Entwicklung;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_202405218;KeyPers_Berlin_1232914;Name2914;FistName2914;2024-05-21 14:52:05;Meeting;Berlin;Allemagne;Sidney;Australia;Avion;oui
+BERLIN_202405219;KeyPers_Berlin_1233586;Name3586;FistName3586;2024-05-21 15:30:30;Geschäftstreffen;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2024052110;KeyPers_Berlin_1233045;Name3045;FistName3045;2024-05-21 07:17:38;Geschäftstreffen;Berlin;Allemagne;Tokyo;Japan;Avion;oui
+BERLIN_2024052111;KeyPers_Berlin_1233483;Name3483;FistName3483;2024-05-21 13:32:43;Meeting;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_2024052112;KeyPers_Berlin_1232603;Name2603;FistName2603;2024-05-21 17:49:32;Konferenz;New-York;USA;Tunis;Tunisie;Avion;oui
+BERLIN_2024052113;KeyPers_Berlin_1233894;Name3894;FistName3894;2024-05-21 23:08:30;Meeting;Berlin;Allemagne;Lima;Peru;Avion;oui

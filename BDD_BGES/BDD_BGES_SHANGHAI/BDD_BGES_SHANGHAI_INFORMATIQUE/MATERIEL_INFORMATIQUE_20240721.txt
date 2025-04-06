@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407210;KeyPers_Shanghai_1230008;Name8;FistName8;2024-07-21 13:12:43;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_202407211;KeyPers_Shanghai_1230261;Name261;FistName261;2024-07-21 13:02:47;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202407212;KeyPers_Shanghai_1230065;Name65;FistName65;2024-07-21 09:37:13;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202407213;KeyPers_Shanghai_1230127;Name127;FistName127;2024-07-21 15:41:09;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202407214;KeyPers_Shanghai_1230361;Name361;FistName361;2024-07-21 09:45:51;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_202407215;KeyPers_Shanghai_1230449;Name449;FistName449;2024-07-21 15:55:28;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202407216;KeyPers_Shanghai_1230509;Name509;FistName509;2024-07-21 12:24:25;PC portable;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202407217;KeyPers_Shanghai_1230579;Name579;FistName579;2024-07-21 13:35:07;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_202407218;KeyPers_Shanghai_1230299;Name299;FistName299;2024-07-21 10:40:49;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202407219;KeyPers_Shanghai_1230199;Name199;FistName199;2024-07-21 10:21:28;Smartphone;modèle par défaut

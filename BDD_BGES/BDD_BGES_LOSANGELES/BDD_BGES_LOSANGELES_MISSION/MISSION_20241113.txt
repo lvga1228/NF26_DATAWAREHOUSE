@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202411130;KeyPers_LA_1233025;Name3025;FistName3025;2024-11-13 05:08:50;Vocational Training;Los Angeles;USA;Alger;Algeria;Avion;oui
+LA_202411131;KeyPers_LA_1232063;Name2063;FistName2063;2024-11-13 18:36:20;Development;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_202411132;KeyPers_LA_1232196;Name2196;FistName2196;2024-11-13 19:52:27;Vocational Training;Los Angeles;USA;New-York;USA;Avion;oui
+LA_202411133;KeyPers_LA_1230097;Name97;FistName97;2024-11-13 14:04:38;Team Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_202411134;KeyPers_LA_1232547;Name2547;FistName2547;2024-11-13 22:05:42;Development;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_202411135;KeyPers_LA_1231680;Name1680;FistName1680;2024-11-13 04:03:47;Team Meeting;Los Angeles;USA;Pekin;China;Avion;oui
+LA_202411136;KeyPers_LA_1230122;Name122;FistName122;2024-11-13 18:59:19;Conference;Los Angeles;USA;Sidney;Australia;Avion;oui
+LA_202411137;KeyPers_LA_1231029;Name1029;FistName1029;2024-11-13 23:16:47;Vocational Training;Shanghai;China;Rabat;Maroc;Avion;oui
+LA_202411138;KeyPers_LA_1231844;Name1844;FistName1844;2024-11-13 18:17:21;Business Meeting;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_202411139;KeyPers_LA_1232586;Name2586;FistName2586;2024-11-13 22:56:25;Team Meeting;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_2024111310;KeyPers_LA_1232295;Name2295;FistName2295;2024-11-13 13:30:48;Team Meeting;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2024111311;KeyPers_LA_1231517;Name1517;FistName1517;2024-11-13 18:05:55;Team Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_2024111312;KeyPers_LA_1230633;Name633;FistName633;2024-11-13 23:53:44;Vocational Training;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_2024111313;KeyPers_LA_1230207;Name207;FistName207;2024-11-13 13:14:06;Vocational Training;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_2024111314;KeyPers_LA_1231297;Name1297;FistName1297;2024-11-13 01:30:30;Conference;Los Angeles;USA;Montreal;Canada;Avion;oui

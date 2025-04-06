@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202406300;KeyPers_London_1232207;Name2207;FistName2207;2024-06-30 01:11:58;Team Meeting;London;England;Tokyo;Japan;Avion;oui
+LONDON_202406301;KeyPers_London_1233240;Name3240;FistName3240;2024-06-30 18:37:55;Conference;London;England;Shanghai;China;Avion;oui
+LONDON_202406302;KeyPers_London_1230409;Name409;FistName409;2024-06-30 16:01:18;Team Meeting;London;England;Stockholm;Suède;Avion;oui
+LONDON_202406303;KeyPers_London_1231398;Name1398;FistName1398;2024-06-30 18:52:19;Business Meeting;London;England;Dubaï;Emirats;Avion;oui
+LONDON_202406304;KeyPers_London_1231483;Name1483;FistName1483;2024-06-30 13:36:32;Business Meeting;London;England;Rio de Janeiro;Brazil;Avion;oui
+LONDON_202406305;KeyPers_London_1230683;Name683;FistName683;2024-06-30 02:40:53;Business Meeting;London;England;London;England;Transports en commun;oui
+LONDON_202406306;KeyPers_London_1233131;Name3131;FistName3131;2024-06-30 06:22:30;Conference;London;England;Washington;USA;Avion;oui
+LONDON_202406307;KeyPers_London_1232892;Name2892;FistName2892;2024-06-30 09:56:29;Vocational Training;London;England;Wellington;New Zealand;Avion;oui
+LONDON_202406308;KeyPers_London_1233133;Name3133;FistName3133;2024-06-30 13:45:22;Conference;London;England;Rabat;Maroc;Avion;oui
+LONDON_202406309;KeyPers_London_1234086;Name4086;FistName4086;2024-06-30 22:20:47;Development;London;England;Los Angeles;USA;Avion;oui
+LONDON_2024063010;KeyPers_London_1230716;Name716;FistName716;2024-06-30 04:48:23;Development;London;England;Rabat;Maroc;Avion;oui
+LONDON_2024063011;KeyPers_London_1231646;Name1646;FistName1646;2024-06-30 11:09:31;Business Meeting;London;England;Lima;Peru;Avion;oui
+LONDON_2024063012;KeyPers_London_1233847;Name3847;FistName3847;2024-06-30 05:46:39;Business Meeting;London;England;Bogota;Colombia;Avion;oui
+LONDON_2024063013;KeyPers_London_1233368;Name3368;FistName3368;2024-06-30 11:49:06;Business Meeting;London;England;Tokyo;Japan;Avion;oui

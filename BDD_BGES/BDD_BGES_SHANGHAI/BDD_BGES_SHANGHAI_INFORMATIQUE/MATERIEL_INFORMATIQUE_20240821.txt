@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408210;KeyPers_Shanghai_1230130;Name130;FistName130;2024-08-21 15:42:19; ;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202408211;KeyPers_Shanghai_1230982;Name982;FistName982;2024-08-21 08:30:01;Vidéo projecteur;Pour amphi
+Shanghai_MATERIEL_INFO_202408212;KeyPers_Shanghai_1230903;Name903;FistName903;2024-08-21 09:04:04;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202408213;KeyPers_Shanghai_1230047;Name47;FistName47;2024-08-21 12:06:39;PC portable; 
+Shanghai_MATERIEL_INFO_202408214;KeyPers_Shanghai_1230901;Name901;FistName901;2024-08-21 16:53:05; ;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_202408215;KeyPers_Shanghai_1230483;Name483;FistName483;2024-08-21 13:21:59;PC fixe tout-en-un;iMac 21pouces
+Shanghai_MATERIEL_INFO_202408216;KeyPers_Shanghai_1230292;Name292;FistName292;2024-08-21 08:20:25; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202408217;KeyPers_Shanghai_1230272;Name272;FistName272;2024-08-21 14:50:32;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202408218;KeyPers_Shanghai_1230963;Name963;FistName963;2024-08-21 08:22:55;Vidéo projecteur;modèle par défaut
+Shanghai_MATERIEL_INFO_202408219;KeyPers_Shanghai_1230689;Name689;FistName689;2024-08-21 08:35:11; ;iMac 21pouces
+Shanghai_MATERIEL_INFO_2024082110;KeyPers_Shanghai_1230790;Name790;FistName790;2024-08-21 08:16:11;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_2024082111;KeyPers_Shanghai_1230784;Name784;FistName784;2024-08-21 12:38:52;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_2024082112;KeyPers_Shanghai_1230078;Name78;FistName78;2024-08-21 11:48:48;Vidéo projecteur;Pour salle

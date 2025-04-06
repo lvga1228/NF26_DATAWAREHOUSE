@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202410260;KeyPers_Shanghai_1230772;Name772;FistName772;2024-10-26 08:08:33;PC fixe tout-en-un;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202410261;KeyPers_Shanghai_1230993;Name993;FistName993;2024-10-26 10:43:46;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202410262;KeyPers_Shanghai_1230667;Name667;FistName667;2024-10-26 13:08:16;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202410263;KeyPers_Shanghai_1230779;Name779;FistName779;2024-10-26 16:59:49;Ecran;32pouces et plus
+Shanghai_MATERIEL_INFO_202410264;KeyPers_Shanghai_1230071;Name71;FistName71;2024-10-26 16:26:25;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202410265;KeyPers_Shanghai_1230597;Name597;FistName597;2024-10-26 13:50:38;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202410266;KeyPers_Shanghai_1230326;Name326;FistName326;2024-10-26 16:21:48;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202410267;KeyPers_Shanghai_1230821;Name821;FistName821;2024-10-26 10:38:14;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202410268;KeyPers_Shanghai_1230027;Name27;FistName27;2024-10-26 13:42:59;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_202410269;KeyPers_Shanghai_1230606;Name606;FistName606;2024-10-26 16:36:59;PC portable;modèle par défaut

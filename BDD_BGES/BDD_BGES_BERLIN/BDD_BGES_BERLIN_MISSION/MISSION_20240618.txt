@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202406180;KeyPers_Berlin_1231976;Name1976;FistName1976;2024-06-18 11:54:57;Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+BERLIN_202406181;KeyPers_Berlin_1233227;Name3227;FistName3227;2024-06-18 21:34:16;Geschäftstreffen;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_202406182;KeyPers_Berlin_1232831;Name2831;FistName2831;2024-06-18 19:57:17;Schulung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_202406183;KeyPers_Berlin_1231758;Name1758;FistName1758;2024-06-18 16:41:02;Meeting;Paris;France;New-York;USA;Avion;non
+BERLIN_202406184;KeyPers_Berlin_1233910;Name3910;FistName3910;2024-06-18 23:06:40;Meeting;Berlin;Allemagne;Sidney;Australia;Avion;oui
+BERLIN_202406185;KeyPers_Berlin_1232775;Name2775;FistName2775;2024-06-18 14:24:20;Entwicklung;Berlin;Allemagne;Los Angeles;USA;Avion;oui
+BERLIN_202406186;KeyPers_Berlin_1233419;Name3419;FistName3419;2024-06-18 23:17:26;Entwicklung;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_202406187;KeyPers_Berlin_1233130;Name3130;FistName3130;2024-06-18 09:06:37;Schulung;Berlin;Allemagne;Helsinki;Finlande;Avion;oui

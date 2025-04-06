@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202405280;KeyPers_NewYork_1230485;Name485;FistName485;2024-05-28 15:16:32;Development;Paris;France;Montreal;Canada;Avion;oui
+NewYork_202405281;KeyPers_NewYork_1231590;Name1590;FistName1590;2024-05-28 22:26:54;Conference;New-York;USA;Auckland;New Zealand;Avion;oui
+NewYork_202405282;KeyPers_NewYork_1230654;Name654;FistName654;2024-05-28 21:12:04;Business Meeting;New-York;USA;Marseille;France;Avion;oui
+NewYork_202405283;KeyPers_NewYork_1231611;Name1611;FistName1611;2024-05-28 10:22:54;Conference;New-York;USA;Rabat;Maroc;Avion;oui
+NewYork_202405284;KeyPers_NewYork_1232109;Name2109;FistName2109;2024-05-28 07:27:50;Business Meeting;New-York;USA;Wellington;New Zealand;Avion;oui
+NewYork_202405285;KeyPers_NewYork_1230522;Name522;FistName522;2024-05-28 03:22:27;Development;New-York;USA;Los Angeles;USA;Avion;oui
+NewYork_202405286;KeyPers_NewYork_1230139;Name139;FistName139;2024-05-28 22:43:05;Vocational Training;New-York;USA;Lille;France;Avion;oui
+NewYork_202405287;KeyPers_NewYork_1230708;Name708;FistName708;2024-05-28 15:08:24;Development;New-York;USA;Shanghai;China;Avion;non
+NewYork_202405288;KeyPers_NewYork_1231426;Name1426;FistName1426;2024-05-28 21:05:07;Business Meeting;New-York;USA;Stockholm;Suède;Avion;oui
+NewYork_202405289;KeyPers_NewYork_1231890;Name1890;FistName1890;2024-05-28 20:43:12;Business Meeting;New-York;USA;Buenos Aires;Argentina;Avion;oui
+NewYork_2024052810;KeyPers_NewYork_1232790;Name2790;FistName2790;2024-05-28 02:22:35;Vocational Training;New-York;USA;Marseille;France;Avion;oui
+NewYork_2024052811;KeyPers_NewYork_1232210;Name2210;FistName2210;2024-05-28 13:37:34;Development;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_2024052812;KeyPers_NewYork_1232450;Name2450;FistName2450;2024-05-28 16:41:08;Team Meeting;New-York;USA;Auckland;New Zealand;Avion;oui
+NewYork_2024052813;KeyPers_NewYork_1232536;Name2536;FistName2536;2024-05-28 10:09:41;Vocational Training;New-York;USA;Mexico;Mexico;Avion;oui

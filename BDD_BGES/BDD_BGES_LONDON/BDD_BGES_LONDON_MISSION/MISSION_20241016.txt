@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202410160;KeyPers_London_1231186;Name1186;FistName1186;2024-10-16 07:50:07;Conference;London;England;Tokyo;Japan;Avion;oui
+LONDON_202410161;KeyPers_London_1232149;Name2149;FistName2149;2024-10-16 23:56:28;Business Meeting;London;England;Montreal;Canada;Avion;oui
+LONDON_202410162;KeyPers_London_1232334;Name2334;FistName2334;2024-10-16 14:25:11;Development;Shanghai;China;Pekin;China;Avion;non
+LONDON_202410163;KeyPers_London_1230891;Name891;FistName891;2024-10-16 08:14:52;Vocational Training;London;England;Rabat;Maroc;Avion;oui
+LONDON_202410164;KeyPers_London_1231250;Name1250;FistName1250;2024-10-16 17:54:31;Business Meeting;London;England;Sao Paulo;Brazil;Avion;oui
+LONDON_202410165;KeyPers_London_1232126;Name2126;FistName2126;2024-10-16 21:58:42;Vocational Training;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+LONDON_202410166;KeyPers_London_1231012;Name1012;FistName1012;2024-10-16 14:41:48;Development;London;England;Sidney;Australia;Avion;oui
+LONDON_202410167;KeyPers_London_1231524;Name1524;FistName1524;2024-10-16 01:12:34;Team Meeting;London;England;Lima;Peru;Avion;non
+LONDON_202410168;KeyPers_London_1232385;Name2385;FistName2385;2024-10-16 13:44:47;Conference;London;England;Auckland;New Zealand;Avion;oui
+LONDON_202410169;KeyPers_London_1232483;Name2483;FistName2483;2024-10-16 19:55:11;Conference;New-York;USA;Auckland;New Zealand;Avion;oui
+LONDON_2024101610;KeyPers_London_1231582;Name1582;FistName1582;2024-10-16 07:17:35;Team Meeting;London;England;Pekin;China;Avion;oui
+LONDON_2024101611;KeyPers_London_1232261;Name2261;FistName2261;2024-10-16 14:02:13;Conference;London;England;Melbourne;Australia;Avion;oui
+LONDON_2024101612;KeyPers_London_1233173;Name3173;FistName3173;2024-10-16 19:08:24;Business Meeting;Los Angeles;USA;Sidney;Australia;Avion;oui
+LONDON_2024101613;KeyPers_London_1232785;Name2785;FistName2785;2024-10-16 13:39:14;Vocational Training;London;England;Buenos Aires;Argentina;Avion;oui

@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405220;KeyPers_Shanghai_1230392;Name392;FistName392;2024-05-22 13:17:56; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202405221;KeyPers_Shanghai_1230025;Name25;FistName25;2024-05-22 11:39:05;PC portable;OMEN 
+Shanghai_MATERIEL_INFO_202405222;KeyPers_Shanghai_1230894;Name894;FistName894;2024-05-22 13:02:58;PC portable;Precision 3xxx
+Shanghai_MATERIEL_INFO_202405223;KeyPers_Shanghai_1230024;Name24;FistName24;2024-05-22 11:15:32;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202405224;KeyPers_Shanghai_1230064;Name64;FistName64;2024-05-22 14:54:05;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202405225;KeyPers_Shanghai_1230949;Name949;FistName949;2024-05-22 08:21:43;PC fixe sans ecran;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202405226;KeyPers_Shanghai_1230209;Name209;FistName209;2024-05-22 09:18:15;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202405227;KeyPers_Shanghai_1230118;Name118;FistName118;2024-05-22 08:27:55; ;iMac 21pouces retina
+Shanghai_MATERIEL_INFO_202405228;KeyPers_Shanghai_1230744;Name744;FistName744;2024-05-22 15:21:36;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202405229;KeyPers_Shanghai_1230890;Name890;FistName890;2024-05-22 08:19:13;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_2024052210;KeyPers_Shanghai_1230034;Name34;FistName34;2024-05-22 16:52:38;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_2024052211;KeyPers_Shanghai_1230530;Name530;FistName530;2024-05-22 15:05:24;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_2024052212;KeyPers_Shanghai_1230491;Name491;FistName491;2024-05-22 15:36:55; ;Optiplex tower
+Shanghai_MATERIEL_INFO_2024052213;KeyPers_Shanghai_1230174;Name174;FistName174;2024-05-22 15:20:52;PC fixe tout-en-un;iMac pro

@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407010;KeyPers_Shanghai_1230228;Name228;FistName228;2024-07-01 12:43:05;PC fixe sans ecran;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202407011;KeyPers_Shanghai_1230413;Name413;FistName413;2024-07-01 16:02:43;PC portable;ZBook Studio
+Shanghai_MATERIEL_INFO_202407012;KeyPers_Shanghai_1230668;Name668;FistName668;2024-07-01 15:13:50;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202407013;KeyPers_Shanghai_1230911;Name911;FistName911;2024-07-01 11:24:24; ;MacBook pro 15/16pouces
+Shanghai_MATERIEL_INFO_202407014;KeyPers_Shanghai_1230270;Name270;FistName270;2024-07-01 08:33:40;PC portable;Precision 3xxx
+Shanghai_MATERIEL_INFO_202407015;KeyPers_Shanghai_1230770;Name770;FistName770;2024-07-01 14:06:29; ;Optiplex small
+Shanghai_MATERIEL_INFO_202407016;KeyPers_Shanghai_1230979;Name979;FistName979;2024-07-01 15:04:10;imprimante;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202407017;KeyPers_Shanghai_1230384;Name384;FistName384;2024-07-01 11:32:01; ;Optiplex All-in-One 5xxx

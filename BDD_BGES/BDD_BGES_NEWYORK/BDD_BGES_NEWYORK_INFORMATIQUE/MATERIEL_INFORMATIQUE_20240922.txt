@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202409220;KeyPers_NewYork_1230919;Name919;FistName919;2024-09-22 13:26:24;souris;modèle par défaut
+NewYork_MATERIEL_INFO_202409221;KeyPers_NewYork_1231218;Name1218;FistName1218;2024-09-22 14:07:08;PC fixe tout-en-un;iMac 21pouces
+NewYork_MATERIEL_INFO_202409222;KeyPers_NewYork_1231783;Name1783;FistName1783;2024-09-22 10:15:40;imprimante;Laser à poser (<40kg)
+NewYork_MATERIEL_INFO_202409223;KeyPers_NewYork_1232838;Name2838;FistName2838;2024-09-22 13:22:25;PC fixe sans ecran;EliteDesk DM
+NewYork_MATERIEL_INFO_202409224;KeyPers_NewYork_1231585;Name1585;FistName1585;2024-09-22 09:29:50;PC portable;Precision 7xxx
+NewYork_MATERIEL_INFO_202409225;KeyPers_NewYork_1231668;Name1668;FistName1668;2024-09-22 11:32:06;PC fixe sans ecran;Station de travail (moy)
+NewYork_MATERIEL_INFO_202409226;KeyPers_NewYork_1231549;Name1549;FistName1549;2024-09-22 14:28:48;PC fixe tout-en-un; 
+NewYork_MATERIEL_INFO_202409227;KeyPers_NewYork_1233033;Name3033;FistName3033;2024-09-22 16:53:29;imprimante;Laser à poser (<40kg)
+NewYork_MATERIEL_INFO_202409228;KeyPers_NewYork_1232172;Name2172;FistName2172;2024-09-22 13:24:12; ;modèle par défaut
+NewYork_MATERIEL_INFO_202409229;KeyPers_NewYork_1230248;Name248;FistName248;2024-09-22 13:27:46; ;Chromebook 14-15pouces
+NewYork_MATERIEL_INFO_2024092210;KeyPers_NewYork_1231781;Name1781;FistName1781;2024-09-22 12:39:11;PC fixe tout-en-un;Optiplex All-in-One 5xxx
+NewYork_MATERIEL_INFO_2024092211;KeyPers_NewYork_1232668;Name2668;FistName2668;2024-09-22 13:32:28; ;modèle par défaut
+NewYork_MATERIEL_INFO_2024092212;KeyPers_NewYork_1231097;Name1097;FistName1097;2024-09-22 08:52:49;PC fixe sans ecran;EliteDesk (Tower, SFF, One)

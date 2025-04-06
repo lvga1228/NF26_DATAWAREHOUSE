@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202405100;KeyPers_Berlin_1233296;Name3296;FistName3296;2024-05-10 07:09:09;Schulung;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;non
+BERLIN_202405101;KeyPers_Berlin_1233743;Name3743;FistName3743;2024-05-10 09:30:19;Schulung;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_202405102;KeyPers_Berlin_1232672;Name2672;FistName2672;2024-05-10 02:10:53;Konferenz;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_202405103;KeyPers_Berlin_1230300;Name300;FistName300;2024-05-10 19:11:59;Schulung;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_202405104;KeyPers_Berlin_1233623;Name3623;FistName3623;2024-05-10 16:43:53;Meeting;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_202405105;KeyPers_Berlin_1230156;Name156;FistName156;2024-05-10 05:04:01;Schulung;Berlin;Allemagne;Dubaï;Emirats;Avion;oui
+BERLIN_202405106;KeyPers_Berlin_1233850;Name3850;FistName3850;2024-05-10 16:38:17;Meeting;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_202405107;KeyPers_Berlin_1233291;Name3291;FistName3291;2024-05-10 18:43:01;Schulung;New-York;USA;Oslo;Norvège;Avion;oui

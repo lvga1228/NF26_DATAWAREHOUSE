@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202405230;KeyPers_Berlin_1232292;Name2292;FistName2292;2024-05-23 09:12:23;Konferenz;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_202405231;KeyPers_Berlin_1230378;Name378;FistName378;2024-05-23 11:12:40;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_202405232;KeyPers_Berlin_1230662;Name662;FistName662;2024-05-23 08:45:34;Schulung;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_202405233;KeyPers_Berlin_1232310;Name2310;FistName2310;2024-05-23 05:58:35;Entwicklung;Berlin;Allemagne;Washington;USA;Avion;non
+BERLIN_202405234;KeyPers_Berlin_1230001;Name1;FistName1;2024-05-23 02:09:38;Schulung;Shanghai;China;Osaka;Japan;Avion;oui
+BERLIN_202405235;KeyPers_Berlin_1233757;Name3757;FistName3757;2024-05-23 13:27:20;Geschäftstreffen;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_202405236;KeyPers_Berlin_1231007;Name1007;FistName1007;2024-05-23 03:21:41;Entwicklung;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_202405237;KeyPers_Berlin_1231747;Name1747;FistName1747;2024-05-23 22:51:59;Konferenz;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_202405238;KeyPers_Berlin_1232114;Name2114;FistName2114;2024-05-23 19:48:34;Konferenz;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_202405239;KeyPers_Berlin_1230088;Name88;FistName88;2024-05-23 11:38:13;Entwicklung;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_2024052310;KeyPers_Berlin_1233195;Name3195;FistName3195;2024-05-23 14:45:27;Entwicklung;Los Angeles;USA;Bordeaux;France;Avion;oui
+BERLIN_2024052311;KeyPers_Berlin_1232298;Name2298;FistName2298;2024-05-23 11:53:19;Entwicklung;Berlin;Allemagne;Stockholm;Suède;Avion;oui
+BERLIN_2024052312;KeyPers_Berlin_1231530;Name1530;FistName1530;2024-05-23 08:54:53;Konferenz;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2024052313;KeyPers_Berlin_1232398;Name2398;FistName2398;2024-05-23 17:07:57;Geschäftstreffen;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui

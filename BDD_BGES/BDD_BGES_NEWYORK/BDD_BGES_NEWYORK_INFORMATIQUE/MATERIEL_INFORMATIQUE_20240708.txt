@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202407080;KeyPers_NewYork_1230192;Name192;FistName192;2024-07-08 10:08:50;PC fixe sans ecran;Wyse thin client
+NewYork_MATERIEL_INFO_202407081;KeyPers_NewYork_1232451;Name2451;FistName2451;2024-07-08 13:42:40;Vidéo projecteur;Transportable
+NewYork_MATERIEL_INFO_202407082;KeyPers_NewYork_1231280;Name1280;FistName1280;2024-07-08 16:35:43;PC fixe sans ecran;Optiplex micro
+NewYork_MATERIEL_INFO_202407083;KeyPers_NewYork_1232910;Name2910;FistName2910;2024-07-08 10:33:19;PC portable;MacBook pro 15/16pouces
+NewYork_MATERIEL_INFO_202407084;KeyPers_NewYork_1232195;Name2195;FistName2195;2024-07-08 10:28:39;Disque dur;modèle par défaut
+NewYork_MATERIEL_INFO_202407085;KeyPers_NewYork_1231287;Name1287;FistName1287;2024-07-08 13:37:45;Ecran;modèle par défaut
+NewYork_MATERIEL_INFO_202407086;KeyPers_NewYork_1230335;Name335;FistName335;2024-07-08 11:56:25;clavier;modèle par défaut
+NewYork_MATERIEL_INFO_202407087;KeyPers_NewYork_1232039;Name2039;FistName2039;2024-07-08 10:02:36;PC fixe sans ecran;Elite (Tower, SFF, One)
+NewYork_MATERIEL_INFO_202407088;KeyPers_NewYork_1231938;Name1938;FistName1938;2024-07-08 12:34:48;PC fixe sans ecran;Precision tower 7xxx
+NewYork_MATERIEL_INFO_202407089;KeyPers_NewYork_1230514;Name514;FistName514;2024-07-08 11:32:08; ;modèle par défaut
+NewYork_MATERIEL_INFO_2024070810;KeyPers_NewYork_1232086;Name2086;FistName2086;2024-07-08 16:33:30;PC fixe sans ecran;OMEN 
+NewYork_MATERIEL_INFO_2024070811;KeyPers_NewYork_1230689;Name689;FistName689;2024-07-08 09:31:32;PC fixe sans ecran;Station de travail (moy)
+NewYork_MATERIEL_INFO_2024070812;KeyPers_NewYork_1230931;Name931;FistName931;2024-07-08 15:42:49;PC portable;Victus
+NewYork_MATERIEL_INFO_2024070813;KeyPers_NewYork_1230952;Name952;FistName952;2024-07-08 08:22:31;Borne wifi;modèle par défaut

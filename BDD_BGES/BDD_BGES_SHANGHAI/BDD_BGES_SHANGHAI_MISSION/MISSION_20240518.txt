@@ -1,0 +1,6 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202405180;KeyPers_Shanghai_1230706;Name706;FistName706;2024-05-18 15:16:05;Development;Los Angeles;USA;Pekin;China;Avion;oui
+Shanghai_202405181;KeyPers_Shanghai_1230042;Name42;FistName42;2024-05-18 12:36:33;Team Meeting;Paris;France;Osaka;Japan;Avion;oui
+Shanghai_202405182;KeyPers_Shanghai_1230749;Name749;FistName749;2024-05-18 07:44:45;Conference;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_202405183;KeyPers_Shanghai_1230628;Name628;FistName628;2024-05-18 17:56:37;Team Meeting;Shanghai;China;Tunis;Tunisie;Avion;oui
+Shanghai_202405184;KeyPers_Shanghai_1230315;Name315;FistName315;2024-05-18 19:50:21;Business Meeting;Shanghai;China;Melbourne;Australia;Avion;non

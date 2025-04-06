@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406030;KeyPers_Shanghai_1230030;Name30;FistName30;2024-06-03 10:31:46; ;ZHAN
+Shanghai_MATERIEL_INFO_202406031;KeyPers_Shanghai_1230202;Name202;FistName202;2024-06-03 16:23:44; ;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202406032;KeyPers_Shanghai_1230239;Name239;FistName239;2024-06-03 12:20:20;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202406033;KeyPers_Shanghai_1230709;Name709;FistName709;2024-06-03 10:17:17;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202406034;KeyPers_Shanghai_1230582;Name582;FistName582;2024-06-03 11:52:03; ;Mac pro
+Shanghai_MATERIEL_INFO_202406035;KeyPers_Shanghai_1230724;Name724;FistName724;2024-06-03 16:12:50;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202406036;KeyPers_Shanghai_1230871;Name871;FistName871;2024-06-03 11:47:34;clavier; 
+Shanghai_MATERIEL_INFO_202406037;KeyPers_Shanghai_1230455;Name455;FistName455;2024-06-03 13:58:05; ;Victus
+Shanghai_MATERIEL_INFO_202406038;KeyPers_Shanghai_1230023;Name23;FistName23;2024-06-03 12:51:56;PC fixe sans ecran;Z

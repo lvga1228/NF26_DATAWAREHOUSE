@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202411110;KeyPers_Shanghai_1230164;Name164;FistName164;2024-11-11 14:36:39; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202411111;KeyPers_Shanghai_1230243;Name243;FistName243;2024-11-11 08:45:32;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202411112;KeyPers_Shanghai_1230308;Name308;FistName308;2024-11-11 08:12:59;PC portable;EliteBook 6xx
+Shanghai_MATERIEL_INFO_202411113;KeyPers_Shanghai_1230040;Name40;FistName40;2024-11-11 10:01:11;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_202411114;KeyPers_Shanghai_1230845;Name845;FistName845;2024-11-11 14:39:47; ;Victus
+Shanghai_MATERIEL_INFO_202411115;KeyPers_Shanghai_1230686;Name686;FistName686;2024-11-11 09:09:04;Ecran;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_202411116;KeyPers_Shanghai_1230999;Name999;FistName999;2024-11-11 15:06:56;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_202411117;KeyPers_Shanghai_1230376;Name376;FistName376;2024-11-11 15:12:39; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202411118;KeyPers_Shanghai_1230991;Name991;FistName991;2024-11-11 16:06:06;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202411119;KeyPers_Shanghai_1230213;Name213;FistName213;2024-11-11 15:26:08;souris;modèle par défaut

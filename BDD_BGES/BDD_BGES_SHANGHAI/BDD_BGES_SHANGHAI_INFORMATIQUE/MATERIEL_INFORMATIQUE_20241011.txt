@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202410110;KeyPers_Shanghai_1230254;Name254;FistName254;2024-10-11 12:21:18; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202410111;KeyPers_Shanghai_1230664;Name664;FistName664;2024-10-11 10:30:37; ;Chromebook 14-15pouces
+Shanghai_MATERIEL_INFO_202410112;KeyPers_Shanghai_1230107;Name107;FistName107;2024-10-11 11:08:19;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202410113;KeyPers_Shanghai_1230110;Name110;FistName110;2024-10-11 16:11:37;imprimante;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202410114;KeyPers_Shanghai_1230007;Name7;FistName7;2024-10-11 15:29:54;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202410115;KeyPers_Shanghai_1230620;Name620;FistName620;2024-10-11 16:14:06;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202410116;KeyPers_Shanghai_1230837;Name837;FistName837;2024-10-11 10:50:30;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202410117;KeyPers_Shanghai_1230225;Name225;FistName225;2024-10-11 11:44:47; ;EliteDesk DM
+Shanghai_MATERIEL_INFO_202410118;KeyPers_Shanghai_1230828;Name828;FistName828;2024-10-11 08:57:31;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202410119;KeyPers_Shanghai_1230083;Name83;FistName83;2024-10-11 16:21:29;imprimante;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_2024101110;KeyPers_Shanghai_1230489;Name489;FistName489;2024-10-11 08:15:12;PC portable;OMEN 
+Shanghai_MATERIEL_INFO_2024101111;KeyPers_Shanghai_1230922;Name922;FistName922;2024-10-11 11:59:40;PC portable;EliteBook 10xx
+Shanghai_MATERIEL_INFO_2024101112;KeyPers_Shanghai_1230629;Name629;FistName629;2024-10-11 09:21:22;PC fixe sans ecran;Wyse thin client

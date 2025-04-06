@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406300;KeyPers_Shanghai_1230668;Name668;FistName668;2024-06-30 10:45:55;PC fixe tout-en-un;modèle par défaut
+Shanghai_MATERIEL_INFO_202406301;KeyPers_Shanghai_1230403;Name403;FistName403;2024-06-30 08:22:13;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202406302;KeyPers_Shanghai_1230864;Name864;FistName864;2024-06-30 16:49:09; ;EliteBook 6xx
+Shanghai_MATERIEL_INFO_202406303;KeyPers_Shanghai_1230374;Name374;FistName374;2024-06-30 16:01:09; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202406304;KeyPers_Shanghai_1230819;Name819;FistName819;2024-06-30 15:16:30; ;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202406305;KeyPers_Shanghai_1230644;Name644;FistName644;2024-06-30 15:01:38;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202406306;KeyPers_Shanghai_1230159;Name159;FistName159;2024-06-30 09:16:52;PC fixe sans ecran;ZHAN
+Shanghai_MATERIEL_INFO_202406307;KeyPers_Shanghai_1230335;Name335;FistName335;2024-06-30 08:19:05;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202406308;KeyPers_Shanghai_1230511;Name511;FistName511;2024-06-30 12:09:31; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202406309;KeyPers_Shanghai_1230002;Name2;FistName2;2024-06-30 08:45:02;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_2024063010;KeyPers_Shanghai_1230773;Name773;FistName773;2024-06-30 10:02:04; ;Latitude 7xxx
+Shanghai_MATERIEL_INFO_2024063011;KeyPers_Shanghai_1230279;Name279;FistName279;2024-06-30 09:51:47;PC portable;Precision 3xxx

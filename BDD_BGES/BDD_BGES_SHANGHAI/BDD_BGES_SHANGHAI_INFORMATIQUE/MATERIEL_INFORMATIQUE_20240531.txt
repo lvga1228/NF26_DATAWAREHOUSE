@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405310;KeyPers_Shanghai_1230783;Name783;FistName783;2024-05-31 14:52:03;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202405311;KeyPers_Shanghai_1230749;Name749;FistName749;2024-05-31 10:15:21; ;Moyenne 14/15pouces
+Shanghai_MATERIEL_INFO_202405312;KeyPers_Shanghai_1230576;Name576;FistName576;2024-05-31 12:36:46;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202405313;KeyPers_Shanghai_1230536;Name536;FistName536;2024-05-31 13:13:47; ;EliteDesk DM
+Shanghai_MATERIEL_INFO_202405314;KeyPers_Shanghai_1230445;Name445;FistName445;2024-05-31 15:06:17;PC portable;MacBook air retina
+Shanghai_MATERIEL_INFO_202405315;KeyPers_Shanghai_1230257;Name257;FistName257;2024-05-31 16:01:48;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202405316;KeyPers_Shanghai_1230828;Name828;FistName828;2024-05-31 11:17:07;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202405317;KeyPers_Shanghai_1230430;Name430;FistName430;2024-05-31 14:14:56;PC portable;Chromebook 11-13pouces

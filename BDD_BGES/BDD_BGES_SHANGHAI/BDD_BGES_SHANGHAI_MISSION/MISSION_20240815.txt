@@ -1,0 +1,10 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202408150;KeyPers_Shanghai_1230281;Name281;FistName281;2024-08-15 20:57:58;Business Meeting;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202408151;KeyPers_Shanghai_1230864;Name864;FistName864;2024-08-15 10:58:21;Conference;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_202408152;KeyPers_Shanghai_1230270;Name270;FistName270;2024-08-15 23:17:30;Development;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202408153;KeyPers_Shanghai_1230216;Name216;FistName216;2024-08-15 03:52:51;Vocational Training;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_202408154;KeyPers_Shanghai_1230403;Name403;FistName403;2024-08-15 14:09:37;Conference;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_202408155;KeyPers_Shanghai_1230639;Name639;FistName639;2024-08-15 01:23:05;Team Meeting;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202408156;KeyPers_Shanghai_1230850;Name850;FistName850;2024-08-15 06:10:48;Conference;Shanghai;China;Alger;Algeria;Avion;oui
+Shanghai_202408157;KeyPers_Shanghai_1230787;Name787;FistName787;2024-08-15 06:54:52;Conference;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_202408158;KeyPers_Shanghai_1230788;Name788;FistName788;2024-08-15 14:38:06;Conference;Shanghai;China;Tunis;Tunisie;Avion;oui

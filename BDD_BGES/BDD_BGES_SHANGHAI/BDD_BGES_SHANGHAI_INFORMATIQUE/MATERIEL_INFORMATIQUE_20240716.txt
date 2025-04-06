@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407160;KeyPers_Shanghai_1230223;Name223;FistName223;2024-07-16 11:02:18; ;Optiplex tower
+Shanghai_MATERIEL_INFO_202407161;KeyPers_Shanghai_1230011;Name11;FistName11;2024-07-16 11:03:51;Ecran;32pouces et plus
+Shanghai_MATERIEL_INFO_202407162;KeyPers_Shanghai_1230935;Name935;FistName935;2024-07-16 10:10:55;Vidéo projecteur;Pour amphi
+Shanghai_MATERIEL_INFO_202407163;KeyPers_Shanghai_1230180;Name180;FistName180;2024-07-16 11:56:49; ;iMac 21pouces retina
+Shanghai_MATERIEL_INFO_202407164;KeyPers_Shanghai_1230805;Name805;FistName805;2024-07-16 16:48:39;PC portable;EliteBook 10xx
+Shanghai_MATERIEL_INFO_202407165;KeyPers_Shanghai_1230678;Name678;FistName678;2024-07-16 16:31:43;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202407166;KeyPers_Shanghai_1230595;Name595;FistName595;2024-07-16 15:49:50; ;Optiplex micro
+Shanghai_MATERIEL_INFO_202407167;KeyPers_Shanghai_1230689;Name689;FistName689;2024-07-16 10:23:39;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202407168;KeyPers_Shanghai_1230192;Name192;FistName192;2024-07-16 08:28:02; ;MacBook air
+Shanghai_MATERIEL_INFO_202407169;KeyPers_Shanghai_1230617;Name617;FistName617;2024-07-16 15:55:33;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_2024071610;KeyPers_Shanghai_1230775;Name775;FistName775;2024-07-16 11:45:50;PC fixe sans ecran;Elite mini
+Shanghai_MATERIEL_INFO_2024071611;KeyPers_Shanghai_1230937;Name937;FistName937;2024-07-16 08:18:19;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_2024071612;KeyPers_Shanghai_1230969;Name969;FistName969;2024-07-16 16:20:02; ;Mac pro
+Shanghai_MATERIEL_INFO_2024071613;KeyPers_Shanghai_1230522;Name522;FistName522;2024-07-16 11:38:22; ;Precision tower 5xxx

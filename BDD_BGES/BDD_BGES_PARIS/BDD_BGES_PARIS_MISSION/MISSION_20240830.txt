@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202408300;KeyPers_Paris_1233943;Name3943;FistName3943;2024-08-30 10:46:49;Conférence;Paris;France;Sao Paulo;Brazil;Avion;non
+Paris_202408301;KeyPers_Paris_1234574;Name4574;FistName4574;2024-08-30 12:47:04;Formation;Paris;France;Compiègne;France;Avion;oui
+Paris_202408302;KeyPers_Paris_1231342;Name1342;FistName1342;2024-08-30 04:52:49;Développement;Paris;France;Bogota;Colombia;Avion;oui
+Paris_202408303;KeyPers_Paris_1233134;Name3134;FistName3134;2024-08-30 16:11:55;Rencontre entreprises;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_202408304;KeyPers_Paris_1233965;Name3965;FistName3965;2024-08-30 09:06:17;Formation;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_202408305;KeyPers_Paris_1231852;Name1852;FistName1852;2024-08-30 03:18:44;Développement;Paris;France;Lima;Peru;Avion;oui
+Paris_202408306;KeyPers_Paris_1234381;Name4381;FistName4381;2024-08-30 16:07:41;Formation;Paris;France;Melbourne;Australia;Avion;oui
+Paris_202408307;KeyPers_Paris_1234184;Name4184;FistName4184;2024-08-30 23:41:59;Réunion;Paris;France;Sidney;Australia;Avion;oui

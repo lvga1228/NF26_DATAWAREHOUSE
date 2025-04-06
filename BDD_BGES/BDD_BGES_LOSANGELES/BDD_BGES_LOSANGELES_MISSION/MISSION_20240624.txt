@@ -1,0 +1,31 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202406240;KeyPers_LA_1232500;Name2500;FistName2500;2024-06-24 12:15:43;Team Meeting;Los Angeles;USA;Sao Paulo;Brazil;Avion;oui
+LA_202406241;KeyPers_LA_1231203;Name1203;FistName1203;2024-06-24 21:09:54;Conference;Los Angeles;USA;Buenos Aires;Argentina;Avion;non
+LA_202406242;KeyPers_LA_1232348;Name2348;FistName2348;2024-06-24 07:35:12;Team Meeting;Paris;France;Lima;Peru;Avion;oui
+LA_202406243;KeyPers_LA_1232619;Name2619;FistName2619;2024-06-24 14:21:34;Business Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_202406244;KeyPers_LA_1232705;Name2705;FistName2705;2024-06-24 22:46:17;Business Meeting;Los Angeles;USA;Bogota;Colombia;Avion;oui
+LA_202406245;KeyPers_LA_1231917;Name1917;FistName1917;2024-06-24 18:11:57;Conference;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_202406246;KeyPers_LA_1231753;Name1753;FistName1753;2024-06-24 02:32:36;Conference;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_202406247;KeyPers_LA_1232181;Name2181;FistName2181;2024-06-24 01:27:24;Vocational Training;Los Angeles;USA;Washington;USA;Avion;oui
+LA_202406248;KeyPers_LA_1232758;Name2758;FistName2758;2024-06-24 13:47:37;Conference;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_202406249;KeyPers_LA_1231659;Name1659;FistName1659;2024-06-24 15:55:54;Vocational Training;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_2024062410;KeyPers_LA_1230657;Name657;FistName657;2024-06-24 23:59:22;Business Meeting;Los Angeles;USA;Alger;Algeria;Avion;oui
+LA_2024062411;KeyPers_LA_1231971;Name1971;FistName1971;2024-06-24 19:51:22;Business Meeting;Los Angeles;USA;Mexico;Mexico;Avion;non
+LA_2024062412;KeyPers_LA_1231113;Name1113;FistName1113;2024-06-24 19:47:30;Development;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_2024062413;KeyPers_LA_1232554;Name2554;FistName2554;2024-06-24 18:57:44;Business Meeting;Los Angeles;USA;Montreal;Canada;Avion;non
+LA_2024062414;KeyPers_LA_1231608;Name1608;FistName1608;2024-06-24 21:35:43;Conference;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_2024062415;KeyPers_LA_1231998;Name1998;FistName1998;2024-06-24 12:43:52;Development;Los Angeles;USA;Dubaï;Emirats;Avion;oui
+LA_2024062416;KeyPers_LA_1231498;Name1498;FistName1498;2024-06-24 19:46:06;Conference;Los Angeles;USA;Lille;France;Avion;oui
+LA_2024062417;KeyPers_LA_1231719;Name1719;FistName1719;2024-06-24 07:04:15;Business Meeting;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2024062418;KeyPers_LA_1230073;Name73;FistName73;2024-06-24 10:43:24;Team Meeting;Los Angeles;USA;London;England;Avion;oui
+LA_2024062419;KeyPers_LA_1231596;Name1596;FistName1596;2024-06-24 04:42:52;Team Meeting;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_2024062420;KeyPers_LA_1232569;Name2569;FistName2569;2024-06-24 19:48:03;Vocational Training;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2024062421;KeyPers_LA_1231809;Name1809;FistName1809;2024-06-24 12:41:54;Vocational Training;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_2024062422;KeyPers_LA_1232943;Name2943;FistName2943;2024-06-24 19:05:02;Conference;Los Angeles;USA;Berlin;Allemagne;Avion;non
+LA_2024062423;KeyPers_LA_1231771;Name1771;FistName1771;2024-06-24 11:57:50;Development;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_2024062424;KeyPers_LA_1232156;Name2156;FistName2156;2024-06-24 01:17:45;Conference;Shanghai;China;Stockholm;Suède;Avion;non
+LA_2024062425;KeyPers_LA_1232474;Name2474;FistName2474;2024-06-24 23:29:51;Conference;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_2024062426;KeyPers_LA_1230650;Name650;FistName650;2024-06-24 23:51:44;Team Meeting;Los Angeles;USA;London;England;Avion;oui
+LA_2024062427;KeyPers_LA_1232114;Name2114;FistName2114;2024-06-24 18:23:56;Business Meeting;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_2024062428;KeyPers_LA_1230549;Name549;FistName549;2024-06-24 05:40:39;Development;Los Angeles;USA;Bogota;Colombia;Avion;oui
+LA_2024062429;KeyPers_LA_1231837;Name1837;FistName1837;2024-06-24 03:15:23;Business Meeting;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui

@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202409100;KeyPers_Shanghai_1230759;Name759;FistName759;2024-09-10 10:23:54; ;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_202409101;KeyPers_Shanghai_1230208;Name208;FistName208;2024-09-10 15:04:44;PC portable;Chromebook 14-15pouces
+Shanghai_MATERIEL_INFO_202409102;KeyPers_Shanghai_1230861;Name861;FistName861;2024-09-10 14:55:24;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_202409103;KeyPers_Shanghai_1230965;Name965;FistName965;2024-09-10 14:10:11;PC fixe tout-en-un;modèle par défaut
+Shanghai_MATERIEL_INFO_202409104;KeyPers_Shanghai_1230712;Name712;FistName712;2024-09-10 08:06:16;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202409105;KeyPers_Shanghai_1230353;Name353;FistName353;2024-09-10 12:45:51;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202409106;KeyPers_Shanghai_1230797;Name797;FistName797;2024-09-10 15:54:27;Borne wifi; 
+Shanghai_MATERIEL_INFO_202409107;KeyPers_Shanghai_1230813;Name813;FistName813;2024-09-10 13:51:12;PC fixe sans ecran;Optiplex small

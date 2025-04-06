@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202411050;KeyPers_Shanghai_1230523;Name523;FistName523;2024-11-05 16:24:42;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202411051;KeyPers_Shanghai_1230051;Name51;FistName51;2024-11-05 11:51:43;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202411052;KeyPers_Shanghai_1230933;Name933;FistName933;2024-11-05 11:59:38;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202411053;KeyPers_Shanghai_1230119;Name119;FistName119;2024-11-05 15:52:40; ;Serveur de stockage
+Shanghai_MATERIEL_INFO_202411054;KeyPers_Shanghai_1230574;Name574;FistName574;2024-11-05 16:46:52;PC portable;Victus
+Shanghai_MATERIEL_INFO_202411055;KeyPers_Shanghai_1230805;Name805;FistName805;2024-11-05 08:01:42;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202411056;KeyPers_Shanghai_1230046;Name46;FistName46;2024-11-05 16:16:12;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202411057;KeyPers_Shanghai_1230350;Name350;FistName350;2024-11-05 11:14:15;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202411058;KeyPers_Shanghai_1230892;Name892;FistName892;2024-11-05 10:07:11;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202411059;KeyPers_Shanghai_1230452;Name452;FistName452;2024-11-05 09:11:54;PC portable;ZBook Studio

@@ -1,0 +1,5 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405170;KeyPers_Shanghai_1230457;Name457;FistName457;2024-05-17 10:51:46;PC portable;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202405171;KeyPers_Shanghai_1230022;Name22;FistName22;2024-05-17 15:31:27;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202405172;KeyPers_Shanghai_1230908;Name908;FistName908;2024-05-17 12:08:28;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202405173;KeyPers_Shanghai_1230214;Name214;FistName214;2024-05-17 16:47:52;PC fixe sans ecran;Precision tower 3xxx

@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202407300;KeyPers_Paris_1231667;Name1667;FistName1667;2024-07-30 19:46:17;Développement;Paris;France;Bogota;Colombia;Avion;non
+Paris_202407301;KeyPers_Paris_1230138;Name138;FistName138;2024-07-30 07:53:02;Développement;Paris;France;Tunis;Tunisie;Avion;oui
+Paris_202407302;KeyPers_Paris_1233643;Name3643;FistName3643;2024-07-30 21:24:25;Développement;Paris;France;Rabat;Maroc;Avion;oui
+Paris_202407303;KeyPers_Paris_1234411;Name4411;FistName4411;2024-07-30 06:21:21;Rencontre entreprises;Paris;France;Sao Paulo;Brazil;Avion;non
+Paris_202407304;KeyPers_Paris_1233554;Name3554;FistName3554;2024-07-30 05:30:08;Développement;Paris;France;Bogota;Colombia;Avion;oui
+Paris_202407305;KeyPers_Paris_1232854;Name2854;FistName2854;2024-07-30 06:53:59;Réunion;Paris;France;Auckland;New Zealand;Avion;oui
+Paris_202407306;KeyPers_Paris_1234989;Name4989;FistName4989;2024-07-30 01:44:12;Développement;Paris;France;Tunis;Tunisie;Avion;oui
+Paris_202407307;KeyPers_Paris_1232013;Name2013;FistName2013;2024-07-30 23:15:43;Conférence;Paris;France;Marseille;France;Taxi;oui

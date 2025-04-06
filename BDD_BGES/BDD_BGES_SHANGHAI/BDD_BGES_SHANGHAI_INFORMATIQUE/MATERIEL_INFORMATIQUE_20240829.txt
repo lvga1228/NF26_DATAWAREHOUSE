@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408290;KeyPers_Shanghai_1230934;Name934;FistName934;2024-08-29 12:30:21;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202408291;KeyPers_Shanghai_1230950;Name950;FistName950;2024-08-29 11:43:45;imprimante;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202408292;KeyPers_Shanghai_1230146;Name146;FistName146;2024-08-29 15:03:39;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202408293;KeyPers_Shanghai_1230074;Name74;FistName74;2024-08-29 12:38:39;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202408294;KeyPers_Shanghai_1230488;Name488;FistName488;2024-08-29 09:35:06;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202408295;KeyPers_Shanghai_1230513;Name513;FistName513;2024-08-29 14:17:42; ;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202408296;KeyPers_Shanghai_1230867;Name867;FistName867;2024-08-29 10:46:11; ;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202408297;KeyPers_Shanghai_1230508;Name508;FistName508;2024-08-29 09:33:02;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_202408298;KeyPers_Shanghai_1230879;Name879;FistName879;2024-08-29 14:53:11;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202408299;KeyPers_Shanghai_1230202;Name202;FistName202;2024-08-29 11:29:46;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_2024082910;KeyPers_Shanghai_1230217;Name217;FistName217;2024-08-29 09:47:01;PC fixe sans ecran;Elite (Tower, SFF, One)

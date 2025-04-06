@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202405180;KeyPers_London_1232658;Name2658;FistName2658;2024-05-18 06:11:17;Development;London;England;Pekin;China;Avion;oui
+LONDON_202405181;KeyPers_London_1232716;Name2716;FistName2716;2024-05-18 19:20:49;Vocational Training;London;England;Pekin;China;Avion;oui
+LONDON_202405182;KeyPers_London_1232732;Name2732;FistName2732;2024-05-18 16:56:21;Development;New-York;USA;Washington;USA;Avion;oui
+LONDON_202405183;KeyPers_London_1231495;Name1495;FistName1495;2024-05-18 07:18:12;Team Meeting;London;England;Stockholm;Suède;Avion;oui
+LONDON_202405184;KeyPers_London_1233768;Name3768;FistName3768;2024-05-18 04:09:01;Development;London;England;Alger;Algeria;Avion;oui
+LONDON_202405185;KeyPers_London_1230685;Name685;FistName685;2024-05-18 15:04:10;Vocational Training;London;England;Montreal;Canada;Avion;oui
+LONDON_202405186;KeyPers_London_1231525;Name1525;FistName1525;2024-05-18 03:28:33;Business Meeting;London;England;New-York;USA;Avion;oui
+LONDON_202405187;KeyPers_London_1231673;Name1673;FistName1673;2024-05-18 22:18:18;Vocational Training;London;England;Lima;Peru;Avion;oui
+LONDON_202405188;KeyPers_London_1230057;Name57;FistName57;2024-05-18 01:24:21;Business Meeting;Shanghai;China;Los Angeles;USA;Avion;oui
+LONDON_202405189;KeyPers_London_1231631;Name1631;FistName1631;2024-05-18 13:36:23;Conference;London;England;Tokyo;Japan;Avion;oui
+LONDON_2024051810;KeyPers_London_1231751;Name1751;FistName1751;2024-05-18 13:13:38;Development;London;England;Marseille;France;Avion;oui
+LONDON_2024051811;KeyPers_London_1232218;Name2218;FistName2218;2024-05-18 01:34:15;Vocational Training;Shanghai;China;Dubaï;Emirats;Avion;oui
+LONDON_2024051812;KeyPers_London_1233472;Name3472;FistName3472;2024-05-18 23:32:53;Conference;London;England;New-York;USA;Avion;oui
+LONDON_2024051813;KeyPers_London_1230196;Name196;FistName196;2024-05-18 08:04:26;Development;London;England;Washington;USA;Avion;oui

@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202407070;KeyPers_Berlin_1231620;Name1620;FistName1620;2024-07-07 05:27:42;Entwicklung;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_202407071;KeyPers_Berlin_1232780;Name2780;FistName2780;2024-07-07 02:12:51;Geschäftstreffen;Berlin;Allemagne;New-York;USA;Avion;oui
+BERLIN_202407072;KeyPers_Berlin_1231827;Name1827;FistName1827;2024-07-07 11:56:04;Meeting;Berlin;Allemagne;Stockholm;Suède;Avion;non
+BERLIN_202407073;KeyPers_Berlin_1234225;Name4225;FistName4225;2024-07-07 02:05:29;Entwicklung;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_202407074;KeyPers_Berlin_1231172;Name1172;FistName1172;2024-07-07 03:33:21;Geschäftstreffen;Berlin;Allemagne;London;England;Avion;oui
+BERLIN_202407075;KeyPers_Berlin_1231269;Name1269;FistName1269;2024-07-07 08:16:12;Schulung;Berlin;Allemagne;Alger;Algeria;Avion;non
+BERLIN_202407076;KeyPers_Berlin_1231212;Name1212;FistName1212;2024-07-07 05:02:19;Konferenz;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_202407077;KeyPers_Berlin_1230150;Name150;FistName150;2024-07-07 07:45:23;Entwicklung;Berlin;Allemagne;Los Angeles;USA;Avion;oui
+BERLIN_202407078;KeyPers_Berlin_1230792;Name792;FistName792;2024-07-07 14:17:48;Schulung;Paris;France;Lima;Peru;Avion;non
+BERLIN_202407079;KeyPers_Berlin_1230681;Name681;FistName681;2024-07-07 02:14:28;Schulung;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024070710;KeyPers_Berlin_1233293;Name3293;FistName3293;2024-07-07 14:31:30;Entwicklung;Berlin;Allemagne;Lille;France;Avion;oui
+BERLIN_2024070711;KeyPers_Berlin_1230592;Name592;FistName592;2024-07-07 05:30:40;Schulung;Berlin;Allemagne;Shanghai;China;Avion;oui
+BERLIN_2024070712;KeyPers_Berlin_1230268;Name268;FistName268;2024-07-07 12:51:56;Meeting;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui
+BERLIN_2024070713;KeyPers_Berlin_1230086;Name86;FistName86;2024-07-07 19:24:08;Geschäftstreffen;Berlin;Allemagne;Sao Paulo;Brazil;Avion;non
+BERLIN_2024070714;KeyPers_Berlin_1232126;Name2126;FistName2126;2024-07-07 13:11:37;Meeting;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2024070715;KeyPers_Berlin_1230069;Name69;FistName69;2024-07-07 15:02:19;Entwicklung;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_2024070716;KeyPers_Berlin_1234161;Name4161;FistName4161;2024-07-07 13:55:53;Entwicklung;Berlin;Allemagne;Bordeaux;France;Avion;oui
+BERLIN_2024070717;KeyPers_Berlin_1232246;Name2246;FistName2246;2024-07-07 10:41:05;Entwicklung;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_2024070718;KeyPers_Berlin_1231146;Name1146;FistName1146;2024-07-07 21:45:44;Schulung;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_2024070719;KeyPers_Berlin_1232595;Name2595;FistName2595;2024-07-07 15:51:45;Konferenz;Berlin;Allemagne;Compiègne;France;Avion;oui
+BERLIN_2024070720;KeyPers_Berlin_1232070;Name2070;FistName2070;2024-07-07 07:48:46;Meeting;Berlin;Allemagne;Osaka;Japan;Avion;oui
+BERLIN_2024070721;KeyPers_Berlin_1230530;Name530;FistName530;2024-07-07 05:53:25;Konferenz;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_2024070722;KeyPers_Berlin_1233202;Name3202;FistName3202;2024-07-07 17:36:32;Schulung;New-York;USA;Tunis;Tunisie;Avion;oui
+BERLIN_2024070723;KeyPers_Berlin_1231682;Name1682;FistName1682;2024-07-07 16:43:07;Entwicklung;Berlin;Allemagne;Helsinki;Finlande;Avion;oui
+BERLIN_2024070724;KeyPers_Berlin_1230322;Name322;FistName322;2024-07-07 04:20:03;Schulung;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2024070725;KeyPers_Berlin_1234097;Name4097;FistName4097;2024-07-07 16:47:03;Geschäftstreffen;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2024070726;KeyPers_Berlin_1233711;Name3711;FistName3711;2024-07-07 16:22:59;Schulung;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_2024070727;KeyPers_Berlin_1230245;Name245;FistName245;2024-07-07 18:06:54;Entwicklung;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_2024070728;KeyPers_Berlin_1234166;Name4166;FistName4166;2024-07-07 18:30:16;Konferenz;Berlin;Allemagne;Buenos Aires;Argentina;Avion;oui

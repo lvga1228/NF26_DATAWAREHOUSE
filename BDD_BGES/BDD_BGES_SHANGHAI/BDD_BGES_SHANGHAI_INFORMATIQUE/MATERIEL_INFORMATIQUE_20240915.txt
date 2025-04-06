@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202409150;KeyPers_Shanghai_1230225;Name225;FistName225;2024-09-15 16:28:32;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_202409151;KeyPers_Shanghai_1230456;Name456;FistName456;2024-09-15 11:40:57;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202409152;KeyPers_Shanghai_1230130;Name130;FistName130;2024-09-15 14:14:15;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202409153;KeyPers_Shanghai_1230883;Name883;FistName883;2024-09-15 16:33:05; ;Mac pro
+Shanghai_MATERIEL_INFO_202409154;KeyPers_Shanghai_1230922;Name922;FistName922;2024-09-15 09:58:18;PC fixe sans ecran;Elite (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202409155;KeyPers_Shanghai_1230836;Name836;FistName836;2024-09-15 10:49:58;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202409156;KeyPers_Shanghai_1230511;Name511;FistName511;2024-09-15 08:13:20;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202409157;KeyPers_Shanghai_1230161;Name161;FistName161;2024-09-15 08:58:53;Ecran;32pouces et plus
+Shanghai_MATERIEL_INFO_202409158;KeyPers_Shanghai_1230961;Name961;FistName961;2024-09-15 16:47:07; ;Pour amphi

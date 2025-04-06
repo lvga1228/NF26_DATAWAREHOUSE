@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406280;KeyPers_Shanghai_1230999;Name999;FistName999;2024-06-28 15:50:15; ;Z
+Shanghai_MATERIEL_INFO_202406281;KeyPers_Shanghai_1230528;Name528;FistName528;2024-06-28 08:13:33;Vidéo projecteur; 
+Shanghai_MATERIEL_INFO_202406282;KeyPers_Shanghai_1230162;Name162;FistName162;2024-06-28 15:28:42;PC portable;Victus
+Shanghai_MATERIEL_INFO_202406283;KeyPers_Shanghai_1230934;Name934;FistName934;2024-06-28 09:57:15;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202406284;KeyPers_Shanghai_1230731;Name731;FistName731;2024-06-28 16:51:38;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202406285;KeyPers_Shanghai_1230974;Name974;FistName974;2024-06-28 16:49:47; ;Wyse thin client
+Shanghai_MATERIEL_INFO_202406286;KeyPers_Shanghai_1230904;Name904;FistName904;2024-06-28 11:24:26;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202406287;KeyPers_Shanghai_1230164;Name164;FistName164;2024-06-28 16:35:39;PC portable;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202406288;KeyPers_Shanghai_1230874;Name874;FistName874;2024-06-28 15:14:13;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_202406289;KeyPers_Shanghai_1230122;Name122;FistName122;2024-06-28 11:51:28; ;Optiplex All-in-One 5xxx

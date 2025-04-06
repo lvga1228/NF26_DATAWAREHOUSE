@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202411060;KeyPers_Shanghai_1230754;Name754;FistName754;2024-11-06 15:40:46;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202411061;KeyPers_Shanghai_1230885;Name885;FistName885;2024-11-06 16:45:04;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202411062;KeyPers_Shanghai_1230876;Name876;FistName876;2024-11-06 14:19:46;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202411063;KeyPers_Shanghai_1230575;Name575;FistName575;2024-11-06 10:37:46;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202411064;KeyPers_Shanghai_1230690;Name690;FistName690;2024-11-06 10:24:58;imprimante;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_202411065;KeyPers_Shanghai_1230511;Name511;FistName511;2024-11-06 14:57:16;PC portable;Latitude 5xxx

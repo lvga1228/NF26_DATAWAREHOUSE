@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407180;KeyPers_Shanghai_1230288;Name288;FistName288;2024-07-18 14:36:46;Ecran;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_202407181;KeyPers_Shanghai_1230982;Name982;FistName982;2024-07-18 10:06:31;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202407182;KeyPers_Shanghai_1230481;Name481;FistName481;2024-07-18 14:04:08;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202407183;KeyPers_Shanghai_1230643;Name643;FistName643;2024-07-18 16:01:53;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_202407184;KeyPers_Shanghai_1230224;Name224;FistName224;2024-07-18 12:33:26;PC fixe tout-en-un; 
+Shanghai_MATERIEL_INFO_202407185;KeyPers_Shanghai_1230271;Name271;FistName271;2024-07-18 08:15:09;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202407186;KeyPers_Shanghai_1230451;Name451;FistName451;2024-07-18 12:24:20;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_202407187;KeyPers_Shanghai_1230368;Name368;FistName368;2024-07-18 09:16:15;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202407188;KeyPers_Shanghai_1230585;Name585;FistName585;2024-07-18 10:07:23;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202407189;KeyPers_Shanghai_1230197;Name197;FistName197;2024-07-18 15:04:04;PC portable;Chromebook 14-15pouces

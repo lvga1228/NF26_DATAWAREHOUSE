@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406160;KeyPers_Shanghai_1230094;Name94;FistName94;2024-06-16 11:52:14;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202406161;KeyPers_Shanghai_1230665;Name665;FistName665;2024-06-16 11:48:54; ;Optiplex All-in-One 5xxx
+Shanghai_MATERIEL_INFO_202406162;KeyPers_Shanghai_1230309;Name309;FistName309;2024-06-16 13:05:11;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202406163;KeyPers_Shanghai_1230816;Name816;FistName816;2024-06-16 13:30:10;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202406164;KeyPers_Shanghai_1230298;Name298;FistName298;2024-06-16 14:42:07;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202406165;KeyPers_Shanghai_1230743;Name743;FistName743;2024-06-16 12:18:24;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202406166;KeyPers_Shanghai_1230044;Name44;FistName44;2024-06-16 15:47:25;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202406167;KeyPers_Shanghai_1230569;Name569;FistName569;2024-06-16 15:11:06; ;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202406168;KeyPers_Shanghai_1230996;Name996;FistName996;2024-06-16 10:59:25;PC portable;OMEN 
+Shanghai_MATERIEL_INFO_202406169;KeyPers_Shanghai_1230945;Name945;FistName945;2024-06-16 12:50:20;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_2024061610;KeyPers_Shanghai_1230407;Name407;FistName407;2024-06-16 11:22:39;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_2024061611;KeyPers_Shanghai_1230442;Name442;FistName442;2024-06-16 15:09:16;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_2024061612;KeyPers_Shanghai_1230939;Name939;FistName939;2024-06-16 09:47:45;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_2024061613;KeyPers_Shanghai_1230567;Name567;FistName567;2024-06-16 13:58:28; ;modèle par défaut

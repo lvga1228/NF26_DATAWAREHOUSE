@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405300;KeyPers_Shanghai_1230789;Name789;FistName789;2024-05-30 12:09:08;imprimante;modèle par défaut
+Shanghai_MATERIEL_INFO_202405301;KeyPers_Shanghai_1230878;Name878;FistName878;2024-05-30 16:14:01;clavier; 
+Shanghai_MATERIEL_INFO_202405302;KeyPers_Shanghai_1230304;Name304;FistName304;2024-05-30 14:57:04; ;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202405303;KeyPers_Shanghai_1230965;Name965;FistName965;2024-05-30 12:35:51;Vidéo projecteur; 
+Shanghai_MATERIEL_INFO_202405304;KeyPers_Shanghai_1230296;Name296;FistName296;2024-05-30 12:26:43; ;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202405305;KeyPers_Shanghai_1230533;Name533;FistName533;2024-05-30 16:27:20;PC portable;EliteBook 8xx
+Shanghai_MATERIEL_INFO_202405306;KeyPers_Shanghai_1230040;Name40;FistName40;2024-05-30 14:39:04;Ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202405307;KeyPers_Shanghai_1230207;Name207;FistName207;2024-05-30 12:16:28; ;OMEN 
+Shanghai_MATERIEL_INFO_202405308;KeyPers_Shanghai_1230227;Name227;FistName227;2024-05-30 11:49:49;PC fixe tout-en-un;iMac 21pouces
+Shanghai_MATERIEL_INFO_202405309;KeyPers_Shanghai_1230835;Name835;FistName835;2024-05-30 10:59:58;imprimante;Laser à poser (<40kg)

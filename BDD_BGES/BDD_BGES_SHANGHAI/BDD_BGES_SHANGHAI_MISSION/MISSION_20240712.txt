@@ -1,0 +1,18 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202407120;KeyPers_Shanghai_1230082;Name82;FistName82;2024-07-12 06:24:29;Business Meeting;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_202407121;KeyPers_Shanghai_1230483;Name483;FistName483;2024-07-12 01:03:21;Vocational Training;Shanghai;China;New-York;USA;Avion;oui
+Shanghai_202407122;KeyPers_Shanghai_1230492;Name492;FistName492;2024-07-12 14:44:42;Conference;Shanghai;China;Tokyo;Japan;Avion;oui
+Shanghai_202407123;KeyPers_Shanghai_1230315;Name315;FistName315;2024-07-12 23:43:19;Team Meeting;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202407124;KeyPers_Shanghai_1230581;Name581;FistName581;2024-07-12 01:13:24;Team Meeting;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202407125;KeyPers_Shanghai_1230584;Name584;FistName584;2024-07-12 11:48:46;Development;New-York;USA;Wellington;New Zealand;Avion;oui
+Shanghai_202407126;KeyPers_Shanghai_1230649;Name649;FistName649;2024-07-12 15:01:12;Business Meeting;Shanghai;China;Osaka;Japan;Avion;oui
+Shanghai_202407127;KeyPers_Shanghai_1230999;Name999;FistName999;2024-07-12 17:14:53;Conference;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_202407128;KeyPers_Shanghai_1230379;Name379;FistName379;2024-07-12 03:50:50;Business Meeting;Shanghai;China;Shanghai;China;Transports en commun;non
+Shanghai_202407129;KeyPers_Shanghai_1230061;Name61;FistName61;2024-07-12 21:03:31;Business Meeting;Shanghai;China;Melbourne;Australia;Avion;oui
+Shanghai_2024071210;KeyPers_Shanghai_1230406;Name406;FistName406;2024-07-12 21:47:38;Team Meeting;Shanghai;China;Lille;France;Avion;oui
+Shanghai_2024071211;KeyPers_Shanghai_1230064;Name64;FistName64;2024-07-12 09:56:33;Conference;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_2024071212;KeyPers_Shanghai_1230777;Name777;FistName777;2024-07-12 07:01:41;Business Meeting;Shanghai;China;New-York;USA;Avion;oui
+Shanghai_2024071213;KeyPers_Shanghai_1230890;Name890;FistName890;2024-07-12 20:01:03;Conference;Shanghai;China;Lille;France;Avion;oui
+Shanghai_2024071214;KeyPers_Shanghai_1230031;Name31;FistName31;2024-07-12 07:14:03;Team Meeting;Shanghai;China;Auckland;New Zealand;Avion;oui
+Shanghai_2024071215;KeyPers_Shanghai_1230299;Name299;FistName299;2024-07-12 22:57:33;Development;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_2024071216;KeyPers_Shanghai_1230180;Name180;FistName180;2024-07-12 04:56:01;Development;Shanghai;China;Compiègne;France;Avion;oui

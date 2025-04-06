@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406250;KeyPers_Shanghai_1230656;Name656;FistName656;2024-06-25 08:02:07; ;OMEN 
+Shanghai_MATERIEL_INFO_202406251;KeyPers_Shanghai_1230458;Name458;FistName458;2024-06-25 09:10:45;PC fixe tout-en-un; 
+Shanghai_MATERIEL_INFO_202406252;KeyPers_Shanghai_1230142;Name142;FistName142;2024-06-25 09:07:32;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202406253;KeyPers_Shanghai_1230672;Name672;FistName672;2024-06-25 08:51:26; ;MacBook air retina
+Shanghai_MATERIEL_INFO_202406254;KeyPers_Shanghai_1230757;Name757;FistName757;2024-06-25 13:59:26;PC portable; 
+Shanghai_MATERIEL_INFO_202406255;KeyPers_Shanghai_1230209;Name209;FistName209;2024-06-25 15:21:26;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_202406256;KeyPers_Shanghai_1230171;Name171;FistName171;2024-06-25 15:49:16;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202406257;KeyPers_Shanghai_1230959;Name959;FistName959;2024-06-25 10:31:03;Telephone IP;modèle par défaut

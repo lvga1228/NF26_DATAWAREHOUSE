@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202411020;KeyPers_Shanghai_1230668;Name668;FistName668;2024-11-02 15:12:40;Ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202411021;KeyPers_Shanghai_1230708;Name708;FistName708;2024-11-02 15:08:40;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_202411022;KeyPers_Shanghai_1230550;Name550;FistName550;2024-11-02 16:27:52;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202411023;KeyPers_Shanghai_1230867;Name867;FistName867;2024-11-02 12:29:02;Ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202411024;KeyPers_Shanghai_1230746;Name746;FistName746;2024-11-02 15:03:18;PC fixe sans ecran;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_202411025;KeyPers_Shanghai_1230963;Name963;FistName963;2024-11-02 14:45:26;PC portable;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202411026;KeyPers_Shanghai_1230779;Name779;FistName779;2024-11-02 11:05:38;PC portable;ZBook Studio
+Shanghai_MATERIEL_INFO_202411027;KeyPers_Shanghai_1230441;Name441;FistName441;2024-11-02 09:11:26;Borne wifi;modèle par défaut
+Shanghai_MATERIEL_INFO_202411028;KeyPers_Shanghai_1230289;Name289;FistName289;2024-11-02 09:38:25;PC fixe sans ecran;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202411029;KeyPers_Shanghai_1230661;Name661;FistName661;2024-11-02 08:10:15; ;24pouces-31pouces
+Shanghai_MATERIEL_INFO_2024110210;KeyPers_Shanghai_1230173;Name173;FistName173;2024-11-02 10:17:59;Ecran;jusqu'à 23pouces

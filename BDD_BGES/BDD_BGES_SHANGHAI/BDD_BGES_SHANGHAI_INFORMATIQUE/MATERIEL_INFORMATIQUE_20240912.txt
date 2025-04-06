@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202409120;KeyPers_Shanghai_1230229;Name229;FistName229;2024-09-12 09:10:06; ;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202409121;KeyPers_Shanghai_1230599;Name599;FistName599;2024-09-12 13:24:18; ;Pour amphi
+Shanghai_MATERIEL_INFO_202409122;KeyPers_Shanghai_1230634;Name634;FistName634;2024-09-12 08:57:19;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_202409123;KeyPers_Shanghai_1230611;Name611;FistName611;2024-09-12 15:35:10;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202409124;KeyPers_Shanghai_1230477;Name477;FistName477;2024-09-12 11:37:13;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202409125;KeyPers_Shanghai_1230544;Name544;FistName544;2024-09-12 09:19:36;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202409126;KeyPers_Shanghai_1230125;Name125;FistName125;2024-09-12 13:26:39;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202409127;KeyPers_Shanghai_1230468;Name468;FistName468;2024-09-12 13:04:39;PC portable;MacBook air retina
+Shanghai_MATERIEL_INFO_202409128;KeyPers_Shanghai_1230642;Name642;FistName642;2024-09-12 13:38:02;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202409129;KeyPers_Shanghai_1230554;Name554;FistName554;2024-09-12 11:02:16;PC fixe sans ecran;ZHAN
+Shanghai_MATERIEL_INFO_2024091210;KeyPers_Shanghai_1230433;Name433;FistName433;2024-09-12 12:26:29;PC fixe sans ecran;ZHAN

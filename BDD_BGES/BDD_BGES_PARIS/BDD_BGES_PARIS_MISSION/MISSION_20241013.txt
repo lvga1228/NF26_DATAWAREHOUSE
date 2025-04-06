@@ -1,0 +1,6 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202410130;KeyPers_Paris_1233622;Name3622;FistName3622;2024-10-13 15:35:43;Développement;Paris;France;Sidney;Australia;Avion;non
+Paris_202410131;KeyPers_Paris_1233062;Name3062;FistName3062;2024-10-13 21:17:29;Formation;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_202410132;KeyPers_Paris_1233782;Name3782;FistName3782;2024-10-13 17:34:38;Développement;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_202410133;KeyPers_Paris_1230291;Name291;FistName291;2024-10-13 04:14:27;Conférence;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_202410134;KeyPers_Paris_1230756;Name756;FistName756;2024-10-13 06:30:40;Rencontre entreprises;Paris;France;Stockholm;Suède;Avion;oui

@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406120;KeyPers_Shanghai_1230025;Name25;FistName25;2024-06-12 13:58:27;imprimante;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_202406121;KeyPers_Shanghai_1230705;Name705;FistName705;2024-06-12 10:21:23;PC portable;MacBook pro 13pouces
+Shanghai_MATERIEL_INFO_202406122;KeyPers_Shanghai_1230504;Name504;FistName504;2024-06-12 14:21:12; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202406123;KeyPers_Shanghai_1230128;Name128;FistName128;2024-06-12 10:39:15;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202406124;KeyPers_Shanghai_1230616;Name616;FistName616;2024-06-12 08:13:25;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202406125;KeyPers_Shanghai_1230516;Name516;FistName516;2024-06-12 08:14:22;PC fixe tout-en-un;Optiplex All-in-One 5xxx

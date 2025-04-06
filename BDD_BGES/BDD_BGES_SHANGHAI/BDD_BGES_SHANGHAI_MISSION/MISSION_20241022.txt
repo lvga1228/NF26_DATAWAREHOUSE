@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202410220;KeyPers_Shanghai_1230725;Name725;FistName725;2024-10-22 08:34:57;Team Meeting;Shanghai;China;Osaka;Japan;Avion;non
+Shanghai_202410221;KeyPers_Shanghai_1230801;Name801;FistName801;2024-10-22 08:33:52;Vocational Training;Shanghai;China;Wellington;New Zealand;Avion;oui
+Shanghai_202410222;KeyPers_Shanghai_1230803;Name803;FistName803;2024-10-22 21:26:35;Conference;Shanghai;China;Rio de Janeiro;Brazil;Avion;oui
+Shanghai_202410223;KeyPers_Shanghai_1230290;Name290;FistName290;2024-10-22 07:49:10;Team Meeting;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202410224;KeyPers_Shanghai_1230950;Name950;FistName950;2024-10-22 15:34:32;Team Meeting;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202410225;KeyPers_Shanghai_1230374;Name374;FistName374;2024-10-22 23:18:44;Development;Shanghai;China;Auckland;New Zealand;Avion;oui
+Shanghai_202410226;KeyPers_Shanghai_1230286;Name286;FistName286;2024-10-22 08:42:35;Team Meeting;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202410227;KeyPers_Shanghai_1230982;Name982;FistName982;2024-10-22 18:13:13;Development;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_202410228;KeyPers_Shanghai_1230242;Name242;FistName242;2024-10-22 23:38:18;Business Meeting;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202410229;KeyPers_Shanghai_1230894;Name894;FistName894;2024-10-22 04:42:44;Conference;Shanghai;China;Auckland;New Zealand;Avion;oui
+Shanghai_2024102210;KeyPers_Shanghai_1230622;Name622;FistName622;2024-10-22 20:38:52;Business Meeting;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_2024102211;KeyPers_Shanghai_1230354;Name354;FistName354;2024-10-22 07:25:49;Business Meeting;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_2024102212;KeyPers_Shanghai_1230527;Name527;FistName527;2024-10-22 12:58:19;Business Meeting;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_2024102213;KeyPers_Shanghai_1230092;Name92;FistName92;2024-10-22 18:32:30;Team Meeting;Shanghai;China;London;England;Avion;non

@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202410010;KeyPers_Shanghai_1230852;Name852;FistName852;2024-10-01 08:01:29;PC fixe sans ecran;Optiplex micro
+Shanghai_MATERIEL_INFO_202410011;KeyPers_Shanghai_1230789;Name789;FistName789;2024-10-01 09:04:38;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202410012;KeyPers_Shanghai_1230281;Name281;FistName281;2024-10-01 14:01:22;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202410013;KeyPers_Shanghai_1230193;Name193;FistName193;2024-10-01 08:26:53;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_202410014;KeyPers_Shanghai_1230238;Name238;FistName238;2024-10-01 10:14:48;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202410015;KeyPers_Shanghai_1230746;Name746;FistName746;2024-10-01 15:31:26;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202410016;KeyPers_Shanghai_1230838;Name838;FistName838;2024-10-01 10:25:25; ;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202410017;KeyPers_Shanghai_1230823;Name823;FistName823;2024-10-01 10:31:30; ;MacBook air retina

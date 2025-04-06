@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408110;KeyPers_Shanghai_1230691;Name691;FistName691;2024-08-11 10:53:42; ;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202408111;KeyPers_Shanghai_1230958;Name958;FistName958;2024-08-11 11:30:34;PC fixe sans ecran;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202408112;KeyPers_Shanghai_1230810;Name810;FistName810;2024-08-11 14:30:37;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202408113;KeyPers_Shanghai_1230031;Name31;FistName31;2024-08-11 12:03:38;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202408114;KeyPers_Shanghai_1230447;Name447;FistName447;2024-08-11 10:08:14;PC portable;OMEN 
+Shanghai_MATERIEL_INFO_202408115;KeyPers_Shanghai_1230916;Name916;FistName916;2024-08-11 13:09:44;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202408116;KeyPers_Shanghai_1230387;Name387;FistName387;2024-08-11 10:59:16;PC portable;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202408117;KeyPers_Shanghai_1230770;Name770;FistName770;2024-08-11 08:51:38; ;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202408118;KeyPers_Shanghai_1230992;Name992;FistName992;2024-08-11 11:27:22;PC portable;ZBook

@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202407160;KeyPers_LA_1232016;Name2016;FistName2016;2024-07-16 22:11:24;Business Meeting;Los Angeles;USA;Tunis;Tunisie;Avion;oui
+LA_202407161;KeyPers_LA_1232144;Name2144;FistName2144;2024-07-16 05:27:13;Conference;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_202407162;KeyPers_LA_1230585;Name585;FistName585;2024-07-16 06:59:18;Business Meeting;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_202407163;KeyPers_LA_1231060;Name1060;FistName1060;2024-07-16 14:13:33;Vocational Training;Los Angeles;USA;Washington;USA;Taxi;non
+LA_202407164;KeyPers_LA_1231302;Name1302;FistName1302;2024-07-16 09:12:38;Team Meeting;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_202407165;KeyPers_LA_1231128;Name1128;FistName1128;2024-07-16 09:34:25;Development;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202407166;KeyPers_LA_1230344;Name344;FistName344;2024-07-16 02:54:19;Conference;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_202407167;KeyPers_LA_1232247;Name2247;FistName2247;2024-07-16 07:38:21;Development;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202407168;KeyPers_LA_1232086;Name2086;FistName2086;2024-07-16 02:14:20;Vocational Training;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_202407169;KeyPers_LA_1231387;Name1387;FistName1387;2024-07-16 06:19:18;Team Meeting;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_2024071610;KeyPers_LA_1232962;Name2962;FistName2962;2024-07-16 09:29:39;Business Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_2024071611;KeyPers_LA_1230695;Name695;FistName695;2024-07-16 14:20:23;Development;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2024071612;KeyPers_LA_1231875;Name1875;FistName1875;2024-07-16 14:49:22;Team Meeting;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_2024071613;KeyPers_LA_1230753;Name753;FistName753;2024-07-16 21:46:56;Team Meeting;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_2024071614;KeyPers_LA_1230565;Name565;FistName565;2024-07-16 06:13:35;Team Meeting;Los Angeles;USA;Lille;France;Avion;oui

@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406170;KeyPers_Shanghai_1230497;Name497;FistName497;2024-06-17 08:02:46;Vidéo projecteur;Pour amphi
+Shanghai_MATERIEL_INFO_202406171;KeyPers_Shanghai_1230119;Name119;FistName119;2024-06-17 08:47:52;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202406172;KeyPers_Shanghai_1230834;Name834;FistName834;2024-06-17 13:36:44;Tablette;modèle par défaut
+Shanghai_MATERIEL_INFO_202406173;KeyPers_Shanghai_1230256;Name256;FistName256;2024-06-17 10:15:50;PC fixe tout-en-un;iMac 21pouces retina
+Shanghai_MATERIEL_INFO_202406174;KeyPers_Shanghai_1230351;Name351;FistName351;2024-06-17 08:03:40;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202406175;KeyPers_Shanghai_1230534;Name534;FistName534;2024-06-17 08:41:45;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202406176;KeyPers_Shanghai_1230953;Name953;FistName953;2024-06-17 15:16:20;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202406177;KeyPers_Shanghai_1230983;Name983;FistName983;2024-06-17 13:06:19; ;Optiplex small
+Shanghai_MATERIEL_INFO_202406178;KeyPers_Shanghai_1230619;Name619;FistName619;2024-06-17 12:24:55;Ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202406179;KeyPers_Shanghai_1230132;Name132;FistName132;2024-06-17 16:48:17; ;Chromebook 14-15pouces
+Shanghai_MATERIEL_INFO_2024061710;KeyPers_Shanghai_1230718;Name718;FistName718;2024-06-17 16:11:20;Serveur;Modèle par défaut
+Shanghai_MATERIEL_INFO_2024061711;KeyPers_Shanghai_1230323;Name323;FistName323;2024-06-17 15:37:45;Ecran;jusqu'à 23pouces

@@ -1,0 +1,6 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202409160;KeyPers_London_1231999;Name1999;FistName1999;2024-09-16 19:34:01;Conference;Shanghai;China;Tokyo;Japan;Avion;oui
+LONDON_202409161;KeyPers_London_1233354;Name3354;FistName3354;2024-09-16 02:55:43;Conference;London;England;Compiègne;France;Avion;oui
+LONDON_202409162;KeyPers_London_1232412;Name2412;FistName2412;2024-09-16 23:26:11;Team Meeting;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_202409163;KeyPers_London_1231885;Name1885;FistName1885;2024-09-16 08:07:41;Vocational Training;London;England;Berlin;Allemagne;Avion;non
+LONDON_202409164;KeyPers_London_1231850;Name1850;FistName1850;2024-09-16 06:38:45;Team Meeting;Paris;France;Pekin;China;Avion;oui

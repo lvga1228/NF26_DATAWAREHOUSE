@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407020;KeyPers_Shanghai_1230277;Name277;FistName277;2024-07-02 16:31:24;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_202407021;KeyPers_Shanghai_1230732;Name732;FistName732;2024-07-02 13:44:48; ;iMac 21pouces
+Shanghai_MATERIEL_INFO_202407022;KeyPers_Shanghai_1230618;Name618;FistName618;2024-07-02 15:04:24;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202407023;KeyPers_Shanghai_1230278;Name278;FistName278;2024-07-02 08:02:43;PC portable;Precision 5xxx
+Shanghai_MATERIEL_INFO_202407024;KeyPers_Shanghai_1230012;Name12;FistName12;2024-07-02 09:32:11;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202407025;KeyPers_Shanghai_1230621;Name621;FistName621;2024-07-02 12:12:58;PC fixe sans ecran;ZHAN

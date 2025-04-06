@@ -1,0 +1,11 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202406020;KeyPers_LA_1231058;Name1058;FistName1058;2024-06-02 22:17:24;Vocational Training;Los Angeles;USA;Bordeaux;France;Avion;oui
+LA_202406021;KeyPers_LA_1230449;Name449;FistName449;2024-06-02 11:31:28;Team Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202406022;KeyPers_LA_1230239;Name239;FistName239;2024-06-02 18:14:42;Vocational Training;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;non
+LA_202406023;KeyPers_LA_1231372;Name1372;FistName1372;2024-06-02 02:42:17;Conference;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_202406024;KeyPers_LA_1231764;Name1764;FistName1764;2024-06-02 04:07:16;Team Meeting;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_202406025;KeyPers_LA_1231967;Name1967;FistName1967;2024-06-02 06:07:11;Development;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_202406026;KeyPers_LA_1232034;Name2034;FistName2034;2024-06-02 13:40:23;Conference;Los Angeles;USA;Rabat;Maroc;Avion;non
+LA_202406027;KeyPers_LA_1231581;Name1581;FistName1581;2024-06-02 04:29:50;Conference;Los Angeles;USA;Sao Paulo;Brazil;Avion;oui
+LA_202406028;KeyPers_LA_1231141;Name1141;FistName1141;2024-06-02 16:21:50;Business Meeting;Shanghai;China;Bordeaux;France;Avion;oui
+LA_202406029;KeyPers_LA_1230171;Name171;FistName171;2024-06-02 08:59:53;Conference;Shanghai;China;Rabat;Maroc;Avion;oui

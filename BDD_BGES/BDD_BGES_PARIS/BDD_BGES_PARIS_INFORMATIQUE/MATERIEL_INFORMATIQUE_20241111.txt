@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202411110;KeyPers_Paris_1231320;Name1320;FistName1320;2024-11-11 08:56:39;PC fixe sans ecran;Optiplex micro
+Paris_MATERIEL_INFO_202411111;KeyPers_Paris_1232151;Name2151;FistName2151;2024-11-11 13:26:21;PC portable;ZBook Studio
+Paris_MATERIEL_INFO_202411112;KeyPers_Paris_1231308;Name1308;FistName1308;2024-11-11 11:13:02;Disque dur;modèle par défaut
+Paris_MATERIEL_INFO_202411113;KeyPers_Paris_1230149;Name149;FistName149;2024-11-11 12:18:31;PC portable;Moyenne 13pouces
+Paris_MATERIEL_INFO_202411114;KeyPers_Paris_1232450;Name2450;FistName2450;2024-11-11 13:23:48;PC portable;Precision 3xxx
+Paris_MATERIEL_INFO_202411115;KeyPers_Paris_1231660;Name1660;FistName1660;2024-11-11 09:12:08; ;modèle par défaut
+Paris_MATERIEL_INFO_202411116;KeyPers_Paris_1234641;Name4641;FistName4641;2024-11-11 11:23:30;PC portable;modèle par défaut
+Paris_MATERIEL_INFO_202411117;KeyPers_Paris_1232484;Name2484;FistName2484;2024-11-11 09:33:29;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Paris_MATERIEL_INFO_202411118;KeyPers_Paris_1234804;Name4804;FistName4804;2024-11-11 08:29:24;Vidéo projecteur;modèle par défaut
+Paris_MATERIEL_INFO_202411119;KeyPers_Paris_1234284;Name4284;FistName4284;2024-11-11 13:21:50;PC fixe sans ecran;modèle par défaut

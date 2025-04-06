@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202411040;KeyPers_NewYork_1230263;Name263;FistName263;2024-11-04 10:11:42;Development;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202411041;KeyPers_NewYork_1232727;Name2727;FistName2727;2024-11-04 18:08:25;Business Meeting;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202411042;KeyPers_NewYork_1230896;Name896;FistName896;2024-11-04 19:57:24;Vocational Training;New-York;USA;Lima;Peru;Avion;non
+NewYork_202411043;KeyPers_NewYork_1232740;Name2740;FistName2740;2024-11-04 09:35:48;Development;New-York;USA;Lille;France;Avion;oui
+NewYork_202411044;KeyPers_NewYork_1230298;Name298;FistName298;2024-11-04 09:03:47;Business Meeting;New-York;USA;Lille;France;Avion;oui
+NewYork_202411045;KeyPers_NewYork_1232653;Name2653;FistName2653;2024-11-04 16:57:01;Team Meeting;New-York;USA;Wellington;New Zealand;Avion;oui
+NewYork_202411046;KeyPers_NewYork_1230222;Name222;FistName222;2024-11-04 09:46:26;Development;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202411047;KeyPers_NewYork_1230226;Name226;FistName226;2024-11-04 08:36:47;Development;New-York;USA;Washington;USA;Train;oui
+NewYork_202411048;KeyPers_NewYork_1232542;Name2542;FistName2542;2024-11-04 12:10:18;Development;New-York;USA;Shanghai;China;Avion;oui
+NewYork_202411049;KeyPers_NewYork_1231737;Name1737;FistName1737;2024-11-04 08:51:17;Development;New-York;USA;Alger;Algeria;Avion;non
+NewYork_2024110410;KeyPers_NewYork_1231878;Name1878;FistName1878;2024-11-04 05:11:12;Development;New-York;USA;Compiègne;France;Avion;oui
+NewYork_2024110411;KeyPers_NewYork_1231281;Name1281;FistName1281;2024-11-04 10:39:46;Development;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_2024110412;KeyPers_NewYork_1230423;Name423;FistName423;2024-11-04 02:19:12;Business Meeting;New-York;USA;Shanghai;China;Avion;oui
+NewYork_2024110413;KeyPers_NewYork_1232352;Name2352;FistName2352;2024-11-04 03:38:53;Business Meeting;New-York;USA;Alger;Algeria;Avion;oui
+NewYork_2024110414;KeyPers_NewYork_1232642;Name2642;FistName2642;2024-11-04 21:01:21;Development;New-York;USA;New-York;USA;Transports en commun;oui

@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202406210;KeyPers_NewYork_1231134;Name1134;FistName1134;2024-06-21 04:34:09;Business Meeting;New-York;USA;Los Angeles;USA;Avion;oui
+NewYork_202406211;KeyPers_NewYork_1230873;Name873;FistName873;2024-06-21 22:37:24;Team Meeting;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202406212;KeyPers_NewYork_1230415;Name415;FistName415;2024-06-21 16:13:55;Vocational Training;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202406213;KeyPers_NewYork_1231720;Name1720;FistName1720;2024-06-21 16:45:24;Vocational Training;New-York;USA;Wellington;New Zealand;Avion;non
+NewYork_202406214;KeyPers_NewYork_1232965;Name2965;FistName2965;2024-06-21 21:20:17;Business Meeting;New-York;USA;Oslo;Norvège;Avion;oui
+NewYork_202406215;KeyPers_NewYork_1230164;Name164;FistName164;2024-06-21 06:35:38;Team Meeting;New-York;USA;New-York;USA;Transports en commun;non
+NewYork_202406216;KeyPers_NewYork_1231575;Name1575;FistName1575;2024-06-21 18:07:28;Conference;New-York;USA;Rio de Janeiro;Brazil;Avion;oui
+NewYork_202406217;KeyPers_NewYork_1232402;Name2402;FistName2402;2024-06-21 14:13:05;Business Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202406218;KeyPers_NewYork_1231835;Name1835;FistName1835;2024-06-21 05:11:05;Business Meeting;New-York;USA;Los Angeles;USA;Train;oui
+NewYork_202406219;KeyPers_NewYork_1230992;Name992;FistName992;2024-06-21 13:40:16;Vocational Training;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_2024062110;KeyPers_NewYork_1231943;Name1943;FistName1943;2024-06-21 11:25:57;Team Meeting;New-York;USA;Pekin;China;Avion;oui
+NewYork_2024062111;KeyPers_NewYork_1230820;Name820;FistName820;2024-06-21 09:17:58;Business Meeting;Paris;France;Auckland;New Zealand;Avion;oui
+NewYork_2024062112;KeyPers_NewYork_1231344;Name1344;FistName1344;2024-06-21 19:03:56;Team Meeting;New-York;USA;London;England;Avion;oui
+NewYork_2024062113;KeyPers_NewYork_1231696;Name1696;FistName1696;2024-06-21 10:37:39;Development;New-York;USA;Melbourne;Australia;Avion;oui

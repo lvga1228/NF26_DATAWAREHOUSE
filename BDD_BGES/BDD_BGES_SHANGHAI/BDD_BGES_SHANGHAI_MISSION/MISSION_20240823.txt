@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202408230;KeyPers_Shanghai_1230215;Name215;FistName215;2024-08-23 19:25:59;Team Meeting;Shanghai;China;Vancouver;Canada;Avion;oui
+Shanghai_202408231;KeyPers_Shanghai_1230305;Name305;FistName305;2024-08-23 17:47:43;Business Meeting;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_202408232;KeyPers_Shanghai_1230648;Name648;FistName648;2024-08-23 19:25:18;Development;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202408233;KeyPers_Shanghai_1230567;Name567;FistName567;2024-08-23 19:24:47;Conference;Shanghai;China;Rio de Janeiro;Brazil;Avion;non
+Shanghai_202408234;KeyPers_Shanghai_1230202;Name202;FistName202;2024-08-23 09:50:20;Team Meeting;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_202408235;KeyPers_Shanghai_1230485;Name485;FistName485;2024-08-23 22:01:56;Business Meeting;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_202408236;KeyPers_Shanghai_1230823;Name823;FistName823;2024-08-23 14:43:51;Development;Shanghai;China;Rio de Janeiro;Brazil;Avion;non
+Shanghai_202408237;KeyPers_Shanghai_1230179;Name179;FistName179;2024-08-23 11:49:27;Business Meeting;Shanghai;China;Lille;France;Avion;oui
+Shanghai_202408238;KeyPers_Shanghai_1230190;Name190;FistName190;2024-08-23 04:35:21;Development;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202408239;KeyPers_Shanghai_1230874;Name874;FistName874;2024-08-23 19:36:59;Business Meeting;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_2024082310;KeyPers_Shanghai_1230724;Name724;FistName724;2024-08-23 08:38:50;Conference;Shanghai;China;New-York;USA;Avion;oui
+Shanghai_2024082311;KeyPers_Shanghai_1230295;Name295;FistName295;2024-08-23 18:42:37;Development;Shanghai;China;London;England;Avion;non
+Shanghai_2024082312;KeyPers_Shanghai_1230835;Name835;FistName835;2024-08-23 05:37:33;Team Meeting;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_2024082313;KeyPers_Shanghai_1230481;Name481;FistName481;2024-08-23 18:43:31;Business Meeting;Shanghai;China;Washington;USA;Avion;non

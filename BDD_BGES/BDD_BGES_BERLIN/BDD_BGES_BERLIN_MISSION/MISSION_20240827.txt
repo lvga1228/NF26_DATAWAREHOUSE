@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202408270;KeyPers_Berlin_1232992;Name2992;FistName2992;2024-08-27 09:04:36;Schulung;Berlin;Allemagne;Bogota;Colombia;Avion;non
+BERLIN_202408271;KeyPers_Berlin_1230689;Name689;FistName689;2024-08-27 09:12:44;Schulung;Berlin;Allemagne;Osaka;Japan;Avion;non
+BERLIN_202408272;KeyPers_Berlin_1233611;Name3611;FistName3611;2024-08-27 07:21:44;Schulung;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_202408273;KeyPers_Berlin_1230084;Name84;FistName84;2024-08-27 08:55:19;Schulung;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_202408274;KeyPers_Berlin_1232165;Name2165;FistName2165;2024-08-27 20:55:07;Meeting;Berlin;Allemagne;Bogota;Colombia;Avion;oui
+BERLIN_202408275;KeyPers_Berlin_1232879;Name2879;FistName2879;2024-08-27 18:58:04;Meeting;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_202408276;KeyPers_Berlin_1230328;Name328;FistName328;2024-08-27 22:12:36;Konferenz;Berlin;Allemagne;Tokyo;Japan;Avion;oui
+BERLIN_202408277;KeyPers_Berlin_1233185;Name3185;FistName3185;2024-08-27 06:48:07;Entwicklung;Berlin;Allemagne;Rabat;Maroc;Avion;oui

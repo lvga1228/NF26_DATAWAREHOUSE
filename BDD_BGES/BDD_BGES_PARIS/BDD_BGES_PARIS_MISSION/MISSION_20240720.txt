@@ -1,0 +1,25 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202407200;KeyPers_Paris_1233934;Name3934;FistName3934;2024-07-20 20:04:10;Développement;Paris;France;Shanghai;China;Avion;oui
+Paris_202407201;KeyPers_Paris_1233681;Name3681;FistName3681;2024-07-20 09:39:06;Formation;Paris;France;Alger;Algeria;Avion;oui
+Paris_202407202;KeyPers_Paris_1234744;Name4744;FistName4744;2024-07-20 08:28:26;Développement;Paris;France;Sidney;Australia;Avion;oui
+Paris_202407203;KeyPers_Paris_1232964;Name2964;FistName2964;2024-07-20 21:29:40;Réunion;Paris;France;Lille;France;Avion;oui
+Paris_202407204;KeyPers_Paris_1233147;Name3147;FistName3147;2024-07-20 11:11:48;Développement;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_202407205;KeyPers_Paris_1234279;Name4279;FistName4279;2024-07-20 01:20:36;Conférence;Paris;France;Washington;USA;Avion;oui
+Paris_202407206;KeyPers_Paris_1233435;Name3435;FistName3435;2024-07-20 23:15:46;Formation;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202407207;KeyPers_Paris_1231640;Name1640;FistName1640;2024-07-20 11:39:10;Réunion;Paris;France;Marseille;France;Avion;oui
+Paris_202407208;KeyPers_Paris_1232745;Name2745;FistName2745;2024-07-20 02:04:57;Conférence;Paris;France;Buenos Aires;Argentina;Avion;oui
+Paris_202407209;KeyPers_Paris_1230882;Name882;FistName882;2024-07-20 23:58:31;Développement;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2024072010;KeyPers_Paris_1232094;Name2094;FistName2094;2024-07-20 16:01:56;Rencontre entreprises;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_2024072011;KeyPers_Paris_1233929;Name3929;FistName3929;2024-07-20 12:49:33;Conférence;Paris;France;New-York;USA;Avion;non
+Paris_2024072012;KeyPers_Paris_1233972;Name3972;FistName3972;2024-07-20 02:28:29;Rencontre entreprises;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_2024072013;KeyPers_Paris_1232577;Name2577;FistName2577;2024-07-20 13:22:52;Développement;Paris;France;Washington;USA;Avion;oui
+Paris_2024072014;KeyPers_Paris_1233917;Name3917;FistName3917;2024-07-20 11:44:56;Conférence;Paris;France;Bordeaux;France;Avion;oui
+Paris_2024072015;KeyPers_Paris_1230892;Name892;FistName892;2024-07-20 15:33:02;Formation;Paris;France;Lille;France;Train;oui
+Paris_2024072016;KeyPers_Paris_1234233;Name4233;FistName4233;2024-07-20 13:28:22;Réunion;Paris;France;Buenos Aires;Argentina;Avion;oui
+Paris_2024072017;KeyPers_Paris_1231159;Name1159;FistName1159;2024-07-20 07:44:27;Conférence;Paris;France;Compiègne;France;Avion;oui
+Paris_2024072018;KeyPers_Paris_1232648;Name2648;FistName2648;2024-07-20 22:13:33;Développement;Paris;France;Buenos Aires;Argentina;Avion;oui
+Paris_2024072019;KeyPers_Paris_1231072;Name1072;FistName1072;2024-07-20 11:14:25;Réunion;Paris;France;Los Angeles;USA;Avion;oui
+Paris_2024072020;KeyPers_Paris_1233165;Name3165;FistName3165;2024-07-20 14:12:54;Rencontre entreprises;Paris;France;Melbourne;Australia;Avion;oui
+Paris_2024072021;KeyPers_Paris_1230622;Name622;FistName622;2024-07-20 20:32:19;Conférence;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024072022;KeyPers_Paris_1231382;Name1382;FistName1382;2024-07-20 20:04:14;Développement;Paris;France;Oslo;Norvège;Avion;oui
+Paris_2024072023;KeyPers_Paris_1231471;Name1471;FistName1471;2024-07-20 19:19:53;Réunion;Paris;France;Marseille;France;Train;oui

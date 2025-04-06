@@ -1,0 +1,17 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202410030;KeyPers_NewYork_1232830;Name2830;FistName2830;2024-10-03 16:13:12;Vocational Training;New-York;USA;London;England;Avion;oui
+NewYork_202410031;KeyPers_NewYork_1232943;Name2943;FistName2943;2024-10-03 16:41:16;Business Meeting;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_202410032;KeyPers_NewYork_1230787;Name787;FistName787;2024-10-03 21:02:29;Vocational Training;New-York;USA;Compiègne;France;Avion;non
+NewYork_202410033;KeyPers_NewYork_1230148;Name148;FistName148;2024-10-03 20:51:56;Development;New-York;USA;Tokyo;Japan;Avion;oui
+NewYork_202410034;KeyPers_NewYork_1230789;Name789;FistName789;2024-10-03 11:57:29;Team Meeting;New-York;USA;Compiègne;France;Avion;non
+NewYork_202410035;KeyPers_NewYork_1232745;Name2745;FistName2745;2024-10-03 22:05:48;Conference;New-York;USA;Dubaï;Emirats;Avion;oui
+NewYork_202410036;KeyPers_NewYork_1231933;Name1933;FistName1933;2024-10-03 05:48:57;Team Meeting;New-York;USA;Stockholm;Suède;Avion;oui
+NewYork_202410037;KeyPers_NewYork_1230843;Name843;FistName843;2024-10-03 04:18:33;Vocational Training;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202410038;KeyPers_NewYork_1230151;Name151;FistName151;2024-10-03 05:47:23;Business Meeting;New-York;USA;Los Angeles;USA;Avion;oui
+NewYork_202410039;KeyPers_NewYork_1231238;Name1238;FistName1238;2024-10-03 20:05:26;Business Meeting;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_2024100310;KeyPers_NewYork_1230958;Name958;FistName958;2024-10-03 13:42:02;Development;New-York;USA;New-York;USA;Transports en commun;oui
+NewYork_2024100311;KeyPers_NewYork_1232326;Name2326;FistName2326;2024-10-03 12:16:14;Team Meeting;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_2024100312;KeyPers_NewYork_1231791;Name1791;FistName1791;2024-10-03 09:45:04;Development;New-York;USA;Osaka;Japan;Avion;non
+NewYork_2024100313;KeyPers_NewYork_1230170;Name170;FistName170;2024-10-03 13:17:17;Business Meeting;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_2024100314;KeyPers_NewYork_1230585;Name585;FistName585;2024-10-03 06:24:35;Vocational Training;New-York;USA;Rabat;Maroc;Avion;oui
+NewYork_2024100315;KeyPers_NewYork_1230484;Name484;FistName484;2024-10-03 11:17:25;Business Meeting;New-York;USA;Montreal;Canada;Avion;oui

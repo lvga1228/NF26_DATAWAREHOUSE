@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202411050;KeyPers_NewYork_1230751;Name751;FistName751;2024-11-05 10:27:19;PC portable;Latitude 3xxx
+NewYork_MATERIEL_INFO_202411051;KeyPers_NewYork_1230696;Name696;FistName696;2024-11-05 15:33:53;PC fixe sans ecran;Elite mini
+NewYork_MATERIEL_INFO_202411052;KeyPers_NewYork_1230777;Name777;FistName777;2024-11-05 16:18:35;imprimante;modèle par défaut
+NewYork_MATERIEL_INFO_202411053;KeyPers_NewYork_1230981;Name981;FistName981;2024-11-05 10:09:55;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+NewYork_MATERIEL_INFO_202411054;KeyPers_NewYork_1231441;Name1441;FistName1441;2024-11-05 10:16:49;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+NewYork_MATERIEL_INFO_202411055;KeyPers_NewYork_1232218;Name2218;FistName2218;2024-11-05 09:41:02;PC portable;ZBook
+NewYork_MATERIEL_INFO_202411056;KeyPers_NewYork_1232936;Name2936;FistName2936;2024-11-05 12:21:50;Vidéo projecteur;Pour amphi
+NewYork_MATERIEL_INFO_202411057;KeyPers_NewYork_1230039;Name39;FistName39;2024-11-05 13:38:45;PC fixe sans ecran;EliteDesk DM
+NewYork_MATERIEL_INFO_202411058;KeyPers_NewYork_1232229;Name2229;FistName2229;2024-11-05 10:34:27;Vidéo projecteur;modèle par défaut
+NewYork_MATERIEL_INFO_202411059;KeyPers_NewYork_1232961;Name2961;FistName2961;2024-11-05 09:18:22; ;Mac pro
+NewYork_MATERIEL_INFO_2024110510;KeyPers_NewYork_1231000;Name1000;FistName1000;2024-11-05 16:32:46; ;Station de travail (moy)
+NewYork_MATERIEL_INFO_2024110511;KeyPers_NewYork_1232687;Name2687;FistName2687;2024-11-05 14:53:31;Ecran;modèle par défaut
+NewYork_MATERIEL_INFO_2024110512;KeyPers_NewYork_1232432;Name2432;FistName2432;2024-11-05 08:43:23;PC portable;Latitude 5xxx

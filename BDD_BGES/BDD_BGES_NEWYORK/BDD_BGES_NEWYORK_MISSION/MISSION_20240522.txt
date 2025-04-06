@@ -1,0 +1,21 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202405220;KeyPers_NewYork_1230420;Name420;FistName420;2024-05-22 04:57:16;Conference;Shanghai;China;Lima;Peru;Avion;oui
+NewYork_202405221;KeyPers_NewYork_1230114;Name114;FistName114;2024-05-22 12:35:05;Development;New-York;USA;Rio de Janeiro;Brazil;Avion;oui
+NewYork_202405222;KeyPers_NewYork_1232206;Name2206;FistName2206;2024-05-22 15:15:17;Business Meeting;New-York;USA;Sidney;Australia;Avion;oui
+NewYork_202405223;KeyPers_NewYork_1232384;Name2384;FistName2384;2024-05-22 04:11:36;Development;Shanghai;China;Berlin;Allemagne;Avion;oui
+NewYork_202405224;KeyPers_NewYork_1231149;Name1149;FistName1149;2024-05-22 18:28:25;Development;Paris;France;Osaka;Japan;Avion;oui
+NewYork_202405225;KeyPers_NewYork_1231210;Name1210;FistName1210;2024-05-22 23:19:30;Vocational Training;Paris;France;London;England;Avion;oui
+NewYork_202405226;KeyPers_NewYork_1231029;Name1029;FistName1029;2024-05-22 16:29:50;Conference;New-York;USA;Oslo;Norvège;Avion;oui
+NewYork_202405227;KeyPers_NewYork_1230771;Name771;FistName771;2024-05-22 04:28:34;Business Meeting;New-York;USA;Bogota;Colombia;Avion;oui
+NewYork_202405228;KeyPers_NewYork_1232269;Name2269;FistName2269;2024-05-22 20:16:49;Business Meeting;New-York;USA;Buenos Aires;Argentina;Avion;oui
+NewYork_202405229;KeyPers_NewYork_1231064;Name1064;FistName1064;2024-05-22 10:57:53;Business Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_2024052210;KeyPers_NewYork_1232126;Name2126;FistName2126;2024-05-22 01:03:47;Team Meeting;New-York;USA;Washington;USA;Train;oui
+NewYork_2024052211;KeyPers_NewYork_1232690;Name2690;FistName2690;2024-05-22 19:19:37;Business Meeting;New-York;USA;Alger;Algeria;Avion;oui
+NewYork_2024052212;KeyPers_NewYork_1231048;Name1048;FistName1048;2024-05-22 08:27:10;Vocational Training;New-York;USA;Los Angeles;USA;Avion;oui
+NewYork_2024052213;KeyPers_NewYork_1231631;Name1631;FistName1631;2024-05-22 06:39:06;Vocational Training;New-York;USA;Lille;France;Avion;oui
+NewYork_2024052214;KeyPers_NewYork_1231941;Name1941;FistName1941;2024-05-22 02:50:33;Development;New-York;USA;Lille;France;Avion;oui
+NewYork_2024052215;KeyPers_NewYork_1230881;Name881;FistName881;2024-05-22 04:50:17;Development;New-York;USA;Bogota;Colombia;Avion;oui
+NewYork_2024052216;KeyPers_NewYork_1233074;Name3074;FistName3074;2024-05-22 09:58:33;Conference;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_2024052217;KeyPers_NewYork_1232142;Name2142;FistName2142;2024-05-22 13:37:38;Business Meeting;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+NewYork_2024052218;KeyPers_NewYork_1232374;Name2374;FistName2374;2024-05-22 11:46:33;Development;New-York;USA;Washington;USA;Avion;oui
+NewYork_2024052219;KeyPers_NewYork_1230857;Name857;FistName857;2024-05-22 19:39:54;Business Meeting;New-York;USA;Melbourne;Australia;Avion;oui

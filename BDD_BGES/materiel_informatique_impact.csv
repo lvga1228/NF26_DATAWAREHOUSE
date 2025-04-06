@@ -1,0 +1,81 @@
+Type,Modèle,Impact
+PC fixe sans ecran,modèle par défaut,350
+PC fixe sans ecran,Optiplex micro,174
+PC fixe sans ecran,Optiplex small,240
+PC fixe sans ecran,Optiplex tower,260
+PC fixe sans ecran,Wyse thin client,69
+PC fixe sans ecran,Precision tower 3xxx,285
+PC fixe sans ecran,Precision tower 5xxx,440
+PC fixe sans ecran,Precision tower 7xxx,555
+PC fixe sans ecran,Mac mini,270
+PC fixe sans ecran,Mac pro,900
+PC fixe sans ecran,Elite mini,137
+PC fixe sans ecran,EliteDesk DM,230
+PC fixe sans ecran,"EliteDesk (Tower, SFF, One)",393
+PC fixe sans ecran,ProDesk mini/DM,100
+PC fixe sans ecran,"Prodesk (Tower, SFF)",322
+PC fixe sans ecran,"Elite (Tower, SFF, One)",393
+PC fixe sans ecran,OMEN ,290
+PC fixe sans ecran,Z,409
+PC fixe sans ecran,ZHAN,264
+PC fixe sans ecran,Rasberry pi 4,15
+PC fixe sans ecran,Station de travail (moy),600
+PC fixe sans ecran,PC Fixe (moy),300
+PC fixe tout-en-un,modèle par défaut,352
+PC fixe tout-en-un,Optiplex All-in-One 3xxx,241
+PC fixe tout-en-un,Optiplex All-in-One 5xxx,318
+PC fixe tout-en-un,Optiplex All-in-One 7xxx,382
+PC fixe tout-en-un,iMac 21pouces,290
+PC fixe tout-en-un,iMac 21pouces retina,300
+PC fixe tout-en-un,iMac 27pouces retina,450
+PC fixe tout-en-un,iMac pro,700
+PC fixe tout-en-un,Mac pro,900
+PC portable,modèle par défaut,260
+PC portable,OMEN ,356
+PC portable,Victus,267
+PC portable,Chromebook 11-13pouces,175
+PC portable,Chromebook 14-15pouces,170
+PC portable,EliteBook 6xx,175
+PC portable,EliteBook 8xx,290
+PC portable,EliteBook 10xx,223
+PC portable,ProBook ,226
+PC portable,ZBook Studio,379
+PC portable,ZBook,303
+PC portable,Latitude 3xxx,220
+PC portable,Latitude 5xxx,300
+PC portable,Latitude 7xxx,264
+PC portable,Precision 3xxx,266
+PC portable,Precision 5xxx,280
+PC portable,Precision 7xxx,304
+PC portable,MacBook air,250
+PC portable,MacBook air pre-retina,310
+PC portable,MacBook air retina,176
+PC portable,MacBook pro 13pouces,256
+PC portable,MacBook pro 15/16pouces,330
+PC portable,Moyenne 13pouces,250
+PC portable,Moyenne 14/15pouces,294
+PC portable,Moyenne 17pouces,365
+Ecran,modèle par défaut,430
+Ecran,jusqu'à 23pouces,350
+Ecran,24pouces-31pouces,430
+Ecran,32pouces et plus,590
+Vidéo projecteur,modèle par défaut,94
+Vidéo projecteur,Transportable,94
+Vidéo projecteur,Pour salle,150
+Vidéo projecteur,Pour amphi,200
+Tablette,modèle par défaut,150
+Smartphone,modèle par défaut,63
+imprimante,modèle par défaut,500
+imprimante,Laser à poser (<40kg),430
+imprimante,Laser A3 (40-99kg),960
+imprimante,Laser A3 (>100kg),1800
+Telephone IP,modèle par défaut,17
+Station d'accueil,modèle par défaut,26
+clavier,modèle par défaut,24
+souris,modèle par défaut,5
+Borne wifi,modèle par défaut,10
+Serveur,Modèle par défaut,1300
+Serveur,Noeud de calcul,1300
+Serveur,Serveur de stockage,2500
+Disque dur,modèle par défaut,10
+GPU puissant,modèle par défaut,60

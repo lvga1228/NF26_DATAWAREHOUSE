@@ -1,0 +1,8 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202410160;KeyPers_Berlin_1233137;Name3137;FistName3137;2024-10-16 20:35:05;Konferenz;Berlin;Allemagne;New-York;USA;Avion;oui
+BERLIN_202410161;KeyPers_Berlin_1230804;Name804;FistName804;2024-10-16 05:53:43;Konferenz;Berlin;Allemagne;Sao Paulo;Brazil;Avion;oui
+BERLIN_202410162;KeyPers_Berlin_1233236;Name3236;FistName3236;2024-10-16 17:44:25;Entwicklung;Berlin;Allemagne;Sidney;Australia;Avion;oui
+BERLIN_202410163;KeyPers_Berlin_1233797;Name3797;FistName3797;2024-10-16 10:11:26;Geschäftstreffen;Berlin;Allemagne;Rabat;Maroc;Avion;oui
+BERLIN_202410164;KeyPers_Berlin_1231232;Name1232;FistName1232;2024-10-16 06:22:46;Schulung;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_202410165;KeyPers_Berlin_1231841;Name1841;FistName1841;2024-10-16 08:17:53;Geschäftstreffen;Berlin;Allemagne;Sao Paulo;Brazil;Avion;oui
+BERLIN_202410166;KeyPers_Berlin_1233376;Name3376;FistName3376;2024-10-16 03:50:34;Konferenz;Berlin;Allemagne;Montreal;Canada;Avion;oui

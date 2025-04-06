@@ -1,0 +1,31 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202411010;KeyPers_Paris_1232237;Name2237;FistName2237;2024-11-01 04:20:01;Rencontre entreprises;Paris;France;Oslo;Norvège;Avion;oui
+Paris_202411011;KeyPers_Paris_1230466;Name466;FistName466;2024-11-01 12:26:09;Conférence;Paris;France;Rabat;Maroc;Avion;oui
+Paris_202411012;KeyPers_Paris_1234635;Name4635;FistName4635;2024-11-01 23:14:40;Conférence;Paris;France;Marseille;France;Train;oui
+Paris_202411013;KeyPers_Paris_1234997;Name4997;FistName4997;2024-11-01 05:24:09;Réunion;Paris;France;Pekin;China;Avion;oui
+Paris_202411014;KeyPers_Paris_1233985;Name3985;FistName3985;2024-11-01 13:20:30;Conférence;Paris;France;Montreal;Canada;Avion;oui
+Paris_202411015;KeyPers_Paris_1234544;Name4544;FistName4544;2024-11-01 11:52:50;Réunion;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_202411016;KeyPers_Paris_1231076;Name1076;FistName1076;2024-11-01 14:14:07;Formation;Paris;France;Shanghai;China;Avion;oui
+Paris_202411017;KeyPers_Paris_1231359;Name1359;FistName1359;2024-11-01 05:23:30;Formation;Paris;France;Alger;Algeria;Avion;oui
+Paris_202411018;KeyPers_Paris_1234649;Name4649;FistName4649;2024-11-01 23:25:25;Réunion;Paris;France;Osaka;Japan;Avion;oui
+Paris_202411019;KeyPers_Paris_1231750;Name1750;FistName1750;2024-11-01 16:54:41;Réunion;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2024110110;KeyPers_Paris_1231565;Name1565;FistName1565;2024-11-01 15:42:07;Conférence;Paris;France;Vancouver;Canada;Avion;oui
+Paris_2024110111;KeyPers_Paris_1234230;Name4230;FistName4230;2024-11-01 04:50:35;Formation;Paris;France;Rabat;Maroc;Avion;oui
+Paris_2024110112;KeyPers_Paris_1231247;Name1247;FistName1247;2024-11-01 14:08:23;Développement;Paris;France;Marseille;France;Train;oui
+Paris_2024110113;KeyPers_Paris_1234163;Name4163;FistName4163;2024-11-01 23:14:39;Conférence;Paris;France;Washington;USA;Avion;oui
+Paris_2024110114;KeyPers_Paris_1230125;Name125;FistName125;2024-11-01 01:41:47;Développement;Paris;France;London;England;Avion;oui
+Paris_2024110115;KeyPers_Paris_1232269;Name2269;FistName2269;2024-11-01 06:46:42;Développement;Paris;France;Montreal;Canada;Avion;oui
+Paris_2024110116;KeyPers_Paris_1233673;Name3673;FistName3673;2024-11-01 17:49:40;Réunion;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_2024110117;KeyPers_Paris_1232230;Name2230;FistName2230;2024-11-01 10:31:54;Développement;Paris;France;Tokyo;Japan;Avion;oui
+Paris_2024110118;KeyPers_Paris_1231888;Name1888;FistName1888;2024-11-01 14:04:07;Conférence;Paris;France;London;England;Avion;oui
+Paris_2024110119;KeyPers_Paris_1233572;Name3572;FistName3572;2024-11-01 12:04:26;Développement;Paris;France;Montreal;Canada;Avion;oui
+Paris_2024110120;KeyPers_Paris_1232300;Name2300;FistName2300;2024-11-01 22:56:33;Rencontre entreprises;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024110121;KeyPers_Paris_1230014;Name14;FistName14;2024-11-01 20:45:39;Rencontre entreprises;Paris;France;Bordeaux;France;Train;oui
+Paris_2024110122;KeyPers_Paris_1234890;Name4890;FistName4890;2024-11-01 11:03:42;Réunion;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2024110123;KeyPers_Paris_1233296;Name3296;FistName3296;2024-11-01 02:55:26;Réunion;Paris;France;Montreal;Canada;Avion;non
+Paris_2024110124;KeyPers_Paris_1233083;Name3083;FistName3083;2024-11-01 03:59:46;Conférence;Paris;France;Sidney;Australia;Avion;oui
+Paris_2024110125;KeyPers_Paris_1233389;Name3389;FistName3389;2024-11-01 20:39:13;Formation;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2024110126;KeyPers_Paris_1234375;Name4375;FistName4375;2024-11-01 16:14:08;Développement;Paris;France;Montreal;Canada;Avion;oui
+Paris_2024110127;KeyPers_Paris_1231596;Name1596;FistName1596;2024-11-01 03:47:28;Développement;Shanghai;China;Stockholm;Suède;Avion;oui
+Paris_2024110128;KeyPers_Paris_1230060;Name60;FistName60;2024-11-01 22:37:53;Formation;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_2024110129;KeyPers_Paris_1232632;Name2632;FistName2632;2024-11-01 11:36:11;Réunion;Paris;France;Melbourne;Australia;Avion;non

@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406010;KeyPers_Shanghai_1230263;Name263;FistName263;2024-06-01 16:37:23; ;24pouces-31pouces
+Shanghai_MATERIEL_INFO_202406011;KeyPers_Shanghai_1230555;Name555;FistName555;2024-06-01 14:19:38;PC portable;Chromebook 14-15pouces
+Shanghai_MATERIEL_INFO_202406012;KeyPers_Shanghai_1230658;Name658;FistName658;2024-06-01 08:07:10;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202406013;KeyPers_Shanghai_1230422;Name422;FistName422;2024-06-01 11:06:10; ;Serveur de stockage
+Shanghai_MATERIEL_INFO_202406014;KeyPers_Shanghai_1230103;Name103;FistName103;2024-06-01 11:25:21;PC fixe sans ecran;modèle par défaut
+Shanghai_MATERIEL_INFO_202406015;KeyPers_Shanghai_1230390;Name390;FistName390;2024-06-01 14:13:11;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202406016;KeyPers_Shanghai_1230436;Name436;FistName436;2024-06-01 11:20:23;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202406017;KeyPers_Shanghai_1230339;Name339;FistName339;2024-06-01 15:56:22;imprimante;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202406018;KeyPers_Shanghai_1230659;Name659;FistName659;2024-06-01 13:05:10;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202406019;KeyPers_Shanghai_1230953;Name953;FistName953;2024-06-01 08:42:04;Telephone IP;modèle par défaut
+Shanghai_MATERIEL_INFO_2024060110;KeyPers_Shanghai_1230883;Name883;FistName883;2024-06-01 11:47:07;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_2024060111;KeyPers_Shanghai_1230657;Name657;FistName657;2024-06-01 08:33:51; ;Pour salle
+Shanghai_MATERIEL_INFO_2024060112;KeyPers_Shanghai_1230346;Name346;FistName346;2024-06-01 15:11:41;PC portable;ZBook Studio

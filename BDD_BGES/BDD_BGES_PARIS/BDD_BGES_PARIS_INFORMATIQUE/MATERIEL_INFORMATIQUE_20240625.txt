@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202406250;KeyPers_Paris_1233515;Name3515;FistName3515;2024-06-25 11:37:24;Ecran;modèle par défaut
+Paris_MATERIEL_INFO_202406251;KeyPers_Paris_1232092;Name2092;FistName2092;2024-06-25 10:48:59;Vidéo projecteur;modèle par défaut
+Paris_MATERIEL_INFO_202406252;KeyPers_Paris_1231450;Name1450;FistName1450;2024-06-25 10:52:46;PC fixe sans ecran;Elite (Tower, SFF, One)
+Paris_MATERIEL_INFO_202406253;KeyPers_Paris_1234268;Name4268;FistName4268;2024-06-25 11:55:34;imprimante;Laser A3 (40-99kg)
+Paris_MATERIEL_INFO_202406254;KeyPers_Paris_1230872;Name872;FistName872;2024-06-25 16:44:37;PC portable;Moyenne 14/15pouces
+Paris_MATERIEL_INFO_202406255;KeyPers_Paris_1234832;Name4832;FistName4832;2024-06-25 11:44:09;PC portable;Precision 7xxx
+Paris_MATERIEL_INFO_202406256;KeyPers_Paris_1234001;Name4001;FistName4001;2024-06-25 08:06:14;PC fixe sans ecran;Precision tower 5xxx
+Paris_MATERIEL_INFO_202406257;KeyPers_Paris_1230510;Name510;FistName510;2024-06-25 11:48:33;imprimante;modèle par défaut
+Paris_MATERIEL_INFO_202406258;KeyPers_Paris_1231308;Name1308;FistName1308;2024-06-25 11:30:26;PC portable;ZBook
+Paris_MATERIEL_INFO_202406259;KeyPers_Paris_1232022;Name2022;FistName2022;2024-06-25 14:29:31;Vidéo projecteur;modèle par défaut
+Paris_MATERIEL_INFO_2024062510;KeyPers_Paris_1232550;Name2550;FistName2550;2024-06-25 08:45:01;Ecran;32pouces et plus
+Paris_MATERIEL_INFO_2024062511;KeyPers_Paris_1230671;Name671;FistName671;2024-06-25 13:54:45;PC fixe sans ecran;Elite (Tower, SFF, One)
+Paris_MATERIEL_INFO_2024062512;KeyPers_Paris_1234343;Name4343;FistName4343;2024-06-25 12:38:23; ;MacBook pro 13pouces
+Paris_MATERIEL_INFO_2024062513;KeyPers_Paris_1233391;Name3391;FistName3391;2024-06-25 14:26:32;PC fixe sans ecran;Elite mini

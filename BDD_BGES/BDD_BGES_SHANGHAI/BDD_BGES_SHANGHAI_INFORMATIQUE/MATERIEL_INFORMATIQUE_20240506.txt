@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405060;KeyPers_Shanghai_1230697;Name697;FistName697;2024-05-06 15:31:24;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202405061;KeyPers_Shanghai_1230320;Name320;FistName320;2024-05-06 10:41:31;Ecran;24pouces-31pouces
+Shanghai_MATERIEL_INFO_202405062;KeyPers_Shanghai_1230713;Name713;FistName713;2024-05-06 12:50:39;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_202405063;KeyPers_Shanghai_1230677;Name677;FistName677;2024-05-06 11:56:35;PC portable; 
+Shanghai_MATERIEL_INFO_202405064;KeyPers_Shanghai_1230425;Name425;FistName425;2024-05-06 16:19:15;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202405065;KeyPers_Shanghai_1230953;Name953;FistName953;2024-05-06 09:36:13; ;Elite (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202405066;KeyPers_Shanghai_1230380;Name380;FistName380;2024-05-06 15:24:39;PC portable;Precision 7xxx
+Shanghai_MATERIEL_INFO_202405067;KeyPers_Shanghai_1230100;Name100;FistName100;2024-05-06 10:52:26;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_202405068;KeyPers_Shanghai_1230073;Name73;FistName73;2024-05-06 15:08:04;PC fixe sans ecran;Prodesk (Tower, SFF)

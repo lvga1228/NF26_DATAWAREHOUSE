@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202406220;KeyPers_Shanghai_1230794;Name794;FistName794;2024-06-22 14:57:27; ;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202406221;KeyPers_Shanghai_1230281;Name281;FistName281;2024-06-22 15:20:27; ;Z
+Shanghai_MATERIEL_INFO_202406222;KeyPers_Shanghai_1230622;Name622;FistName622;2024-06-22 09:06:45;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202406223;KeyPers_Shanghai_1230125;Name125;FistName125;2024-06-22 14:28:28;imprimante;Laser A3 (40-99kg)
+Shanghai_MATERIEL_INFO_202406224;KeyPers_Shanghai_1230400;Name400;FistName400;2024-06-22 16:42:07;PC fixe sans ecran;EliteDesk DM
+Shanghai_MATERIEL_INFO_202406225;KeyPers_Shanghai_1230209;Name209;FistName209;2024-06-22 14:57:07; ;Precision 3xxx
+Shanghai_MATERIEL_INFO_202406226;KeyPers_Shanghai_1230559;Name559;FistName559;2024-06-22 12:27:40; ;Precision 7xxx
+Shanghai_MATERIEL_INFO_202406227;KeyPers_Shanghai_1230381;Name381;FistName381;2024-06-22 13:52:59;PC fixe sans ecran;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202406228;KeyPers_Shanghai_1230970;Name970;FistName970;2024-06-22 12:56:50;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202406229;KeyPers_Shanghai_1230630;Name630;FistName630;2024-06-22 14:55:12;Vidéo projecteur;Transportable
+Shanghai_MATERIEL_INFO_2024062210;KeyPers_Shanghai_1230647;Name647;FistName647;2024-06-22 15:54:39;PC fixe tout-en-un;Optiplex All-in-One 3xxx

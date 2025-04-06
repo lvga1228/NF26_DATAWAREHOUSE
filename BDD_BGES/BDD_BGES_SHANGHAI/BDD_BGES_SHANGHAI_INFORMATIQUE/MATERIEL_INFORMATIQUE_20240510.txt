@@ -1,0 +1,6 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405100;KeyPers_Shanghai_1230383;Name383;FistName383;2024-05-10 11:28:48;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202405101;KeyPers_Shanghai_1230339;Name339;FistName339;2024-05-10 10:43:48;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202405102;KeyPers_Shanghai_1230006;Name6;FistName6;2024-05-10 09:52:58;PC portable;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202405103;KeyPers_Shanghai_1230750;Name750;FistName750;2024-05-10 12:06:20;PC portable;Latitude 5xxx
+Shanghai_MATERIEL_INFO_202405104;KeyPers_Shanghai_1230239;Name239;FistName239;2024-05-10 10:35:36;PC fixe tout-en-un;iMac pro

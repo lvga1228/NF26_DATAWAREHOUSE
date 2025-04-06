@@ -1,0 +1,8 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202405130;KeyPers_Shanghai_1230469;Name469;FistName469;2024-05-13 11:18:15; ;Optiplex All-in-One 5xxx
+Shanghai_MATERIEL_INFO_202405131;KeyPers_Shanghai_1230610;Name610;FistName610;2024-05-13 09:15:46;PC fixe sans ecran;Mac pro
+Shanghai_MATERIEL_INFO_202405132;KeyPers_Shanghai_1230723;Name723;FistName723;2024-05-13 16:58:28;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202405133;KeyPers_Shanghai_1230602;Name602;FistName602;2024-05-13 08:16:54; ;Latitude 3xxx
+Shanghai_MATERIEL_INFO_202405134;KeyPers_Shanghai_1230706;Name706;FistName706;2024-05-13 11:50:58; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202405135;KeyPers_Shanghai_1230694;Name694;FistName694;2024-05-13 12:48:16;Disque dur;modèle par défaut
+Shanghai_MATERIEL_INFO_202405136;KeyPers_Shanghai_1230330;Name330;FistName330;2024-05-13 10:34:39;PC fixe sans ecran;Optiplex micro

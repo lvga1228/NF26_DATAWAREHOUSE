@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202405300;KeyPers_Paris_1230865;Name865;FistName865;2024-05-30 06:12:22;Réunion;Paris;France;New-York;USA;Avion;oui
+Paris_202405301;KeyPers_Paris_1230686;Name686;FistName686;2024-05-30 16:13:45;Rencontre entreprises;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202405302;KeyPers_Paris_1230492;Name492;FistName492;2024-05-30 01:49:08;Développement;Paris;France;Sidney;Australia;Avion;oui
+Paris_202405303;KeyPers_Paris_1230339;Name339;FistName339;2024-05-30 08:17:45;Rencontre entreprises;Paris;France;Rio de Janeiro;Brazil;Avion;non
+Paris_202405304;KeyPers_Paris_1234831;Name4831;FistName4831;2024-05-30 07:24:17;Conférence;Paris;France;New-York;USA;Avion;oui
+Paris_202405305;KeyPers_Paris_1231435;Name1435;FistName1435;2024-05-30 13:55:53;Développement;Paris;France;Bordeaux;France;Avion;non
+Paris_202405306;KeyPers_Paris_1232632;Name2632;FistName2632;2024-05-30 07:57:16;Développement;Paris;France;Compiègne;France;Avion;oui
+Paris_202405307;KeyPers_Paris_1233607;Name3607;FistName3607;2024-05-30 10:10:11;Rencontre entreprises;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_202405308;KeyPers_Paris_1230872;Name872;FistName872;2024-05-30 07:36:10;Formation;Paris;France;Melbourne;Australia;Avion;oui
+Paris_202405309;KeyPers_Paris_1232767;Name2767;FistName2767;2024-05-30 13:22:19;Formation;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2024053010;KeyPers_Paris_1234461;Name4461;FistName4461;2024-05-30 19:32:48;Conférence;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_2024053011;KeyPers_Paris_1231323;Name1323;FistName1323;2024-05-30 02:17:11;Conférence;Paris;France;Marseille;France;Avion;oui
+Paris_2024053012;KeyPers_Paris_1230056;Name56;FistName56;2024-05-30 13:52:21;Développement;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_2024053013;KeyPers_Paris_1233138;Name3138;FistName3138;2024-05-30 21:33:09;Développement;Paris;France;New-York;USA;Avion;oui

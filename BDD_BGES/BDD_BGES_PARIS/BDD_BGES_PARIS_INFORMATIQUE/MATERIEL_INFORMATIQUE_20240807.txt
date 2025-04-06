@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202408070;KeyPers_Paris_1231040;Name1040;FistName1040;2024-08-07 16:49:25;PC fixe sans ecran;Wyse thin client
+Paris_MATERIEL_INFO_202408071;KeyPers_Paris_1230952;Name952;FistName952;2024-08-07 12:21:07;PC portable;EliteBook 8xx
+Paris_MATERIEL_INFO_202408072;KeyPers_Paris_1233757;Name3757;FistName3757;2024-08-07 13:01:37;PC fixe sans ecran;OMEN 
+Paris_MATERIEL_INFO_202408073;KeyPers_Paris_1233404;Name3404;FistName3404;2024-08-07 08:44:32;souris;modèle par défaut
+Paris_MATERIEL_INFO_202408074;KeyPers_Paris_1233008;Name3008;FistName3008;2024-08-07 16:35:22;PC portable;Moyenne 13pouces
+Paris_MATERIEL_INFO_202408075;KeyPers_Paris_1230071;Name71;FistName71;2024-08-07 12:28:31;PC fixe sans ecran;Station de travail (moy)
+Paris_MATERIEL_INFO_202408076;KeyPers_Paris_1233202;Name3202;FistName3202;2024-08-07 12:39:31;Vidéo projecteur;modèle par défaut
+Paris_MATERIEL_INFO_202408077;KeyPers_Paris_1234709;Name4709;FistName4709;2024-08-07 11:52:16;PC portable;Precision 7xxx
+Paris_MATERIEL_INFO_202408078;KeyPers_Paris_1230567;Name567;FistName567;2024-08-07 16:12:03;Vidéo projecteur;Transportable
+Paris_MATERIEL_INFO_202408079;KeyPers_Paris_1230117;Name117;FistName117;2024-08-07 10:45:49; ;OMEN 
+Paris_MATERIEL_INFO_2024080710;KeyPers_Paris_1230186;Name186;FistName186;2024-08-07 16:10:36;Station d'accueil;modèle par défaut
+Paris_MATERIEL_INFO_2024080711;KeyPers_Paris_1230518;Name518;FistName518;2024-08-07 12:57:46; ;Latitude 3xxx
+Paris_MATERIEL_INFO_2024080712;KeyPers_Paris_1232299;Name2299;FistName2299;2024-08-07 11:20:44;PC fixe sans ecran;Mac mini
+Paris_MATERIEL_INFO_2024080713;KeyPers_Paris_1230914;Name914;FistName914;2024-08-07 16:16:42;Vidéo projecteur;modèle par défaut

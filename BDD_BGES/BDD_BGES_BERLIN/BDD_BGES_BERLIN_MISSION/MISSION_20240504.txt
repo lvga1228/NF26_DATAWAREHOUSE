@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+BERLIN_202405040;KeyPers_Berlin_1230529;Name529;FistName529;2024-05-04 23:42:48;Meeting;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_202405041;KeyPers_Berlin_1231256;Name1256;FistName1256;2024-05-04 03:58:37;Meeting;Berlin;Allemagne;Vancouver;Canada;Avion;oui
+BERLIN_202405042;KeyPers_Berlin_1233500;Name3500;FistName3500;2024-05-04 23:57:03;Entwicklung;Berlin;Allemagne;Rio de Janeiro;Brazil;Avion;oui
+BERLIN_202405043;KeyPers_Berlin_1231821;Name1821;FistName1821;2024-05-04 11:43:51;Geschäftstreffen;Berlin;Allemagne;Mexico;Mexico;Avion;oui
+BERLIN_202405044;KeyPers_Berlin_1233584;Name3584;FistName3584;2024-05-04 04:42:17;Geschäftstreffen;Shanghai;China;Compiègne;France;Avion;oui
+BERLIN_202405045;KeyPers_Berlin_1232624;Name2624;FistName2624;2024-05-04 06:55:33;Entwicklung;Berlin;Allemagne;New-York;USA;Avion;oui
+BERLIN_202405046;KeyPers_Berlin_1233266;Name3266;FistName3266;2024-05-04 01:40:50;Meeting;Berlin;Allemagne;Dubaï;Emirats;Avion;oui
+BERLIN_202405047;KeyPers_Berlin_1233155;Name3155;FistName3155;2024-05-04 20:09:30;Geschäftstreffen;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_202405048;KeyPers_Berlin_1231288;Name1288;FistName1288;2024-05-04 12:23:59;Schulung;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_202405049;KeyPers_Berlin_1230883;Name883;FistName883;2024-05-04 22:33:16;Geschäftstreffen;Berlin;Allemagne;Montreal;Canada;Avion;oui
+BERLIN_2024050410;KeyPers_Berlin_1232340;Name2340;FistName2340;2024-05-04 11:33:48;Schulung;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_2024050411;KeyPers_Berlin_1231577;Name1577;FistName1577;2024-05-04 13:18:36;Schulung;Berlin;Allemagne;Lima;Peru;Avion;oui
+BERLIN_2024050412;KeyPers_Berlin_1233382;Name3382;FistName3382;2024-05-04 06:47:14;Konferenz;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2024050413;KeyPers_Berlin_1232641;Name2641;FistName2641;2024-05-04 10:47:24;Meeting;Berlin;Allemagne;Berlin;Allemagne;Transports en commun;oui
+BERLIN_2024050414;KeyPers_Berlin_1231595;Name1595;FistName1595;2024-05-04 06:52:36;Schulung;Shanghai;China;Wellington;New Zealand;Avion;oui
+BERLIN_2024050415;KeyPers_Berlin_1232799;Name2799;FistName2799;2024-05-04 08:11:57;Schulung;Berlin;Allemagne;Melbourne;Australia;Avion;oui
+BERLIN_2024050416;KeyPers_Berlin_1231573;Name1573;FistName1573;2024-05-04 17:18:35;Schulung;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2024050417;KeyPers_Berlin_1232709;Name2709;FistName2709;2024-05-04 09:29:44;Entwicklung;Berlin;Allemagne;Washington;USA;Avion;oui
+BERLIN_2024050418;KeyPers_Berlin_1232446;Name2446;FistName2446;2024-05-04 15:30:30;Schulung;Berlin;Allemagne;Wellington;New Zealand;Avion;oui
+BERLIN_2024050419;KeyPers_Berlin_1231614;Name1614;FistName1614;2024-05-04 16:27:13;Meeting;Berlin;Allemagne;Sao Paulo;Brazil;Avion;oui
+BERLIN_2024050420;KeyPers_Berlin_1230888;Name888;FistName888;2024-05-04 06:21:20;Entwicklung;Berlin;Allemagne;Pekin;China;Avion;non
+BERLIN_2024050421;KeyPers_Berlin_1231634;Name1634;FistName1634;2024-05-04 08:05:48;Entwicklung;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2024050422;KeyPers_Berlin_1232436;Name2436;FistName2436;2024-05-04 03:33:19;Konferenz;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2024050423;KeyPers_Berlin_1230951;Name951;FistName951;2024-05-04 16:29:10;Entwicklung;Berlin;Allemagne;Oslo;Norvège;Avion;oui
+BERLIN_2024050424;KeyPers_Berlin_1233220;Name3220;FistName3220;2024-05-04 11:49:36;Meeting;Berlin;Allemagne;Dubaï;Emirats;Avion;oui
+BERLIN_2024050425;KeyPers_Berlin_1230033;Name33;FistName33;2024-05-04 01:41:49;Entwicklung;Berlin;Allemagne;Marseille;France;Avion;oui
+BERLIN_2024050426;KeyPers_Berlin_1233644;Name3644;FistName3644;2024-05-04 02:52:28;Konferenz;Berlin;Allemagne;Pekin;China;Avion;oui
+BERLIN_2024050427;KeyPers_Berlin_1234050;Name4050;FistName4050;2024-05-04 16:46:39;Entwicklung;Berlin;Allemagne;Auckland;New Zealand;Avion;oui
+BERLIN_2024050428;KeyPers_Berlin_1232863;Name2863;FistName2863;2024-05-04 12:05:20;Entwicklung;Berlin;Allemagne;Pekin;China;Avion;oui

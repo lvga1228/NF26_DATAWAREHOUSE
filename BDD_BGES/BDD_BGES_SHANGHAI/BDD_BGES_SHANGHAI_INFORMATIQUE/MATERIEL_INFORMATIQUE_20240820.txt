@@ -1,0 +1,11 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408200;KeyPers_Shanghai_1230412;Name412;FistName412;2024-08-20 12:34:44; ;Wyse thin client
+Shanghai_MATERIEL_INFO_202408201;KeyPers_Shanghai_1230138;Name138;FistName138;2024-08-20 09:38:15;Serveur;Serveur de stockage
+Shanghai_MATERIEL_INFO_202408202;KeyPers_Shanghai_1230942;Name942;FistName942;2024-08-20 09:30:10;PC portable; 
+Shanghai_MATERIEL_INFO_202408203;KeyPers_Shanghai_1230027;Name27;FistName27;2024-08-20 12:58:44;PC portable;Latitude 7xxx
+Shanghai_MATERIEL_INFO_202408204;KeyPers_Shanghai_1230679;Name679;FistName679;2024-08-20 10:03:30;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202408205;KeyPers_Shanghai_1230035;Name35;FistName35;2024-08-20 16:17:01;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202408206;KeyPers_Shanghai_1230816;Name816;FistName816;2024-08-20 08:39:14;PC portable; 
+Shanghai_MATERIEL_INFO_202408207;KeyPers_Shanghai_1230848;Name848;FistName848;2024-08-20 16:32:03; ;MacBook air retina
+Shanghai_MATERIEL_INFO_202408208;KeyPers_Shanghai_1230324;Name324;FistName324;2024-08-20 10:07:49;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202408209;KeyPers_Shanghai_1230298;Name298;FistName298;2024-08-20 15:26:39;PC fixe sans ecran;modèle par défaut

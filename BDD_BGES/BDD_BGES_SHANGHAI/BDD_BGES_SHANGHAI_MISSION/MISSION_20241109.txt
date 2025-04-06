@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202411090;KeyPers_Shanghai_1230524;Name524;FistName524;2024-11-09 12:39:54;Business Meeting;Shanghai;China;Marseille;France;Avion;oui
+Shanghai_202411091;KeyPers_Shanghai_1230289;Name289;FistName289;2024-11-09 23:20:46;Conference;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202411092;KeyPers_Shanghai_1230486;Name486;FistName486;2024-11-09 05:12:09;Vocational Training;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202411093;KeyPers_Shanghai_1230997;Name997;FistName997;2024-11-09 07:44:58;Conference;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202411094;KeyPers_Shanghai_1230656;Name656;FistName656;2024-11-09 05:24:01;Development;Paris;France;Buenos Aires;Argentina;Avion;oui
+Shanghai_202411095;KeyPers_Shanghai_1230841;Name841;FistName841;2024-11-09 22:49:05;Development;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_202411096;KeyPers_Shanghai_1230009;Name9;FistName9;2024-11-09 03:12:21;Team Meeting;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202411097;KeyPers_Shanghai_1230329;Name329;FistName329;2024-11-09 19:34:33;Vocational Training;Shanghai;China;Melbourne;Australia;Avion;non
+Shanghai_202411098;KeyPers_Shanghai_1230752;Name752;FistName752;2024-11-09 16:54:05;Development;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_202411099;KeyPers_Shanghai_1230939;Name939;FistName939;2024-11-09 16:56:18;Development;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_2024110910;KeyPers_Shanghai_1230290;Name290;FistName290;2024-11-09 03:02:29;Vocational Training;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_2024110911;KeyPers_Shanghai_1230781;Name781;FistName781;2024-11-09 19:43:02;Vocational Training;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_2024110912;KeyPers_Shanghai_1230519;Name519;FistName519;2024-11-09 22:20:34;Business Meeting;Shanghai;China;Compiègne;France;Avion;oui
+Shanghai_2024110913;KeyPers_Shanghai_1230235;Name235;FistName235;2024-11-09 02:26:51;Development;Shanghai;China;Sao Paulo;Brazil;Avion;non
+Shanghai_2024110914;KeyPers_Shanghai_1230991;Name991;FistName991;2024-11-09 21:01:47;Vocational Training;Shanghai;China;Sao Paulo;Brazil;Avion;oui

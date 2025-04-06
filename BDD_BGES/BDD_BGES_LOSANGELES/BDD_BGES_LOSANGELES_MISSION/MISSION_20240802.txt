@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202408020;KeyPers_LA_1232076;Name2076;FistName2076;2024-08-02 22:22:56;Development;Los Angeles;USA;Osaka;Japan;Avion;oui
+LA_202408021;KeyPers_LA_1232170;Name2170;FistName2170;2024-08-02 07:23:26;Conference;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_202408022;KeyPers_LA_1230132;Name132;FistName132;2024-08-02 23:43:33;Business Meeting;Los Angeles;USA;Vancouver;Canada;Avion;oui
+LA_202408023;KeyPers_LA_1230273;Name273;FistName273;2024-08-02 02:18:07;Conference;Los Angeles;USA;Sao Paulo;Brazil;Avion;oui
+LA_202408024;KeyPers_LA_1232792;Name2792;FistName2792;2024-08-02 07:34:49;Development;Los Angeles;USA;Marseille;France;Avion;oui
+LA_202408025;KeyPers_LA_1231778;Name1778;FistName1778;2024-08-02 01:26:25;Team Meeting;Los Angeles;USA;Tokyo;Japan;Avion;oui
+LA_202408026;KeyPers_LA_1231156;Name1156;FistName1156;2024-08-02 16:52:25;Development;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_202408027;KeyPers_LA_1230711;Name711;FistName711;2024-08-02 07:51:57;Business Meeting;Los Angeles;USA;Helsinki;Finlande;Avion;oui
+LA_202408028;KeyPers_LA_1232884;Name2884;FistName2884;2024-08-02 03:54:01;Conference;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202408029;KeyPers_LA_1230136;Name136;FistName136;2024-08-02 01:24:45;Conference;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_2024080210;KeyPers_LA_1232777;Name2777;FistName2777;2024-08-02 08:39:05;Vocational Training;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2024080211;KeyPers_LA_1230819;Name819;FistName819;2024-08-02 21:34:59;Development;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_2024080212;KeyPers_LA_1230788;Name788;FistName788;2024-08-02 17:09:21;Conference;Los Angeles;USA;Buenos Aires;Argentina;Avion;oui
+LA_2024080213;KeyPers_LA_1230290;Name290;FistName290;2024-08-02 22:04:44;Business Meeting;Los Angeles;USA;Alger;Algeria;Avion;non
+LA_2024080214;KeyPers_LA_1232590;Name2590;FistName2590;2024-08-02 21:11:30;Team Meeting;Los Angeles;USA;Los Angeles;USA;Taxi;oui

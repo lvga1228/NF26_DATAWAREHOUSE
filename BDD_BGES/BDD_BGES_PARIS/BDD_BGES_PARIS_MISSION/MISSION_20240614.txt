@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202406140;KeyPers_Paris_1232162;Name2162;FistName2162;2024-06-14 14:39:55;Rencontre entreprises;Paris;France;Shanghai;China;Avion;non
+Paris_202406141;KeyPers_Paris_1233239;Name3239;FistName3239;2024-06-14 05:35:51;Développement;Paris;France;London;England;Avion;oui
+Paris_202406142;KeyPers_Paris_1234588;Name4588;FistName4588;2024-06-14 01:22:56;Rencontre entreprises;Paris;France;Oslo;Norvège;Avion;oui
+Paris_202406143;KeyPers_Paris_1232267;Name2267;FistName2267;2024-06-14 07:02:17;Réunion;Paris;France;Sidney;Australia;Avion;oui
+Paris_202406144;KeyPers_Paris_1230915;Name915;FistName915;2024-06-14 06:11:11;Développement;Paris;France;Lima;Peru;Avion;oui
+Paris_202406145;KeyPers_Paris_1232756;Name2756;FistName2756;2024-06-14 12:42:32;Réunion;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_202406146;KeyPers_Paris_1230068;Name68;FistName68;2024-06-14 12:58:34;Rencontre entreprises;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202406147;KeyPers_Paris_1234819;Name4819;FistName4819;2024-06-14 21:28:15;Rencontre entreprises;Paris;France;Rabat;Maroc;Avion;oui
+Paris_202406148;KeyPers_Paris_1233889;Name3889;FistName3889;2024-06-14 14:47:41;Développement;Paris;France;Vancouver;Canada;Avion;non
+Paris_202406149;KeyPers_Paris_1233826;Name3826;FistName3826;2024-06-14 18:25:16;Rencontre entreprises;Paris;France;Lille;France;Avion;oui
+Paris_2024061410;KeyPers_Paris_1232479;Name2479;FistName2479;2024-06-14 18:37:42;Développement;Paris;France;Compiègne;France;Avion;oui
+Paris_2024061411;KeyPers_Paris_1230589;Name589;FistName589;2024-06-14 18:55:29;Conférence;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024061412;KeyPers_Paris_1234393;Name4393;FistName4393;2024-06-14 06:09:49;Développement;Paris;France;Wellington;New Zealand;Avion;oui
+Paris_2024061413;KeyPers_Paris_1230519;Name519;FistName519;2024-06-14 13:55:47;Formation;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_2024061414;KeyPers_Paris_1234045;Name4045;FistName4045;2024-06-14 09:59:47;Formation;Paris;France;Lima;Peru;Avion;oui

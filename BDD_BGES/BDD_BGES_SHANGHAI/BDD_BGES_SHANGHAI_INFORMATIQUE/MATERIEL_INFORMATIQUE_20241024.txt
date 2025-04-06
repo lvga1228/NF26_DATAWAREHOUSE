@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202410240;KeyPers_Shanghai_1230261;Name261;FistName261;2024-10-24 16:51:48; ;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_202410241;KeyPers_Shanghai_1230320;Name320;FistName320;2024-10-24 10:48:07; ;Precision 7xxx
+Shanghai_MATERIEL_INFO_202410242;KeyPers_Shanghai_1230644;Name644;FistName644;2024-10-24 12:19:58;PC fixe tout-en-un; 
+Shanghai_MATERIEL_INFO_202410243;KeyPers_Shanghai_1230490;Name490;FistName490;2024-10-24 10:23:50;PC fixe sans ecran;Z
+Shanghai_MATERIEL_INFO_202410244;KeyPers_Shanghai_1230136;Name136;FistName136;2024-10-24 09:15:14;PC fixe sans ecran;Wyse thin client
+Shanghai_MATERIEL_INFO_202410245;KeyPers_Shanghai_1230486;Name486;FistName486;2024-10-24 14:41:02;PC portable;Victus
+Shanghai_MATERIEL_INFO_202410246;KeyPers_Shanghai_1230715;Name715;FistName715;2024-10-24 14:53:08;PC fixe tout-en-un;Optiplex All-in-One 3xxx
+Shanghai_MATERIEL_INFO_202410247;KeyPers_Shanghai_1230167;Name167;FistName167;2024-10-24 10:44:06; ;Optiplex All-in-One 3xxx

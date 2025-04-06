@@ -1,0 +1,22 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202407040;KeyPers_London_1230955;Name955;FistName955;2024-07-04 15:10:24;Development;London;England;Montreal;Canada;Avion;oui
+LONDON_202407041;KeyPers_London_1233525;Name3525;FistName3525;2024-07-04 10:38:27;Vocational Training;London;England;Osaka;Japan;Avion;non
+LONDON_202407042;KeyPers_London_1230266;Name266;FistName266;2024-07-04 21:33:14;Conference;London;England;Bogota;Colombia;Avion;non
+LONDON_202407043;KeyPers_London_1232856;Name2856;FistName2856;2024-07-04 07:44:57;Development;London;England;Compiègne;France;Avion;oui
+LONDON_202407044;KeyPers_London_1231415;Name1415;FistName1415;2024-07-04 16:32:56;Business Meeting;London;England;Sidney;Australia;Avion;oui
+LONDON_202407045;KeyPers_London_1231409;Name1409;FistName1409;2024-07-04 09:55:44;Team Meeting;London;England;Bogota;Colombia;Avion;oui
+LONDON_202407046;KeyPers_London_1230644;Name644;FistName644;2024-07-04 01:56:46;Team Meeting;London;England;London;England;Transports en commun;oui
+LONDON_202407047;KeyPers_London_1231502;Name1502;FistName1502;2024-07-04 03:49:16;Development;London;England;Montreal;Canada;Avion;oui
+LONDON_202407048;KeyPers_London_1232418;Name2418;FistName2418;2024-07-04 10:11:17;Team Meeting;Paris;France;Helsinki;Finlande;Avion;oui
+LONDON_202407049;KeyPers_London_1233161;Name3161;FistName3161;2024-07-04 15:43:54;Vocational Training;London;England;Washington;USA;Avion;oui
+LONDON_2024070410;KeyPers_London_1231237;Name1237;FistName1237;2024-07-04 06:04:36;Business Meeting;London;England;Bogota;Colombia;Avion;non
+LONDON_2024070411;KeyPers_London_1233237;Name3237;FistName3237;2024-07-04 23:46:11;Vocational Training;London;England;Bogota;Colombia;Avion;oui
+LONDON_2024070412;KeyPers_London_1232222;Name2222;FistName2222;2024-07-04 07:27:47;Conference;London;England;Marseille;France;Avion;oui
+LONDON_2024070413;KeyPers_London_1233548;Name3548;FistName3548;2024-07-04 03:53:29;Development;London;England;Tokyo;Japan;Avion;oui
+LONDON_2024070414;KeyPers_London_1231029;Name1029;FistName1029;2024-07-04 19:50:06;Business Meeting;London;England;Dubaï;Emirats;Avion;oui
+LONDON_2024070415;KeyPers_London_1230029;Name29;FistName29;2024-07-04 12:17:19;Team Meeting;London;England;Bordeaux;France;Avion;oui
+LONDON_2024070416;KeyPers_London_1233148;Name3148;FistName3148;2024-07-04 10:44:59;Development;London;England;Helsinki;Finlande;Avion;oui
+LONDON_2024070417;KeyPers_London_1230195;Name195;FistName195;2024-07-04 22:23:03;Conference;London;England;Montreal;Canada;Avion;oui
+LONDON_2024070418;KeyPers_London_1233402;Name3402;FistName3402;2024-07-04 19:34:39;Vocational Training;London;England;Marseille;France;Avion;non
+LONDON_2024070419;KeyPers_London_1230422;Name422;FistName422;2024-07-04 20:58:28;Team Meeting;London;England;Dubaï;Emirats;Avion;oui
+LONDON_2024070420;KeyPers_London_1231034;Name1034;FistName1034;2024-07-04 05:06:48;Development;London;England;Mexico;Mexico;Avion;oui

@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408140;KeyPers_Shanghai_1230282;Name282;FistName282;2024-08-14 13:41:03;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202408141;KeyPers_Shanghai_1230498;Name498;FistName498;2024-08-14 13:34:16; ;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202408142;KeyPers_Shanghai_1230747;Name747;FistName747;2024-08-14 14:58:25;PC fixe sans ecran;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_202408143;KeyPers_Shanghai_1230732;Name732;FistName732;2024-08-14 16:30:34;PC fixe sans ecran;Optiplex small
+Shanghai_MATERIEL_INFO_202408144;KeyPers_Shanghai_1230158;Name158;FistName158;2024-08-14 12:42:37;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202408145;KeyPers_Shanghai_1230486;Name486;FistName486;2024-08-14 13:37:40; ;Precision tower 7xxx
+Shanghai_MATERIEL_INFO_202408146;KeyPers_Shanghai_1230709;Name709;FistName709;2024-08-14 08:27:14;PC portable;Victus
+Shanghai_MATERIEL_INFO_202408147;KeyPers_Shanghai_1230172;Name172;FistName172;2024-08-14 15:48:19;PC fixe sans ecran;Elite mini
+Shanghai_MATERIEL_INFO_202408148;KeyPers_Shanghai_1230001;Name1;FistName1;2024-08-14 14:14:46; ;ZBook
+Shanghai_MATERIEL_INFO_202408149;KeyPers_Shanghai_1230402;Name402;FistName402;2024-08-14 13:27:06; ;Precision 3xxx
+Shanghai_MATERIEL_INFO_2024081410;KeyPers_Shanghai_1230490;Name490;FistName490;2024-08-14 12:16:32;PC fixe tout-en-un;iMac 27pouces retina
+Shanghai_MATERIEL_INFO_2024081411;KeyPers_Shanghai_1230854;Name854;FistName854;2024-08-14 09:56:16;Vidéo projecteur; 

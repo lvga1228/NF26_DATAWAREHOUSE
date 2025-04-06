@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202409250;KeyPers_Shanghai_1230991;Name991;FistName991;2024-09-25 03:37:42;Business Meeting;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202409251;KeyPers_Shanghai_1230515;Name515;FistName515;2024-09-25 20:21:57;Team Meeting;Shanghai;China;Montreal;Canada;Avion;oui
+Shanghai_202409252;KeyPers_Shanghai_1230709;Name709;FistName709;2024-09-25 02:12:40;Team Meeting;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202409253;KeyPers_Shanghai_1230932;Name932;FistName932;2024-09-25 04:08:16;Vocational Training;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_202409254;KeyPers_Shanghai_1230700;Name700;FistName700;2024-09-25 01:05:31;Team Meeting;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_202409255;KeyPers_Shanghai_1230350;Name350;FistName350;2024-09-25 01:07:22;Team Meeting;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202409256;KeyPers_Shanghai_1230137;Name137;FistName137;2024-09-25 09:26:37;Team Meeting;Shanghai;China;Stockholm;Suède;Avion;oui
+Shanghai_202409257;KeyPers_Shanghai_1230361;Name361;FistName361;2024-09-25 06:07:21;Team Meeting;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202409258;KeyPers_Shanghai_1230710;Name710;FistName710;2024-09-25 08:57:33;Team Meeting;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_202409259;KeyPers_Shanghai_1230171;Name171;FistName171;2024-09-25 11:56:42;Team Meeting;Shanghai;China;Stockholm;Suède;Avion;oui
+Shanghai_2024092510;KeyPers_Shanghai_1230145;Name145;FistName145;2024-09-25 02:10:05;Team Meeting;Shanghai;China;Oslo;Norvège;Avion;oui
+Shanghai_2024092511;KeyPers_Shanghai_1230928;Name928;FistName928;2024-09-25 03:25:21;Vocational Training;London;England;Montreal;Canada;Avion;oui
+Shanghai_2024092512;KeyPers_Shanghai_1230481;Name481;FistName481;2024-09-25 16:45:14;Vocational Training;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_2024092513;KeyPers_Shanghai_1230001;Name1;FistName1;2024-09-25 11:13:34;Conference;Shanghai;China;Rabat;Maroc;Avion;oui

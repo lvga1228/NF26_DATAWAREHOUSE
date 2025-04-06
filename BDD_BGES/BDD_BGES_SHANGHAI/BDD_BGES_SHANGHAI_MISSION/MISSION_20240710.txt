@@ -1,0 +1,14 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202407100;KeyPers_Shanghai_1230263;Name263;FistName263;2024-07-10 15:52:52;Team Meeting;Shanghai;China;Mexico;Mexico;Avion;oui
+Shanghai_202407101;KeyPers_Shanghai_1230193;Name193;FistName193;2024-07-10 15:42:08;Team Meeting;Shanghai;China;Auckland;New Zealand;Avion;oui
+Shanghai_202407102;KeyPers_Shanghai_1230560;Name560;FistName560;2024-07-10 07:01:44;Vocational Training;Shanghai;China;Wellington;New Zealand;Avion;oui
+Shanghai_202407103;KeyPers_Shanghai_1230607;Name607;FistName607;2024-07-10 02:09:09;Vocational Training;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202407104;KeyPers_Shanghai_1230711;Name711;FistName711;2024-07-10 06:51:16;Vocational Training;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202407105;KeyPers_Shanghai_1230134;Name134;FistName134;2024-07-10 11:51:31;Business Meeting;Shanghai;China;Bordeaux;France;Avion;oui
+Shanghai_202407106;KeyPers_Shanghai_1230694;Name694;FistName694;2024-07-10 12:53:07;Business Meeting;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202407107;KeyPers_Shanghai_1230597;Name597;FistName597;2024-07-10 07:42:01;Business Meeting;Shanghai;China;Rio de Janeiro;Brazil;Avion;oui
+Shanghai_202407108;KeyPers_Shanghai_1230136;Name136;FistName136;2024-07-10 13:08:23;Business Meeting;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202407109;KeyPers_Shanghai_1230563;Name563;FistName563;2024-07-10 07:05:44;Conference;Shanghai;China;Lima;Peru;Avion;oui
+Shanghai_2024071010;KeyPers_Shanghai_1230542;Name542;FistName542;2024-07-10 05:34:25;Development;Shanghai;China;Sao Paulo;Brazil;Avion;oui
+Shanghai_2024071011;KeyPers_Shanghai_1230877;Name877;FistName877;2024-07-10 16:43:30;Development;Shanghai;China;Bogota;Colombia;Avion;oui
+Shanghai_2024071012;KeyPers_Shanghai_1230885;Name885;FistName885;2024-07-10 05:44:18;Vocational Training;Shanghai;China;Alger;Algeria;Avion;oui

@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408180;KeyPers_Shanghai_1230637;Name637;FistName637;2024-08-18 14:10:01; ;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202408181;KeyPers_Shanghai_1230978;Name978;FistName978;2024-08-18 11:52:19;Ecran; 
+Shanghai_MATERIEL_INFO_202408182;KeyPers_Shanghai_1230039;Name39;FistName39;2024-08-18 09:34:13;PC fixe sans ecran;EliteDesk (Tower, SFF, One)
+Shanghai_MATERIEL_INFO_202408183;KeyPers_Shanghai_1230249;Name249;FistName249;2024-08-18 11:58:18;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202408184;KeyPers_Shanghai_1230413;Name413;FistName413;2024-08-18 11:50:37; ;EliteBook 6xx
+Shanghai_MATERIEL_INFO_202408185;KeyPers_Shanghai_1230179;Name179;FistName179;2024-08-18 15:40:39;PC portable; 
+Shanghai_MATERIEL_INFO_202408186;KeyPers_Shanghai_1230809;Name809;FistName809;2024-08-18 16:13:43;PC fixe tout-en-un;iMac 21pouces
+Shanghai_MATERIEL_INFO_202408187;KeyPers_Shanghai_1230386;Name386;FistName386;2024-08-18 16:16:42; ;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202408188;KeyPers_Shanghai_1230786;Name786;FistName786;2024-08-18 14:59:30; ;Prodesk (Tower, SFF)
+Shanghai_MATERIEL_INFO_202408189;KeyPers_Shanghai_1230850;Name850;FistName850;2024-08-18 14:31:35;Station d'accueil;modèle par défaut
+Shanghai_MATERIEL_INFO_2024081810;KeyPers_Shanghai_1230962;Name962;FistName962;2024-08-18 16:52:23; ;EliteBook 6xx
+Shanghai_MATERIEL_INFO_2024081811;KeyPers_Shanghai_1230876;Name876;FistName876;2024-08-18 09:47:08;PC fixe tout-en-un;iMac pro
+Shanghai_MATERIEL_INFO_2024081812;KeyPers_Shanghai_1230866;Name866;FistName866;2024-08-18 14:50:54;PC portable;Moyenne 17pouces

@@ -1,0 +1,15 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408240;KeyPers_Shanghai_1230355;Name355;FistName355;2024-08-24 16:28:34; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202408241;KeyPers_Shanghai_1230138;Name138;FistName138;2024-08-24 12:17:40;PC portable;ZBook Studio
+Shanghai_MATERIEL_INFO_202408242;KeyPers_Shanghai_1230838;Name838;FistName838;2024-08-24 10:49:23;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_202408243;KeyPers_Shanghai_1230785;Name785;FistName785;2024-08-24 13:33:26; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202408244;KeyPers_Shanghai_1230571;Name571;FistName571;2024-08-24 15:27:21; ;Moyenne 17pouces
+Shanghai_MATERIEL_INFO_202408245;KeyPers_Shanghai_1230264;Name264;FistName264;2024-08-24 10:42:42;PC fixe sans ecran;OMEN 
+Shanghai_MATERIEL_INFO_202408246;KeyPers_Shanghai_1230910;Name910;FistName910;2024-08-24 09:15:38;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202408247;KeyPers_Shanghai_1230078;Name78;FistName78;2024-08-24 12:35:56;PC portable;modèle par défaut
+Shanghai_MATERIEL_INFO_202408248;KeyPers_Shanghai_1230076;Name76;FistName76;2024-08-24 09:02:37;Station d'accueil;modèle par défaut
+Shanghai_MATERIEL_INFO_202408249;KeyPers_Shanghai_1230671;Name671;FistName671;2024-08-24 10:20:44;Ecran;jusqu'à 23pouces
+Shanghai_MATERIEL_INFO_2024082410;KeyPers_Shanghai_1230312;Name312;FistName312;2024-08-24 08:37:46; ;Latitude 3xxx
+Shanghai_MATERIEL_INFO_2024082411;KeyPers_Shanghai_1230190;Name190;FistName190;2024-08-24 08:52:54; ;ProDesk mini/DM
+Shanghai_MATERIEL_INFO_2024082412;KeyPers_Shanghai_1230849;Name849;FistName849;2024-08-24 12:01:31;Serveur;Modèle par défaut
+Shanghai_MATERIEL_INFO_2024082413;KeyPers_Shanghai_1230680;Name680;FistName680;2024-08-24 14:26:42;PC fixe sans ecran;ZHAN

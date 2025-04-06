@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202406010;KeyPers_NewYork_1231051;Name1051;FistName1051;2024-06-01 20:39:40;Conference;New-York;USA;Sidney;Australia;Avion;oui
+NewYork_202406011;KeyPers_NewYork_1230049;Name49;FistName49;2024-06-01 18:57:11;Conference;New-York;USA;Tokyo;Japan;Avion;oui
+NewYork_202406012;KeyPers_NewYork_1230939;Name939;FistName939;2024-06-01 09:38:06;Vocational Training;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_202406013;KeyPers_NewYork_1232777;Name2777;FistName2777;2024-06-01 09:03:22;Team Meeting;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202406014;KeyPers_NewYork_1230021;Name21;FistName21;2024-06-01 04:54:42;Vocational Training;New-York;USA;Compiègne;France;Avion;oui
+NewYork_202406015;KeyPers_NewYork_1232133;Name2133;FistName2133;2024-06-01 15:50:48;Team Meeting;New-York;USA;New-York;USA;Transports en commun;oui
+NewYork_202406016;KeyPers_NewYork_1231959;Name1959;FistName1959;2024-06-01 07:35:24;Vocational Training;New-York;USA;Tokyo;Japan;Avion;oui
+NewYork_202406017;KeyPers_NewYork_1231760;Name1760;FistName1760;2024-06-01 16:53:15;Business Meeting;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202406018;KeyPers_NewYork_1231662;Name1662;FistName1662;2024-06-01 22:22:02;Vocational Training;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_202406019;KeyPers_NewYork_1232279;Name2279;FistName2279;2024-06-01 12:16:04;Team Meeting;Paris;France;Bordeaux;France;Train;oui
+NewYork_2024060110;KeyPers_NewYork_1230261;Name261;FistName261;2024-06-01 04:10:51;Business Meeting;New-York;USA;Lima;Peru;Avion;oui
+NewYork_2024060111;KeyPers_NewYork_1230729;Name729;FistName729;2024-06-01 16:04:24;Conference;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_2024060112;KeyPers_NewYork_1232180;Name2180;FistName2180;2024-06-01 06:59:45;Vocational Training;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_2024060113;KeyPers_NewYork_1230670;Name670;FistName670;2024-06-01 07:45:40;Team Meeting;New-York;USA;Wellington;New Zealand;Avion;oui

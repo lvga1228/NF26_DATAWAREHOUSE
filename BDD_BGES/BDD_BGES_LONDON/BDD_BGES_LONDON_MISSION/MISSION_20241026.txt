@@ -1,0 +1,9 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202410260;KeyPers_London_1233066;Name3066;FistName3066;2024-10-26 16:14:55;Vocational Training;London;England;Tokyo;Japan;Avion;oui
+LONDON_202410261;KeyPers_London_1233249;Name3249;FistName3249;2024-10-26 08:14:36;Development;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_202410262;KeyPers_London_1231602;Name1602;FistName1602;2024-10-26 19:28:02;Vocational Training;London;England;Tunis;Tunisie;Avion;oui
+LONDON_202410263;KeyPers_London_1232988;Name2988;FistName2988;2024-10-26 13:45:35;Team Meeting;London;England;Rio de Janeiro;Brazil;Avion;oui
+LONDON_202410264;KeyPers_London_1230910;Name910;FistName910;2024-10-26 19:22:28;Conference;London;England;New-York;USA;Avion;oui
+LONDON_202410265;KeyPers_London_1232585;Name2585;FistName2585;2024-10-26 03:39:38;Conference;London;England;Rio de Janeiro;Brazil;Avion;oui
+LONDON_202410266;KeyPers_London_1231065;Name1065;FistName1065;2024-10-26 11:10:06;Team Meeting;London;England;Lima;Peru;Avion;oui
+LONDON_202410267;KeyPers_London_1231930;Name1930;FistName1930;2024-10-26 10:06:43;Development;London;England;Pekin;China;Avion;oui

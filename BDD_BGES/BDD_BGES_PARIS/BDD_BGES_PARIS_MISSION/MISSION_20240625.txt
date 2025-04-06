@@ -1,0 +1,13 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202406250;KeyPers_Paris_1232193;Name2193;FistName2193;2024-06-25 22:49:20;Formation;Paris;France;Lille;France;Avion;oui
+Paris_202406251;KeyPers_Paris_1233207;Name3207;FistName3207;2024-06-25 22:05:55;Formation;Paris;France;Compiègne;France;Avion;oui
+Paris_202406252;KeyPers_Paris_1230681;Name681;FistName681;2024-06-25 11:35:26;Formation;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202406253;KeyPers_Paris_1233374;Name3374;FistName3374;2024-06-25 14:42:38;Réunion;Paris;France;Helsinki;Finlande;Avion;oui
+Paris_202406254;KeyPers_Paris_1233324;Name3324;FistName3324;2024-06-25 11:28:59;Réunion;Paris;France;New-York;USA;Avion;oui
+Paris_202406255;KeyPers_Paris_1232331;Name2331;FistName2331;2024-06-25 15:21:11;Conférence;Paris;France;Bordeaux;France;Train;oui
+Paris_202406256;KeyPers_Paris_1233512;Name3512;FistName3512;2024-06-25 20:09:01;Réunion;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202406257;KeyPers_Paris_1230665;Name665;FistName665;2024-06-25 11:22:18;Formation;Paris;France;Lille;France;Train;oui
+Paris_202406258;KeyPers_Paris_1232854;Name2854;FistName2854;2024-06-25 15:41:13;Formation;Paris;France;Melbourne;Australia;Avion;oui
+Paris_202406259;KeyPers_Paris_1232270;Name2270;FistName2270;2024-06-25 07:01:04;Formation;Paris;France;New-York;USA;Avion;oui
+Paris_2024062510;KeyPers_Paris_1230890;Name890;FistName890;2024-06-25 05:15:34;Développement;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024062511;KeyPers_Paris_1232056;Name2056;FistName2056;2024-06-25 19:44:41;Conférence;Paris;France;Rabat;Maroc;Avion;oui

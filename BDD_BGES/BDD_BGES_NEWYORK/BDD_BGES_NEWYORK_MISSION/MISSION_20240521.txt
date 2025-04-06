@@ -1,0 +1,19 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202405210;KeyPers_NewYork_1230137;Name137;FistName137;2024-05-21 12:31:26;Business Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202405211;KeyPers_NewYork_1232033;Name2033;FistName2033;2024-05-21 16:20:54;Vocational Training;London;England;Alger;Algeria;Avion;oui
+NewYork_202405212;KeyPers_NewYork_1230538;Name538;FistName538;2024-05-21 22:09:23;Team Meeting;New-York;USA;Bogota;Colombia;Avion;oui
+NewYork_202405213;KeyPers_NewYork_1230695;Name695;FistName695;2024-05-21 15:10:21;Development;New-York;USA;Pekin;China;Avion;oui
+NewYork_202405214;KeyPers_NewYork_1231303;Name1303;FistName1303;2024-05-21 04:39:15;Vocational Training;New-York;USA;Auckland;New Zealand;Avion;oui
+NewYork_202405215;KeyPers_NewYork_1230314;Name314;FistName314;2024-05-21 17:42:23;Development;New-York;USA;Los Angeles;USA;Avion;oui
+NewYork_202405216;KeyPers_NewYork_1230691;Name691;FistName691;2024-05-21 18:18:24;Conference;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202405217;KeyPers_NewYork_1231122;Name1122;FistName1122;2024-05-21 10:59:15;Vocational Training;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202405218;KeyPers_NewYork_1230203;Name203;FistName203;2024-05-21 23:18:57;Team Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202405219;KeyPers_NewYork_1230238;Name238;FistName238;2024-05-21 02:17:15;Team Meeting;New-York;USA;Washington;USA;Avion;oui
+NewYork_2024052110;KeyPers_NewYork_1230182;Name182;FistName182;2024-05-21 06:07:11;Vocational Training;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_2024052111;KeyPers_NewYork_1230775;Name775;FistName775;2024-05-21 20:44:33;Development;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_2024052112;KeyPers_NewYork_1232116;Name2116;FistName2116;2024-05-21 18:41:19;Team Meeting;New-York;USA;Oslo;Norvège;Avion;oui
+NewYork_2024052113;KeyPers_NewYork_1232681;Name2681;FistName2681;2024-05-21 11:47:53;Conference;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_2024052114;KeyPers_NewYork_1232447;Name2447;FistName2447;2024-05-21 07:01:17;Business Meeting;New-York;USA;Bordeaux;France;Avion;non
+NewYork_2024052115;KeyPers_NewYork_1230214;Name214;FistName214;2024-05-21 15:21:01;Conference;New-York;USA;Marseille;France;Avion;oui
+NewYork_2024052116;KeyPers_NewYork_1231309;Name1309;FistName1309;2024-05-21 03:05:25;Development;New-York;USA;New-York;USA;Taxi;oui
+NewYork_2024052117;KeyPers_NewYork_1232617;Name2617;FistName2617;2024-05-21 11:40:25;Development;New-York;USA;Montreal;Canada;Avion;oui

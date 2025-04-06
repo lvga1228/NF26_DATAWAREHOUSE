@@ -1,0 +1,12 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202411080;KeyPers_Shanghai_1230013;Name13;FistName13;2024-11-08 12:20:33;souris;modèle par défaut
+Shanghai_MATERIEL_INFO_202411081;KeyPers_Shanghai_1230012;Name12;FistName12;2024-11-08 11:05:32;PC portable;Moyenne 13pouces
+Shanghai_MATERIEL_INFO_202411082;KeyPers_Shanghai_1230512;Name512;FistName512;2024-11-08 08:35:24; ;Mac pro
+Shanghai_MATERIEL_INFO_202411083;KeyPers_Shanghai_1230333;Name333;FistName333;2024-11-08 10:27:58;PC portable;OMEN 
+Shanghai_MATERIEL_INFO_202411084;KeyPers_Shanghai_1230620;Name620;FistName620;2024-11-08 09:08:23;PC portable; 
+Shanghai_MATERIEL_INFO_202411085;KeyPers_Shanghai_1230489;Name489;FistName489;2024-11-08 14:57:35;PC portable;ZBook Studio
+Shanghai_MATERIEL_INFO_202411086;KeyPers_Shanghai_1230008;Name8;FistName8;2024-11-08 10:10:06;PC portable;Victus
+Shanghai_MATERIEL_INFO_202411087;KeyPers_Shanghai_1230370;Name370;FistName370;2024-11-08 10:30:12;PC fixe sans ecran;OMEN 
+Shanghai_MATERIEL_INFO_202411088;KeyPers_Shanghai_1230910;Name910;FistName910;2024-11-08 14:04:58;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_202411089;KeyPers_Shanghai_1230691;Name691;FistName691;2024-11-08 11:08:54;PC fixe sans ecran;Rasberry pi 4
+Shanghai_MATERIEL_INFO_2024110810;KeyPers_Shanghai_1230313;Name313;FistName313;2024-11-08 15:10:05;PC fixe tout-en-un;Optiplex All-in-One 3xxx

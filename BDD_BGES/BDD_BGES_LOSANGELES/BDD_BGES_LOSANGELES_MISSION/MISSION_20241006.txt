@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202410060;KeyPers_LA_1231559;Name1559;FistName1559;2024-10-06 22:30:36;Vocational Training;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_202410061;KeyPers_LA_1230862;Name862;FistName862;2024-10-06 21:52:04;Conference;Paris;France;Rio de Janeiro;Brazil;Avion;non
+LA_202410062;KeyPers_LA_1232920;Name2920;FistName2920;2024-10-06 08:03:59;Business Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui
+LA_202410063;KeyPers_LA_1231578;Name1578;FistName1578;2024-10-06 20:44:36;Conference;Los Angeles;USA;Tunis;Tunisie;Avion;oui
+LA_202410064;KeyPers_LA_1231037;Name1037;FistName1037;2024-10-06 16:42:58;Vocational Training;Los Angeles;USA;London;England;Avion;non
+LA_202410065;KeyPers_LA_1230018;Name18;FistName18;2024-10-06 10:30:55;Vocational Training;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_202410066;KeyPers_LA_1232327;Name2327;FistName2327;2024-10-06 20:48:21;Vocational Training;Los Angeles;USA;Berlin;Allemagne;Avion;oui
+LA_202410067;KeyPers_LA_1231293;Name1293;FistName1293;2024-10-06 11:16:38;Team Meeting;Los Angeles;USA;New-York;USA;Avion;oui
+LA_202410068;KeyPers_LA_1232020;Name2020;FistName2020;2024-10-06 18:40:36;Conference;Los Angeles;USA;London;England;Avion;oui
+LA_202410069;KeyPers_LA_1230960;Name960;FistName960;2024-10-06 02:21:13;Team Meeting;Los Angeles;USA;Wellington;New Zealand;Avion;oui
+LA_2024100610;KeyPers_LA_1231647;Name1647;FistName1647;2024-10-06 12:15:46;Conference;Los Angeles;USA;Osaka;Japan;Avion;oui
+LA_2024100611;KeyPers_LA_1232019;Name2019;FistName2019;2024-10-06 16:52:55;Development;Los Angeles;USA;Tunis;Tunisie;Avion;oui
+LA_2024100612;KeyPers_LA_1231516;Name1516;FistName1516;2024-10-06 22:41:42;Conference;Paris;France;Rio de Janeiro;Brazil;Avion;non
+LA_2024100613;KeyPers_LA_1230477;Name477;FistName477;2024-10-06 22:33:21;Team Meeting;Los Angeles;USA;Alger;Algeria;Avion;oui
+LA_2024100614;KeyPers_LA_1230959;Name959;FistName959;2024-10-06 23:09:18;Conference;Los Angeles;USA;Vancouver;Canada;Avion;oui

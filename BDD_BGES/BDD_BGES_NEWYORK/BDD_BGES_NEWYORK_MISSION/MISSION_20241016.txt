@@ -1,0 +1,7 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202410160;KeyPers_NewYork_1232808;Name2808;FistName2808;2024-10-16 18:01:11;Team Meeting;Paris;France;Alger;Algeria;Avion;oui
+NewYork_202410161;KeyPers_NewYork_1231763;Name1763;FistName1763;2024-10-16 06:08:52;Vocational Training;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202410162;KeyPers_NewYork_1232419;Name2419;FistName2419;2024-10-16 04:38:54;Team Meeting;New-York;USA;New-York;USA;Transports en commun;oui
+NewYork_202410163;KeyPers_NewYork_1230564;Name564;FistName564;2024-10-16 21:25:59;Conference;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_202410164;KeyPers_NewYork_1232876;Name2876;FistName2876;2024-10-16 18:30:29;Conference;New-York;USA;Washington;USA;Taxi;non
+NewYork_202410165;KeyPers_NewYork_1231667;Name1667;FistName1667;2024-10-16 18:33:28;Conference;New-York;USA;Rabat;Maroc;Avion;oui

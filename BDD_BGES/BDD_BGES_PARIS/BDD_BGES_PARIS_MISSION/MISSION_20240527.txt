@@ -1,0 +1,10 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202405270;KeyPers_Paris_1231159;Name1159;FistName1159;2024-05-27 21:37:48;Rencontre entreprises;Paris;France;Oslo;Norvège;Avion;oui
+Paris_202405271;KeyPers_Paris_1231917;Name1917;FistName1917;2024-05-27 14:29:17;Conférence;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202405272;KeyPers_Paris_1231645;Name1645;FistName1645;2024-05-27 03:25:19;Réunion;Paris;France;Shanghai;China;Avion;oui
+Paris_202405273;KeyPers_Paris_1233248;Name3248;FistName3248;2024-05-27 19:51:28;Réunion;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_202405274;KeyPers_Paris_1233895;Name3895;FistName3895;2024-05-27 11:53:44;Formation;Paris;France;Rabat;Maroc;Avion;oui
+Paris_202405275;KeyPers_Paris_1234799;Name4799;FistName4799;2024-05-27 08:40:38;Rencontre entreprises;Paris;France;Bordeaux;France;Train;oui
+Paris_202405276;KeyPers_Paris_1230485;Name485;FistName485;2024-05-27 13:58:15;Réunion;Paris;France;Lima;Peru;Avion;oui
+Paris_202405277;KeyPers_Paris_1234091;Name4091;FistName4091;2024-05-27 09:41:19;Conférence;Shanghai;China;Alger;Algeria;Avion;oui
+Paris_202405278;KeyPers_Paris_1233403;Name3403;FistName3403;2024-05-27 21:10:36;Conférence;Paris;France;Oslo;Norvège;Avion;oui

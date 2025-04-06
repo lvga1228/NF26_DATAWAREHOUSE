@@ -1,0 +1,30 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202411020;KeyPers_NewYork_1231360;Name1360;FistName1360;2024-11-02 01:52:13;Business Meeting;New-York;USA;Tokyo;Japan;Avion;non
+NewYork_202411021;KeyPers_NewYork_1230456;Name456;FistName456;2024-11-02 05:56:16;Vocational Training;New-York;USA;Buenos Aires;Argentina;Avion;oui
+NewYork_202411022;KeyPers_NewYork_1230338;Name338;FistName338;2024-11-02 06:50:35;Vocational Training;New-York;USA;Shanghai;China;Avion;oui
+NewYork_202411023;KeyPers_NewYork_1231946;Name1946;FistName1946;2024-11-02 13:23:11;Team Meeting;New-York;USA;Wellington;New Zealand;Avion;oui
+NewYork_202411024;KeyPers_NewYork_1230562;Name562;FistName562;2024-11-02 10:43:40;Vocational Training;New-York;USA;Marseille;France;Avion;non
+NewYork_202411025;KeyPers_NewYork_1230534;Name534;FistName534;2024-11-02 21:05:41;Team Meeting;New-York;USA;Sao Paulo;Brazil;Avion;oui
+NewYork_202411026;KeyPers_NewYork_1232491;Name2491;FistName2491;2024-11-02 03:51:58;Business Meeting;New-York;USA;Bordeaux;France;Avion;non
+NewYork_202411027;KeyPers_NewYork_1232945;Name2945;FistName2945;2024-11-02 15:20:04;Conference;New-York;USA;Marseille;France;Avion;oui
+NewYork_202411028;KeyPers_NewYork_1231459;Name1459;FistName1459;2024-11-02 16:48:28;Vocational Training;New-York;USA;London;England;Avion;non
+NewYork_202411029;KeyPers_NewYork_1230708;Name708;FistName708;2024-11-02 14:39:54;Conference;New-York;USA;Buenos Aires;Argentina;Avion;oui
+NewYork_2024110210;KeyPers_NewYork_1231737;Name1737;FistName1737;2024-11-02 23:39:01;Team Meeting;New-York;USA;Los Angeles;USA;Avion;non
+NewYork_2024110211;KeyPers_NewYork_1232745;Name2745;FistName2745;2024-11-02 06:56:38;Team Meeting;New-York;USA;New-York;USA;Transports en commun;non
+NewYork_2024110212;KeyPers_NewYork_1232618;Name2618;FistName2618;2024-11-02 16:22:42;Vocational Training;New-York;USA;Marseille;France;Avion;oui
+NewYork_2024110213;KeyPers_NewYork_1232194;Name2194;FistName2194;2024-11-02 07:21:07;Development;Paris;France;Osaka;Japan;Avion;oui
+NewYork_2024110214;KeyPers_NewYork_1232645;Name2645;FistName2645;2024-11-02 10:02:39;Development;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_2024110215;KeyPers_NewYork_1230769;Name769;FistName769;2024-11-02 19:11:21;Business Meeting;New-York;USA;Stockholm;Suède;Avion;oui
+NewYork_2024110216;KeyPers_NewYork_1231112;Name1112;FistName1112;2024-11-02 22:57:27;Development;New-York;USA;Stockholm;Suède;Avion;non
+NewYork_2024110217;KeyPers_NewYork_1232215;Name2215;FistName2215;2024-11-02 13:23:21;Business Meeting;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_2024110218;KeyPers_NewYork_1232201;Name2201;FistName2201;2024-11-02 14:03:24;Business Meeting;New-York;USA;Oslo;Norvège;Avion;oui
+NewYork_2024110219;KeyPers_NewYork_1230315;Name315;FistName315;2024-11-02 04:46:53;Team Meeting;New-York;USA;Shanghai;China;Avion;oui
+NewYork_2024110220;KeyPers_NewYork_1230776;Name776;FistName776;2024-11-02 01:06:05;Business Meeting;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_2024110221;KeyPers_NewYork_1231897;Name1897;FistName1897;2024-11-02 22:25:32;Team Meeting;New-York;USA;Rio de Janeiro;Brazil;Avion;oui
+NewYork_2024110222;KeyPers_NewYork_1232514;Name2514;FistName2514;2024-11-02 17:34:25;Team Meeting;New-York;USA;Vancouver;Canada;Avion;oui
+NewYork_2024110223;KeyPers_NewYork_1231515;Name1515;FistName1515;2024-11-02 10:42:16;Team Meeting;New-York;USA;Tokyo;Japan;Avion;oui
+NewYork_2024110224;KeyPers_NewYork_1230874;Name874;FistName874;2024-11-02 08:09:27;Vocational Training;New-York;USA;Bogota;Colombia;Avion;oui
+NewYork_2024110225;KeyPers_NewYork_1230175;Name175;FistName175;2024-11-02 13:03:19;Development;New-York;USA;Marseille;France;Avion;oui
+NewYork_2024110226;KeyPers_NewYork_1232259;Name2259;FistName2259;2024-11-02 10:49:30;Conference;New-York;USA;Shanghai;China;Avion;oui
+NewYork_2024110227;KeyPers_NewYork_1231968;Name1968;FistName1968;2024-11-02 17:05:34;Team Meeting;New-York;USA;Marseille;France;Avion;oui
+NewYork_2024110228;KeyPers_NewYork_1230706;Name706;FistName706;2024-11-02 07:05:09;Conference;New-York;USA;New-York;USA;Transports en commun;non

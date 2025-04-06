@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202410190;KeyPers_Shanghai_1230053;Name53;FistName53;2024-10-19 09:51:38;Development;Shanghai;China;Buenos Aires;Argentina;Avion;non
+Shanghai_202410191;KeyPers_Shanghai_1230894;Name894;FistName894;2024-10-19 23:23:30;Business Meeting;Shanghai;China;Dubaï;Emirats;Avion;oui
+Shanghai_202410192;KeyPers_Shanghai_1230364;Name364;FistName364;2024-10-19 03:09:59;Development;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202410193;KeyPers_Shanghai_1230095;Name95;FistName95;2024-10-19 03:26:10;Development;Shanghai;China;Washington;USA;Avion;non
+Shanghai_202410194;KeyPers_Shanghai_1230153;Name153;FistName153;2024-10-19 16:19:11;Business Meeting;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_202410195;KeyPers_Shanghai_1230401;Name401;FistName401;2024-10-19 03:08:21;Development;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202410196;KeyPers_Shanghai_1230517;Name517;FistName517;2024-10-19 02:52:13;Conference;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_202410197;KeyPers_Shanghai_1230140;Name140;FistName140;2024-10-19 07:26:19;Team Meeting;Shanghai;China;Sidney;Australia;Avion;oui
+Shanghai_202410198;KeyPers_Shanghai_1230250;Name250;FistName250;2024-10-19 01:53:02;Development;Shanghai;China;Shanghai;China;Transports en commun;oui
+Shanghai_202410199;KeyPers_Shanghai_1230166;Name166;FistName166;2024-10-19 05:17:57;Vocational Training;Shanghai;China;Alger;Algeria;Avion;oui
+Shanghai_2024101910;KeyPers_Shanghai_1230637;Name637;FistName637;2024-10-19 03:30:47;Conference;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_2024101911;KeyPers_Shanghai_1230247;Name247;FistName247;2024-10-19 17:33:25;Team Meeting;Shanghai;China;Osaka;Japan;Avion;oui
+Shanghai_2024101912;KeyPers_Shanghai_1230323;Name323;FistName323;2024-10-19 13:40:21;Conference;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_2024101913;KeyPers_Shanghai_1230129;Name129;FistName129;2024-10-19 20:50:16;Business Meeting;Shanghai;China;Melbourne;Australia;Avion;oui

@@ -1,0 +1,17 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202406200;KeyPers_NewYork_1232815;Name2815;FistName2815;2024-06-20 18:48:04;Development;New-York;USA;Marseille;France;Avion;oui
+NewYork_202406201;KeyPers_NewYork_1230632;Name632;FistName632;2024-06-20 05:19:22;Conference;New-York;USA;Melbourne;Australia;Avion;oui
+NewYork_202406202;KeyPers_NewYork_1232546;Name2546;FistName2546;2024-06-20 21:47:54;Vocational Training;New-York;USA;Stockholm;Suède;Avion;oui
+NewYork_202406203;KeyPers_NewYork_1230372;Name372;FistName372;2024-06-20 02:18:26;Development;New-York;USA;Sao Paulo;Brazil;Avion;non
+NewYork_202406204;KeyPers_NewYork_1232940;Name2940;FistName2940;2024-06-20 06:26:55;Team Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202406205;KeyPers_NewYork_1231323;Name1323;FistName1323;2024-06-20 02:31:38;Development;New-York;USA;Alger;Algeria;Avion;oui
+NewYork_202406206;KeyPers_NewYork_1232954;Name2954;FistName2954;2024-06-20 05:45:14;Business Meeting;New-York;USA;Helsinki;Finlande;Avion;oui
+NewYork_202406207;KeyPers_NewYork_1232228;Name2228;FistName2228;2024-06-20 17:38:38;Team Meeting;New-York;USA;Mexico;Mexico;Avion;oui
+NewYork_202406208;KeyPers_NewYork_1231176;Name1176;FistName1176;2024-06-20 23:22:56;Conference;New-York;USA;London;England;Avion;oui
+NewYork_202406209;KeyPers_NewYork_1231777;Name1777;FistName1777;2024-06-20 03:45:18;Team Meeting;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_2024062010;KeyPers_NewYork_1233061;Name3061;FistName3061;2024-06-20 13:46:50;Business Meeting;New-York;USA;Berlin;Allemagne;Avion;oui
+NewYork_2024062011;KeyPers_NewYork_1231162;Name1162;FistName1162;2024-06-20 23:30:10;Conference;New-York;USA;Marseille;France;Avion;oui
+NewYork_2024062012;KeyPers_NewYork_1231210;Name1210;FistName1210;2024-06-20 19:01:38;Team Meeting;New-York;USA;Lima;Peru;Avion;oui
+NewYork_2024062013;KeyPers_NewYork_1230562;Name562;FistName562;2024-06-20 05:55:03;Conference;Shanghai;China;Bogota;Colombia;Avion;oui
+NewYork_2024062014;KeyPers_NewYork_1232642;Name2642;FistName2642;2024-06-20 09:27:01;Team Meeting;New-York;USA;Rio de Janeiro;Brazil;Avion;non
+NewYork_2024062015;KeyPers_NewYork_1232493;Name2493;FistName2493;2024-06-20 13:57:56;Team Meeting;New-York;USA;Vancouver;Canada;Avion;oui

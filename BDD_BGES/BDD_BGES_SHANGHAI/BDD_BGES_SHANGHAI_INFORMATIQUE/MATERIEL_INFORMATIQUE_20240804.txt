@@ -1,0 +1,5 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202408040;KeyPers_Shanghai_1230428;Name428;FistName428;2024-08-04 15:12:16;PC portable;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202408041;KeyPers_Shanghai_1230039;Name39;FistName39;2024-08-04 10:07:31;imprimante;Laser à poser (<40kg)
+Shanghai_MATERIEL_INFO_202408042;KeyPers_Shanghai_1230931;Name931;FistName931;2024-08-04 15:45:15;PC portable;ZBook
+Shanghai_MATERIEL_INFO_202408043;KeyPers_Shanghai_1230162;Name162;FistName162;2024-08-04 16:09:46;PC portable;MacBook air pre-retina

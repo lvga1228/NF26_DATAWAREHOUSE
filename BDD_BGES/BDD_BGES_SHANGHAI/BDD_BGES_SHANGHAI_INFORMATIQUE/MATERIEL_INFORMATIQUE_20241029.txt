@@ -1,0 +1,7 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202410290;KeyPers_Shanghai_1230918;Name918;FistName918;2024-10-29 13:24:41;PC portable;MacBook pro 15/16pouces
+Shanghai_MATERIEL_INFO_202410291;KeyPers_Shanghai_1230987;Name987;FistName987;2024-10-29 09:39:49; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202410292;KeyPers_Shanghai_1230781;Name781;FistName781;2024-10-29 09:59:41;clavier;modèle par défaut
+Shanghai_MATERIEL_INFO_202410293;KeyPers_Shanghai_1230630;Name630;FistName630;2024-10-29 10:55:16;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202410294;KeyPers_Shanghai_1230131;Name131;FistName131;2024-10-29 16:48:27;PC fixe sans ecran;Optiplex tower
+Shanghai_MATERIEL_INFO_202410295;KeyPers_Shanghai_1230841;Name841;FistName841;2024-10-29 15:35:24;Ecran;32pouces et plus

@@ -1,0 +1,16 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202406190;KeyPers_Shanghai_1230076;Name76;FistName76;2024-06-19 05:18:28;Vocational Training;Shanghai;China;Washington;USA;Avion;oui
+Shanghai_202406191;KeyPers_Shanghai_1230617;Name617;FistName617;2024-06-19 06:46:56;Development;Shanghai;China;Osaka;Japan;Avion;oui
+Shanghai_202406192;KeyPers_Shanghai_1230271;Name271;FistName271;2024-06-19 12:45:05;Conference;Shanghai;China;London;England;Avion;oui
+Shanghai_202406193;KeyPers_Shanghai_1230278;Name278;FistName278;2024-06-19 08:54:41;Team Meeting;Shanghai;China;Mexico;Mexico;Avion;oui
+Shanghai_202406194;KeyPers_Shanghai_1230907;Name907;FistName907;2024-06-19 04:42:17;Business Meeting;Shanghai;China;Wellington;New Zealand;Avion;oui
+Shanghai_202406195;KeyPers_Shanghai_1230077;Name77;FistName77;2024-06-19 22:42:04;Business Meeting;Shanghai;China;Helsinki;Finlande;Avion;oui
+Shanghai_202406196;KeyPers_Shanghai_1230624;Name624;FistName624;2024-06-19 15:32:19;Development;Shanghai;China;Buenos Aires;Argentina;Avion;oui
+Shanghai_202406197;KeyPers_Shanghai_1230896;Name896;FistName896;2024-06-19 08:36:57;Development;Shanghai;China;Bogota;Colombia;Avion;oui
+Shanghai_202406198;KeyPers_Shanghai_1230085;Name85;FistName85;2024-06-19 09:31:08;Business Meeting;Shanghai;China;Melbourne;Australia;Avion;oui
+Shanghai_202406199;KeyPers_Shanghai_1230962;Name962;FistName962;2024-06-19 12:58:50;Business Meeting;Shanghai;China;Lima;Peru;Avion;non
+Shanghai_2024061910;KeyPers_Shanghai_1230871;Name871;FistName871;2024-06-19 05:22:05;Business Meeting;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_2024061911;KeyPers_Shanghai_1230186;Name186;FistName186;2024-06-19 16:15:12;Business Meeting;Shanghai;China;Rabat;Maroc;Avion;oui
+Shanghai_2024061912;KeyPers_Shanghai_1230545;Name545;FistName545;2024-06-19 20:17:25;Development;Shanghai;China;Berlin;Allemagne;Avion;oui
+Shanghai_2024061913;KeyPers_Shanghai_1230960;Name960;FistName960;2024-06-19 18:40:30;Development;Shanghai;China;Melbourne;Australia;Avion;oui
+Shanghai_2024061914;KeyPers_Shanghai_1230701;Name701;FistName701;2024-06-19 02:16:38;Development;Shanghai;China;Montreal;Canada;Avion;oui

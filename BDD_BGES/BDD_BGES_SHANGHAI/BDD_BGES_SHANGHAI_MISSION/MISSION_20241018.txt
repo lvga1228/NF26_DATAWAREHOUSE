@@ -1,0 +1,10 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Shanghai_202410180;KeyPers_Shanghai_1230114;Name114;FistName114;2024-10-18 16:23:12;Conference;Shanghai;China;Pekin;China;Avion;oui
+Shanghai_202410181;KeyPers_Shanghai_1230033;Name33;FistName33;2024-10-18 16:17:35;Team Meeting;Shanghai;China;Los Angeles;USA;Avion;oui
+Shanghai_202410182;KeyPers_Shanghai_1230551;Name551;FistName551;2024-10-18 01:51:03;Business Meeting;Shanghai;China;Melbourne;Australia;Avion;non
+Shanghai_202410183;KeyPers_Shanghai_1230144;Name144;FistName144;2024-10-18 05:29:22;Conference;Shanghai;China;Stockholm;Suède;Avion;non
+Shanghai_202410184;KeyPers_Shanghai_1230252;Name252;FistName252;2024-10-18 14:11:32;Business Meeting;Shanghai;China;Tunis;Tunisie;Avion;non
+Shanghai_202410185;KeyPers_Shanghai_1230050;Name50;FistName50;2024-10-18 18:25:36;Team Meeting;Shanghai;China;Washington;USA;Avion;non
+Shanghai_202410186;KeyPers_Shanghai_1230975;Name975;FistName975;2024-10-18 07:04:27;Team Meeting;Shanghai;China;Dubaï;Emirats;Avion;non
+Shanghai_202410187;KeyPers_Shanghai_1230623;Name623;FistName623;2024-10-18 05:25:46;Vocational Training;Shanghai;China;Bordeaux;France;Avion;non
+Shanghai_202410188;KeyPers_Shanghai_1230034;Name34;FistName34;2024-10-18 01:26:16;Development;Shanghai;China;Los Angeles;USA;Avion;oui

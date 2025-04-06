@@ -1,0 +1,9 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202409040;KeyPers_Shanghai_1230374;Name374;FistName374;2024-09-04 09:34:07; ;modèle par défaut
+Shanghai_MATERIEL_INFO_202409041;KeyPers_Shanghai_1230028;Name28;FistName28;2024-09-04 10:24:55; ;MacBook air pre-retina
+Shanghai_MATERIEL_INFO_202409042;KeyPers_Shanghai_1230249;Name249;FistName249;2024-09-04 15:50:28;PC fixe tout-en-un;iMac 21pouces retina
+Shanghai_MATERIEL_INFO_202409043;KeyPers_Shanghai_1230736;Name736;FistName736;2024-09-04 16:21:21;PC fixe tout-en-un;Mac pro
+Shanghai_MATERIEL_INFO_202409044;KeyPers_Shanghai_1230009;Name9;FistName9;2024-09-04 12:31:33;Smartphone;modèle par défaut
+Shanghai_MATERIEL_INFO_202409045;KeyPers_Shanghai_1230593;Name593;FistName593;2024-09-04 15:51:53; ;PC Fixe (moy)
+Shanghai_MATERIEL_INFO_202409046;KeyPers_Shanghai_1230516;Name516;FistName516;2024-09-04 14:15:36; ;Mac mini
+Shanghai_MATERIEL_INFO_202409047;KeyPers_Shanghai_1230427;Name427;FistName427;2024-09-04 10:42:28;PC portable;EliteBook 6xx

@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202408050;KeyPers_London_1231326;Name1326;FistName1326;2024-08-05 01:07:46;Conference;Paris;France;London;England;Avion;oui
+LONDON_202408051;KeyPers_London_1230807;Name807;FistName807;2024-08-05 13:59:21;Conference;London;England;Lima;Peru;Avion;oui
+LONDON_202408052;KeyPers_London_1231669;Name1669;FistName1669;2024-08-05 02:58:08;Development;London;England;Rabat;Maroc;Avion;oui
+LONDON_202408053;KeyPers_London_1231384;Name1384;FistName1384;2024-08-05 12:43:54;Team Meeting;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_202408054;KeyPers_London_1232193;Name2193;FistName2193;2024-08-05 01:35:46;Team Meeting;London;England;London;England;Transports en commun;oui
+LONDON_202408055;KeyPers_London_1232356;Name2356;FistName2356;2024-08-05 06:51:39;Development;London;England;Oslo;Norvège;Avion;oui
+LONDON_202408056;KeyPers_London_1230954;Name954;FistName954;2024-08-05 18:22:37;Business Meeting;London;England;Tokyo;Japan;Avion;oui
+LONDON_202408057;KeyPers_London_1234119;Name4119;FistName4119;2024-08-05 21:20:18;Vocational Training;London;England;Rabat;Maroc;Avion;oui
+LONDON_202408058;KeyPers_London_1232137;Name2137;FistName2137;2024-08-05 08:42:25;Development;London;England;Stockholm;Suède;Avion;oui
+LONDON_202408059;KeyPers_London_1233427;Name3427;FistName3427;2024-08-05 05:56:51;Development;London;England;Dubaï;Emirats;Avion;oui
+LONDON_2024080510;KeyPers_London_1232161;Name2161;FistName2161;2024-08-05 10:16:49;Conference;London;England;Berlin;Allemagne;Avion;oui
+LONDON_2024080511;KeyPers_London_1233547;Name3547;FistName3547;2024-08-05 12:56:46;Business Meeting;London;England;Alger;Algeria;Avion;oui
+LONDON_2024080512;KeyPers_London_1231551;Name1551;FistName1551;2024-08-05 21:30:58;Business Meeting;London;England;Los Angeles;USA;Avion;oui
+LONDON_2024080513;KeyPers_London_1232856;Name2856;FistName2856;2024-08-05 16:43:55;Conference;London;England;Bogota;Colombia;Avion;oui

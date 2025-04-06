@@ -1,0 +1,14 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Shanghai_MATERIEL_INFO_202407080;KeyPers_Shanghai_1230935;Name935;FistName935;2024-07-08 16:32:41;Vidéo projecteur;Pour salle
+Shanghai_MATERIEL_INFO_202407081;KeyPers_Shanghai_1230554;Name554;FistName554;2024-07-08 14:10:55;PC portable;MacBook air
+Shanghai_MATERIEL_INFO_202407082;KeyPers_Shanghai_1230264;Name264;FistName264;2024-07-08 12:53:41; ;Station de travail (moy)
+Shanghai_MATERIEL_INFO_202407083;KeyPers_Shanghai_1230987;Name987;FistName987;2024-07-08 11:42:52;PC portable;Chromebook 11-13pouces
+Shanghai_MATERIEL_INFO_202407084;KeyPers_Shanghai_1230967;Name967;FistName967;2024-07-08 16:18:22;PC portable;ProBook 
+Shanghai_MATERIEL_INFO_202407085;KeyPers_Shanghai_1230076;Name76;FistName76;2024-07-08 09:25:36;imprimante;Laser A3 (>100kg)
+Shanghai_MATERIEL_INFO_202407086;KeyPers_Shanghai_1230734;Name734;FistName734;2024-07-08 08:31:07;clavier; 
+Shanghai_MATERIEL_INFO_202407087;KeyPers_Shanghai_1230217;Name217;FistName217;2024-07-08 13:53:03;PC fixe sans ecran; 
+Shanghai_MATERIEL_INFO_202407088;KeyPers_Shanghai_1230887;Name887;FistName887;2024-07-08 11:33:04;PC fixe sans ecran;Precision tower 5xxx
+Shanghai_MATERIEL_INFO_202407089;KeyPers_Shanghai_1230137;Name137;FistName137;2024-07-08 09:08:39;PC fixe sans ecran;Precision tower 3xxx
+Shanghai_MATERIEL_INFO_2024070810;KeyPers_Shanghai_1230197;Name197;FistName197;2024-07-08 14:03:42;PC fixe sans ecran;Elite mini
+Shanghai_MATERIEL_INFO_2024070811;KeyPers_Shanghai_1230367;Name367;FistName367;2024-07-08 14:35:46;Vidéo projecteur;modèle par défaut
+Shanghai_MATERIEL_INFO_2024070812;KeyPers_Shanghai_1230899;Name899;FistName899;2024-07-08 16:01:30;Borne wifi;modèle par défaut

@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202406280;KeyPers_NewYork_1230349;Name349;FistName349;2024-06-28 12:38:01;Conference;Los Angeles;USA;Compiègne;France;Avion;oui
+NewYork_202406281;KeyPers_NewYork_1232902;Name2902;FistName2902;2024-06-28 07:46:34;Business Meeting;New-York;USA;Wellington;New Zealand;Avion;oui
+NewYork_202406282;KeyPers_NewYork_1231462;Name1462;FistName1462;2024-06-28 14:29:30;Conference;New-York;USA;New-York;USA;Transports en commun;oui
+NewYork_202406283;KeyPers_NewYork_1232824;Name2824;FistName2824;2024-06-28 18:38:41;Team Meeting;New-York;USA;Compiègne;France;Avion;oui
+NewYork_202406284;KeyPers_NewYork_1230321;Name321;FistName321;2024-06-28 01:35:14;Vocational Training;New-York;USA;Tunis;Tunisie;Avion;oui
+NewYork_202406285;KeyPers_NewYork_1232723;Name2723;FistName2723;2024-06-28 04:28:55;Business Meeting;New-York;USA;Osaka;Japan;Avion;oui
+NewYork_202406286;KeyPers_NewYork_1232878;Name2878;FistName2878;2024-06-28 05:03:57;Team Meeting;New-York;USA;Berlin;Allemagne;Avion;non
+NewYork_202406287;KeyPers_NewYork_1232720;Name2720;FistName2720;2024-06-28 07:05:42;Vocational Training;New-York;USA;Compiègne;France;Avion;oui
+NewYork_202406288;KeyPers_NewYork_1230219;Name219;FistName219;2024-06-28 19:21:57;Business Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202406289;KeyPers_NewYork_1230543;Name543;FistName543;2024-06-28 07:52:34;Vocational Training;Paris;France;Los Angeles;USA;Avion;oui
+NewYork_2024062810;KeyPers_NewYork_1231250;Name1250;FistName1250;2024-06-28 05:45:57;Conference;New-York;USA;Pekin;China;Avion;oui
+NewYork_2024062811;KeyPers_NewYork_1232331;Name2331;FistName2331;2024-06-28 15:02:28;Development;New-York;USA;Lille;France;Avion;oui
+NewYork_2024062812;KeyPers_NewYork_1231704;Name1704;FistName1704;2024-06-28 06:06:48;Conference;New-York;USA;Tokyo;Japan;Avion;oui
+NewYork_2024062813;KeyPers_NewYork_1230140;Name140;FistName140;2024-06-28 12:28:23;Conference;New-York;USA;Helsinki;Finlande;Avion;oui

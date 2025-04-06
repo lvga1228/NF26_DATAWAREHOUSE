@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202409150;KeyPers_Paris_1231287;Name1287;FistName1287;2024-09-15 16:45:09;Développement;Paris;France;Buenos Aires;Argentina;Avion;oui
+Paris_202409151;KeyPers_Paris_1234379;Name4379;FistName4379;2024-09-15 02:10:02;Rencontre entreprises;Paris;France;Rio de Janeiro;Brazil;Avion;oui
+Paris_202409152;KeyPers_Paris_1231397;Name1397;FistName1397;2024-09-15 20:16:20;Conférence;Paris;France;Alger;Algeria;Avion;oui
+Paris_202409153;KeyPers_Paris_1230274;Name274;FistName274;2024-09-15 21:45:43;Formation;Paris;France;Alger;Algeria;Avion;non
+Paris_202409154;KeyPers_Paris_1234189;Name4189;FistName4189;2024-09-15 09:08:22;Rencontre entreprises;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202409155;KeyPers_Paris_1232965;Name2965;FistName2965;2024-09-15 21:34:27;Développement;Paris;France;Compiègne;France;Avion;oui
+Paris_202409156;KeyPers_Paris_1231985;Name1985;FistName1985;2024-09-15 17:16:28;Conférence;Paris;France;Washington;USA;Avion;oui
+Paris_202409157;KeyPers_Paris_1233717;Name3717;FistName3717;2024-09-15 10:45:41;Formation;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_202409158;KeyPers_Paris_1233286;Name3286;FistName3286;2024-09-15 15:51:17;Développement;Paris;France;Washington;USA;Avion;oui
+Paris_202409159;KeyPers_Paris_1233528;Name3528;FistName3528;2024-09-15 11:42:51;Réunion;Paris;France;Lima;Peru;Avion;oui
+Paris_2024091510;KeyPers_Paris_1231138;Name1138;FistName1138;2024-09-15 03:43:01;Réunion;Paris;France;Sidney;Australia;Avion;oui
+Paris_2024091511;KeyPers_Paris_1232767;Name2767;FistName2767;2024-09-15 01:36:24;Rencontre entreprises;Paris;France;Rabat;Maroc;Avion;oui
+Paris_2024091512;KeyPers_Paris_1233239;Name3239;FistName3239;2024-09-15 07:36:09;Développement;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_2024091513;KeyPers_Paris_1232940;Name2940;FistName2940;2024-09-15 17:46:46;Formation;Paris;France;Alger;Algeria;Avion;oui

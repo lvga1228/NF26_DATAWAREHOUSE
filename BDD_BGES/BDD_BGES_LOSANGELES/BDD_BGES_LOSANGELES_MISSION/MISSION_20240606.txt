@@ -1,0 +1,39 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LA_202406060;KeyPers_LA_1231478;Name1478;FistName1478;2024-06-06 21:05:32;Vocational Training;Los Angeles;USA;Dubaï;Emirats;Avion;oui
+LA_202406061;KeyPers_LA_1230509;Name509;FistName509;2024-06-06 23:21:20;Business Meeting;Los Angeles;USA;Shanghai;China;Avion;oui
+LA_202406062;KeyPers_LA_1231123;Name1123;FistName1123;2024-06-06 19:46:47;Team Meeting;Los Angeles;USA;Stockholm;Suède;Avion;oui
+LA_202406063;KeyPers_LA_1232666;Name2666;FistName2666;2024-06-06 17:17:11;Business Meeting;Los Angeles;USA;Sidney;Australia;Avion;oui
+LA_202406064;KeyPers_LA_1231274;Name1274;FistName1274;2024-06-06 20:07:08;Business Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_202406065;KeyPers_LA_1230404;Name404;FistName404;2024-06-06 22:33:43;Vocational Training;Shanghai;China;Sidney;Australia;Avion;non
+LA_202406066;KeyPers_LA_1232675;Name2675;FistName2675;2024-06-06 17:51:58;Conference;Los Angeles;USA;Montreal;Canada;Avion;oui
+LA_202406067;KeyPers_LA_1231876;Name1876;FistName1876;2024-06-06 23:10:27;Vocational Training;Paris;France;Shanghai;China;Avion;oui
+LA_202406068;KeyPers_LA_1231998;Name1998;FistName1998;2024-06-06 21:45:27;Development;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_202406069;KeyPers_LA_1230422;Name422;FistName422;2024-06-06 12:38:59;Conference;Los Angeles;USA;London;England;Avion;oui
+LA_2024060610;KeyPers_LA_1232008;Name2008;FistName2008;2024-06-06 16:04:13;Vocational Training;Los Angeles;USA;Alger;Algeria;Avion;oui
+LA_2024060611;KeyPers_LA_1230759;Name759;FistName759;2024-06-06 18:38:20;Business Meeting;Los Angeles;USA;Washington;USA;Train;oui
+LA_2024060612;KeyPers_LA_1231741;Name1741;FistName1741;2024-06-06 12:23:44;Business Meeting;Los Angeles;USA;Dubaï;Emirats;Avion;oui
+LA_2024060613;KeyPers_LA_1230790;Name790;FistName790;2024-06-06 07:36:48;Team Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2024060614;KeyPers_LA_1230622;Name622;FistName622;2024-06-06 10:08:27;Conference;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_2024060615;KeyPers_LA_1232244;Name2244;FistName2244;2024-06-06 03:22:33;Conference;Los Angeles;USA;Melbourne;Australia;Avion;oui
+LA_2024060616;KeyPers_LA_1231583;Name1583;FistName1583;2024-06-06 06:06:25;Development;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_2024060617;KeyPers_LA_1230873;Name873;FistName873;2024-06-06 16:14:06;Development;Los Angeles;USA;Washington;USA;Train;oui
+LA_2024060618;KeyPers_LA_1231049;Name1049;FistName1049;2024-06-06 20:39:21;Business Meeting;Los Angeles;USA;Lima;Peru;Avion;non
+LA_2024060619;KeyPers_LA_1230115;Name115;FistName115;2024-06-06 02:06:58;Conference;Los Angeles;USA;Auckland;New Zealand;Avion;oui
+LA_2024060620;KeyPers_LA_1231578;Name1578;FistName1578;2024-06-06 16:11:59;Business Meeting;Paris;France;Melbourne;Australia;Avion;oui
+LA_2024060621;KeyPers_LA_1230271;Name271;FistName271;2024-06-06 04:09:51;Conference;Los Angeles;USA;Sidney;Australia;Avion;oui
+LA_2024060622;KeyPers_LA_1232288;Name2288;FistName2288;2024-06-06 22:21:24;Team Meeting;Los Angeles;USA;Los Angeles;USA;Transports en commun;oui
+LA_2024060623;KeyPers_LA_1231929;Name1929;FistName1929;2024-06-06 16:29:32;Business Meeting;Los Angeles;USA;Marseille;France;Avion;oui
+LA_2024060624;KeyPers_LA_1231894;Name1894;FistName1894;2024-06-06 07:44:06;Team Meeting;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_2024060625;KeyPers_LA_1230193;Name193;FistName193;2024-06-06 04:02:15;Team Meeting;Los Angeles;USA;Compiègne;France;Avion;oui
+LA_2024060626;KeyPers_LA_1230697;Name697;FistName697;2024-06-06 14:42:09;Conference;Los Angeles;USA;Dubaï;Emirats;Avion;non
+LA_2024060627;KeyPers_LA_1231686;Name1686;FistName1686;2024-06-06 02:45:44;Development;Los Angeles;USA;Rio de Janeiro;Brazil;Avion;oui
+LA_2024060628;KeyPers_LA_1230229;Name229;FistName229;2024-06-06 01:02:13;Team Meeting;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2024060629;KeyPers_LA_1232058;Name2058;FistName2058;2024-06-06 16:55:07;Conference;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2024060630;KeyPers_LA_1231610;Name1610;FistName1610;2024-06-06 16:31:03;Team Meeting;Los Angeles;USA;Pekin;China;Avion;oui
+LA_2024060631;KeyPers_LA_1230582;Name582;FistName582;2024-06-06 08:46:30;Conference;Los Angeles;USA;Rabat;Maroc;Avion;oui
+LA_2024060632;KeyPers_LA_1230922;Name922;FistName922;2024-06-06 15:56:53;Team Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2024060633;KeyPers_LA_1230023;Name23;FistName23;2024-06-06 01:38:18;Team Meeting;Los Angeles;USA;Mexico;Mexico;Avion;oui
+LA_2024060634;KeyPers_LA_1231646;Name1646;FistName1646;2024-06-06 21:22:55;Conference;Los Angeles;USA;Lima;Peru;Avion;oui
+LA_2024060635;KeyPers_LA_1230385;Name385;FistName385;2024-06-06 04:06:12;Vocational Training;Los Angeles;USA;Los Angeles;USA;Taxi;oui
+LA_2024060636;KeyPers_LA_1231747;Name1747;FistName1747;2024-06-06 08:38:46;Development;Los Angeles;USA;Auckland;New Zealand;Avion;non
+LA_2024060637;KeyPers_LA_1232602;Name2602;FistName2602;2024-06-06 08:07:34;Team Meeting;Los Angeles;USA;Oslo;Norvège;Avion;oui

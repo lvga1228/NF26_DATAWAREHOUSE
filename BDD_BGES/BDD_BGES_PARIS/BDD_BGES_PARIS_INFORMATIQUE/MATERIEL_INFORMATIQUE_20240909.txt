@@ -1,0 +1,13 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+Paris_MATERIEL_INFO_202409090;KeyPers_Paris_1233804;Name3804;FistName3804;2024-09-09 12:24:36;Vidéo projecteur;Pour salle
+Paris_MATERIEL_INFO_202409091;KeyPers_Paris_1231002;Name1002;FistName1002;2024-09-09 09:34:40;Vidéo projecteur;modèle par défaut
+Paris_MATERIEL_INFO_202409092;KeyPers_Paris_1234872;Name4872;FistName4872;2024-09-09 14:13:14;PC fixe sans ecran;Elite (Tower, SFF, One)
+Paris_MATERIEL_INFO_202409093;KeyPers_Paris_1232039;Name2039;FistName2039;2024-09-09 12:19:12;PC portable;EliteBook 10xx
+Paris_MATERIEL_INFO_202409094;KeyPers_Paris_1230390;Name390;FistName390;2024-09-09 14:31:30;PC fixe sans ecran;Elite (Tower, SFF, One)
+Paris_MATERIEL_INFO_202409095;KeyPers_Paris_1230839;Name839;FistName839;2024-09-09 14:47:21;PC fixe tout-en-un;iMac 21pouces
+Paris_MATERIEL_INFO_202409096;KeyPers_Paris_1232040;Name2040;FistName2040;2024-09-09 15:13:01;PC fixe sans ecran; 
+Paris_MATERIEL_INFO_202409097;KeyPers_Paris_1232170;Name2170;FistName2170;2024-09-09 12:41:48;PC fixe sans ecran;modèle par défaut
+Paris_MATERIEL_INFO_202409098;KeyPers_Paris_1233648;Name3648;FistName3648;2024-09-09 10:23:51;PC portable;Precision 3xxx
+Paris_MATERIEL_INFO_202409099;KeyPers_Paris_1230925;Name925;FistName925;2024-09-09 09:02:16; ;modèle par défaut
+Paris_MATERIEL_INFO_2024090910;KeyPers_Paris_1231814;Name1814;FistName1814;2024-09-09 08:07:01; ;Serveur de stockage
+Paris_MATERIEL_INFO_2024090911;KeyPers_Paris_1232877;Name2877;FistName2877;2024-09-09 08:35:47; ;Optiplex All-in-One 7xxx

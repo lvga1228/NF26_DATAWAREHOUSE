@@ -1,0 +1,10 @@
+ID_MATERIELINFO;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_ACHAT;TYPE;MODELE
+NewYork_MATERIEL_INFO_202407110;KeyPers_NewYork_1231396;Name1396;FistName1396;2024-07-11 15:59:46;PC fixe tout-en-un;Optiplex All-in-One 7xxx
+NewYork_MATERIEL_INFO_202407111;KeyPers_NewYork_1232900;Name2900;FistName2900;2024-07-11 13:30:33;Smartphone;modèle par défaut
+NewYork_MATERIEL_INFO_202407112;KeyPers_NewYork_1232565;Name2565;FistName2565;2024-07-11 08:55:48; ;Elite (Tower, SFF, One)
+NewYork_MATERIEL_INFO_202407113;KeyPers_NewYork_1230948;Name948;FistName948;2024-07-11 08:59:33;PC fixe tout-en-un;iMac 21pouces
+NewYork_MATERIEL_INFO_202407114;KeyPers_NewYork_1230746;Name746;FistName746;2024-07-11 13:45:32;PC portable;modèle par défaut
+NewYork_MATERIEL_INFO_202407115;KeyPers_NewYork_1231919;Name1919;FistName1919;2024-07-11 08:52:35;Station d'accueil;modèle par défaut
+NewYork_MATERIEL_INFO_202407116;KeyPers_NewYork_1231181;Name1181;FistName1181;2024-07-11 10:14:15;PC portable;MacBook air pre-retina
+NewYork_MATERIEL_INFO_202407117;KeyPers_NewYork_1231000;Name1000;FistName1000;2024-07-11 12:10:31;PC fixe tout-en-un;modèle par défaut
+NewYork_MATERIEL_INFO_202407118;KeyPers_NewYork_1232421;Name2421;FistName2421;2024-07-11 09:41:02;PC portable;EliteBook 8xx

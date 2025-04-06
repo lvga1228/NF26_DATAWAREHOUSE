@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+LONDON_202405280;KeyPers_London_1231539;Name1539;FistName1539;2024-05-28 20:38:27;Conference;London;England;New-York;USA;Avion;oui
+LONDON_202405281;KeyPers_London_1231946;Name1946;FistName1946;2024-05-28 17:57:43;Conference;London;England;Oslo;Norvège;Avion;oui
+LONDON_202405282;KeyPers_London_1232464;Name2464;FistName2464;2024-05-28 09:55:45;Business Meeting;London;England;Washington;USA;Avion;oui
+LONDON_202405283;KeyPers_London_1234013;Name4013;FistName4013;2024-05-28 19:57:11;Vocational Training;London;England;Sao Paulo;Brazil;Avion;oui
+LONDON_202405284;KeyPers_London_1230752;Name752;FistName752;2024-05-28 13:50:41;Development;London;England;Bogota;Colombia;Avion;oui
+LONDON_202405285;KeyPers_London_1231723;Name1723;FistName1723;2024-05-28 10:54:52;Vocational Training;London;England;Rio de Janeiro;Brazil;Avion;oui
+LONDON_202405286;KeyPers_London_1231608;Name1608;FistName1608;2024-05-28 10:58:19;Business Meeting;London;England;Sidney;Australia;Avion;oui
+LONDON_202405287;KeyPers_London_1230257;Name257;FistName257;2024-05-28 10:14:19;Business Meeting;London;England;Buenos Aires;Argentina;Avion;oui
+LONDON_202405288;KeyPers_London_1232962;Name2962;FistName2962;2024-05-28 16:02:47;Business Meeting;London;England;Berlin;Allemagne;Avion;oui
+LONDON_202405289;KeyPers_London_1233365;Name3365;FistName3365;2024-05-28 16:37:27;Development;London;England;Lille;France;Avion;oui
+LONDON_2024052810;KeyPers_London_1232949;Name2949;FistName2949;2024-05-28 02:57:46;Conference;London;England;Bogota;Colombia;Avion;non
+LONDON_2024052811;KeyPers_London_1232397;Name2397;FistName2397;2024-05-28 22:21:31;Team Meeting;London;England;Tunis;Tunisie;Avion;oui
+LONDON_2024052812;KeyPers_London_1234126;Name4126;FistName4126;2024-05-28 21:52:28;Conference;London;England;Mexico;Mexico;Avion;oui
+LONDON_2024052813;KeyPers_London_1232375;Name2375;FistName2375;2024-05-28 12:41:48;Conference;London;England;New-York;USA;Avion;non

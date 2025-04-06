@@ -1,0 +1,21 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202410120;KeyPers_Paris_1232619;Name2619;FistName2619;2024-10-12 03:47:47;Formation;Paris;France;Dubaï;Emirats;Avion;oui
+Paris_202410121;KeyPers_Paris_1234037;Name4037;FistName4037;2024-10-12 04:24:26;Rencontre entreprises;Paris;France;Oslo;Norvège;Avion;oui
+Paris_202410122;KeyPers_Paris_1234507;Name4507;FistName4507;2024-10-12 04:03:31;Réunion;Paris;France;Vancouver;Canada;Avion;oui
+Paris_202410123;KeyPers_Paris_1231994;Name1994;FistName1994;2024-10-12 23:55:25;Formation;Paris;France;Alger;Algeria;Avion;non
+Paris_202410124;KeyPers_Paris_1232175;Name2175;FistName2175;2024-10-12 23:55:36;Formation;New-York;USA;Bordeaux;France;Avion;oui
+Paris_202410125;KeyPers_Paris_1231750;Name1750;FistName1750;2024-10-12 19:25:47;Formation;Paris;France;Washington;USA;Avion;oui
+Paris_202410126;KeyPers_Paris_1230549;Name549;FistName549;2024-10-12 23:18:41;Réunion;Shanghai;China;Rabat;Maroc;Avion;oui
+Paris_202410127;KeyPers_Paris_1234772;Name4772;FistName4772;2024-10-12 17:34:49;Réunion;Paris;France;Rabat;Maroc;Avion;non
+Paris_202410128;KeyPers_Paris_1234959;Name4959;FistName4959;2024-10-12 08:04:26;Développement;Paris;France;Berlin;Allemagne;Avion;oui
+Paris_202410129;KeyPers_Paris_1233389;Name3389;FistName3389;2024-10-12 13:47:22;Conférence;Paris;France;Lille;France;Train;oui
+Paris_2024101210;KeyPers_Paris_1230972;Name972;FistName972;2024-10-12 02:25:40;Développement;Paris;France;Montreal;Canada;Avion;oui
+Paris_2024101211;KeyPers_Paris_1233057;Name3057;FistName3057;2024-10-12 20:03:31;Formation;Shanghai;China;Oslo;Norvège;Avion;oui
+Paris_2024101212;KeyPers_Paris_1232626;Name2626;FistName2626;2024-10-12 18:16:20;Conférence;Paris;France;Rabat;Maroc;Avion;oui
+Paris_2024101213;KeyPers_Paris_1230632;Name632;FistName632;2024-10-12 05:01:45;Conférence;Paris;France;Washington;USA;Avion;non
+Paris_2024101214;KeyPers_Paris_1234895;Name4895;FistName4895;2024-10-12 02:41:12;Rencontre entreprises;Paris;France;Pekin;China;Avion;oui
+Paris_2024101215;KeyPers_Paris_1233846;Name3846;FistName3846;2024-10-12 07:10:39;Conférence;Paris;France;Marseille;France;Avion;oui
+Paris_2024101216;KeyPers_Paris_1232476;Name2476;FistName2476;2024-10-12 17:37:25;Réunion;Paris;France;Lille;France;Train;oui
+Paris_2024101217;KeyPers_Paris_1231349;Name1349;FistName1349;2024-10-12 09:29:10;Rencontre entreprises;Paris;France;Bogota;Colombia;Avion;oui
+Paris_2024101218;KeyPers_Paris_1234154;Name4154;FistName4154;2024-10-12 11:52:42;Conférence;Paris;France;Shanghai;China;Avion;oui
+Paris_2024101219;KeyPers_Paris_1230214;Name214;FistName214;2024-10-12 05:26:15;Rencontre entreprises;Paris;France;Shanghai;China;Avion;oui

@@ -1,0 +1,8 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+Paris_202407210;KeyPers_Paris_1230051;Name51;FistName51;2024-07-21 18:24:03;Conférence;Paris;France;Sao Paulo;Brazil;Avion;oui
+Paris_202407211;KeyPers_Paris_1232378;Name2378;FistName2378;2024-07-21 21:48:25;Réunion;Paris;France;London;England;Avion;oui
+Paris_202407212;KeyPers_Paris_1232290;Name2290;FistName2290;2024-07-21 09:55:57;Conférence;Paris;France;Auckland;New Zealand;Avion;oui
+Paris_202407213;KeyPers_Paris_1232401;Name2401;FistName2401;2024-07-21 17:23:16;Formation;Paris;France;Shanghai;China;Avion;oui
+Paris_202407214;KeyPers_Paris_1233583;Name3583;FistName3583;2024-07-21 10:52:11;Conférence;Paris;France;Bogota;Colombia;Avion;non
+Paris_202407215;KeyPers_Paris_1231739;Name1739;FistName1739;2024-07-21 22:27:55;Formation;Paris;France;Tunis;Tunisie;Avion;oui
+Paris_202407216;KeyPers_Paris_1230480;Name480;FistName480;2024-07-21 22:14:21;Réunion;Paris;France;Lima;Peru;Avion;oui

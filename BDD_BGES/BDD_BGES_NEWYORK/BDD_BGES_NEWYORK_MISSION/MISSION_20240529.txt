@@ -1,0 +1,15 @@
+ID_MISSION;ID_PERSONNEL;NOM_PERSONNEL;PRENOM_PERSONNEL;DATE_MISSION;TYPE_MISSION;VILLE_DEPART;PAYS_DEPART;VILLE_DESTINATION;PAYS_DESTINATION;TRANSPORT;ALLER_RETOUR
+NewYork_202405290;KeyPers_NewYork_1230883;Name883;FistName883;2024-05-29 11:06:40;Conference;New-York;USA;Osaka;Japan;Avion;oui
+NewYork_202405291;KeyPers_NewYork_1230952;Name952;FistName952;2024-05-29 19:16:01;Vocational Training;New-York;USA;Lille;France;Avion;oui
+NewYork_202405292;KeyPers_NewYork_1230574;Name574;FistName574;2024-05-29 02:32:07;Business Meeting;New-York;USA;Washington;USA;Taxi;oui
+NewYork_202405293;KeyPers_NewYork_1232481;Name2481;FistName2481;2024-05-29 08:09:42;Vocational Training;New-York;USA;Stockholm;Suède;Avion;oui
+NewYork_202405294;KeyPers_NewYork_1230654;Name654;FistName654;2024-05-29 21:58:15;Business Meeting;New-York;USA;Vancouver;Canada;Avion;oui
+NewYork_202405295;KeyPers_NewYork_1231238;Name1238;FistName1238;2024-05-29 09:22:43;Business Meeting;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_202405296;KeyPers_NewYork_1232673;Name2673;FistName2673;2024-05-29 13:50:41;Team Meeting;New-York;USA;Helsinki;Finlande;Avion;non
+NewYork_202405297;KeyPers_NewYork_1232068;Name2068;FistName2068;2024-05-29 06:19:47;Team Meeting;New-York;USA;Bordeaux;France;Avion;oui
+NewYork_202405298;KeyPers_NewYork_1232142;Name2142;FistName2142;2024-05-29 01:40:40;Vocational Training;New-York;USA;Sidney;Australia;Avion;non
+NewYork_202405299;KeyPers_NewYork_1231172;Name1172;FistName1172;2024-05-29 19:57:49;Vocational Training;New-York;USA;Vancouver;Canada;Avion;oui
+NewYork_2024052910;KeyPers_NewYork_1230889;Name889;FistName889;2024-05-29 11:22:22;Conference;New-York;USA;Montreal;Canada;Avion;oui
+NewYork_2024052911;KeyPers_NewYork_1231075;Name1075;FistName1075;2024-05-29 04:21:32;Development;New-York;USA;Washington;USA;Train;oui
+NewYork_2024052912;KeyPers_NewYork_1231737;Name1737;FistName1737;2024-05-29 03:03:59;Business Meeting;Shanghai;China;Dubaï;Emirats;Avion;oui
+NewYork_2024052913;KeyPers_NewYork_1231703;Name1703;FistName1703;2024-05-29 21:46:46;Conference;Paris;France;Melbourne;Australia;Avion;oui
